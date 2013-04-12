@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Raganow</title>
+    <title>RagaNow - <%= @page_title %></title>
     <%= stylesheet_link_tag    "application", :media => "all" %>
     <%= javascript_include_tag "application" %>
     <%= csrf_meta_tags %>
   </head>
   <body>
     <div id="site">
+      <div id="left-column" class="decoration-column"></div>
+      <div id="right-column" class="decoration-column"></div>
       <div id="header">
         <h1>RagaNow</h1>
         <div class="clear"></div>
@@ -18,6 +20,7 @@
       </div>
       <div id="content">
         <%= render partial: "layouts/flash_messages" %>
+        <h1><%= @page_title %></h1>
         <%= yield %>
         <div class="clear"></div>
       </div>
