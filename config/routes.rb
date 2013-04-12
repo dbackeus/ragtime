@@ -1,4 +1,14 @@
 Raganow::Application.routes.draw do
+  resources :ragas do
+    collection do
+      get :suggestion
+    end
+  end
+  resources :clips, only: :create
+  resources :pages, only: :show
+  
+  root :controller => "pages", :action => "show", :id => "home"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

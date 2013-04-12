@@ -1,0 +1,7 @@
+%p
+  - if session[:time_zone_offset]
+    = raga_suggestion
+  - else
+    :javascript
+      var timeZoneOffset = (new Date().getTimezoneOffset()/60)*(-1)
+      $("#raga_suggestion").load("/ragas/suggestion?time_zone_offset="+timeZoneOffset)

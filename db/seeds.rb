@@ -5,3 +5,9 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+yaml = YAML.load_file("#{Rails.root}/db/ragas.yml")
+yaml.values.each do |attributes|
+  puts "Creating rag #{attributes["title"]}"
+  Raga.create!(attributes.except(:id))
+end

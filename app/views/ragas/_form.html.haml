@@ -1,0 +1,13 @@
+- semantic_form_for @raga do |form|
+  - form.inputs do
+    = form.input :title
+    = form.input :description, :required => false
+    = form.input :ascending_scale
+    = form.input :descending_scale
+    = form.input :pakad, :required => false
+    = form.input :drone, :required => false
+    = form.input :time, :as => :select, :collection => Raga.time_options.to_a, :required => false
+    = form.input :chakra, :as => :select, :collection => Raga.chakra_options.to_a, :required => false
+    = form.input :spotify_playlist_url, :required => false
+  - form.buttons do
+    = form.commit_button

@@ -1,0 +1,14 @@
+- title "Listing Ragas"
+
+%table#ragas
+  %thead
+    %tr
+      %th.title= link_to "Title", ragas_path(params.merge(:order => "title"))
+      %th.time= link_to "Time", ragas_path(params.merge(:order => "time"))
+      %th.chakra= link_to "Chakra", ragas_path(params.merge(:order => "chakra"))
+      %th.thaat= link_to "Thaat", ragas_path(params.merge(:order => "thaat"))
+      %th.spotify
+  %tbody
+    = render :partial => @ragas
+
+= link_to 'New Raga', new_raga_path

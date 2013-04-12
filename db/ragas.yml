@@ -1,0 +1,5917 @@
+--- 
+ragas_001: 
+  ascending_scale: "S - r - g - M - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:20.681925"
+  descending_scale: "S' - d - M - g - r - S"
+  description: ~
+  drone: ~
+  id: "1157"
+  pakad: ~
+  samvaadi: d
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "1"
+  title: "Todi, Chhaya"
+  updated_at: "2009-09-13 15:10:20.681925"
+  url: todi-chhaya
+  vaadi: g
+ragas_002: 
+  ascending_scale: "S, R - G - m - P, N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:34.209710"
+  descending_scale: "S' - D - P - m, R - G - m, P - m - R - S"
+  description: ~
+  drone: ~
+  id: "1158"
+  pakad: ~
+  samvaadi: m
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "6"
+  title: "Ranjani, Jan"
+  updated_at: "2009-09-13 15:09:34.209710"
+  url: ranjani-jan
+  vaadi: S
+ragas_003: 
+  ascending_scale: "S - r - G - m - P - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:10.878893"
+  descending_scale: "S' - n - d - P - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1159"
+  pakad: "S, R - G  - m, P - d, P - m, g - R - g - S"
+  samvaadi: "n"
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "6"
+  title: "Mohini, Ahi"
+  updated_at: "2009-09-13 15:09:10.878893"
+  url: mohini-ahi
+  vaadi: m
+ragas_004: 
+  ascending_scale: "S - g - m - P - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:18.573456"
+  descending_scale: "S' - n - P - D - P - m - g - S"
+  description: ~
+  drone: ~
+  id: "1160"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "3"
+  title: "Chandrika, Udan"
+  updated_at: "2009-09-13 14:57:18.573456"
+  url: chandrika-udan
+  vaadi: P
+ragas_005: 
+  ascending_scale: "S - R - (m)g - m - P, (m)g - m - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:28.525298"
+  descending_scale: "S' - n - D - P - m - P - (m)g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1161"
+  pakad: "P - m - P - D - (m)g - m - R - S - R - (m)g"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: "Kanada, Bageshree"
+  updated_at: "2009-09-13 14:58:28.525298"
+  url: kanada-bageshree
+  vaadi: m
+ragas_006: 
+  ascending_scale: "S - R - g - m - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:26.733769"
+  descending_scale: "S' - N - d - P - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1162"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: ~
+  time: m
+  title: Kirwani
+  updated_at: "2009-09-13 15:08:26.733769"
+  url: kirwani
+  vaadi: ~
+ragas_007: 
+  ascending_scale: "S - r - g - r - M - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:34.861352"
+  descending_scale: "S' - N - d - M - g - r - g - S"
+  description: ~
+  drone: ~
+  id: "1163"
+  pakad: ~
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "2"
+  title: "Ranjani, Kaam"
+  updated_at: "2009-09-13 15:09:34.861352"
+  url: ranjani-kaam
+  vaadi: D
+ragas_008: 
+  ascending_scale: "S, R - G - m - P, D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:11.513365"
+  descending_scale: "S', N - P, m - R, S"
+  description: ~
+  drone: ~
+  id: "1164"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "3"
+  title: "Mohini, Chitta"
+  updated_at: "2009-09-13 15:09:11.513365"
+  url: mohini-chitta
+  vaadi: R
+ragas_009: 
+  ascending_scale: "S - R - g - m - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:19.187009"
+  descending_scale: "S' - d - P - m - R - S"
+  description: ~
+  drone: ~
+  id: "1165"
+  pakad: ~
+  samvaadi: R
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: "Chandrika, Uday"
+  updated_at: "2009-09-13 14:57:19.187009"
+  url: chandrika-uday
+  vaadi: d
+ragas_010: 
+  ascending_scale: "S - R - G - (R)G - m, m - P - (m)g, D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:07.165501"
+  descending_scale: "S' - D - n - P, (m)g - (m)g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1166"
+  pakad: "S - (R)'n - (S)'n - S, S - R - (m)g - (m)g - m - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: "Kanada, Gunji"
+  updated_at: "2009-09-13 15:08:07.165501"
+  url: kanada-gunji
+  vaadi: P
+ragas_011: 
+  ascending_scale: "S - R - g, P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:27.379131"
+  descending_scale: "S' - n - P, g - R - g - R - S"
+  description: ~
+  drone: ~
+  id: "1167"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: Kohal
+  updated_at: "2009-09-13 15:08:27.379131"
+  url: kohal
+  vaadi: R
+ragas_012: 
+  ascending_scale: "S - G - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:35.622802"
+  descending_scale: "S' - N - D - n - P - m - G - S"
+  description: ~
+  drone: ~
+  id: "1168"
+  pakad: ~
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "1"
+  title: "Ranjani, Kamal"
+  updated_at: "2009-09-13 15:09:35.622802"
+  url: ranjani-kamal
+  vaadi: D
+ragas_013: 
+  ascending_scale: "S - R - G - m - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:19.893208"
+  descending_scale: "S' - N - D - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1169"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "5"
+  title: "Chandrika, Uday Ravi"
+  updated_at: "2009-09-13 14:57:19.893208"
+  url: chandrika-uday-ravi
+  vaadi: m
+ragas_014: 
+  ascending_scale: "S - R - G - m - P - N - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:28.035052"
+  descending_scale: "S' - N - P - D - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1170"
+  pakad: ~
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "1"
+  title: Kolahal
+  updated_at: "2009-09-13 15:08:28.035052"
+  url: kolahal
+  vaadi: D
+ragas_015: 
+  ascending_scale: "S - r - M - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:36.380663"
+  descending_scale: "S' - N - d - N - P - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1171"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "6"
+  title: "Ranjani, Kusum"
+  updated_at: "2009-09-13 15:09:36.380663"
+  url: ranjani-kusum
+  vaadi: P
+ragas_016: 
+  ascending_scale: "S - R - g - P - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:28.670073"
+  descending_scale: "S' - n - D - P - g - R - S"
+  description: ~
+  drone: ~
+  id: "1172"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "4"
+  title: Kolhaas
+  updated_at: "2009-09-13 15:08:28.670073"
+  url: kolhaas
+  vaadi: P
+ragas_017: 
+  ascending_scale: "'N - r - G, m, N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:37.030455"
+  descending_scale: "r' - S', N - m, G, m - r - G - r - S"
+  description: ~
+  drone: ~
+  id: "1173"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "8"
+  title: "Ranjani, Megh"
+  updated_at: "2009-09-13 15:09:37.030455"
+  url: ranjani-megh
+  vaadi: m
+ragas_018: 
+  ascending_scale: "S - r - G - M - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:29.357910"
+  descending_scale: "S' - N - P - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1174"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "5"
+  title: Koumari
+  updated_at: "2009-09-13 15:08:29.357910"
+  url: koumari
+  vaadi: ~
+ragas_019: 
+  ascending_scale: "S - R - g - P - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:29.964137"
+  descending_scale: "S' - n - d - P - d - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1175"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: Kripavati
+  updated_at: "2009-09-13 15:08:29.964137"
+  url: kripavati
+  vaadi: ~
+ragas_020: 
+  ascending_scale: "S - r - S - G - m, D - P -  G - M - D - S'"
+  chakra: left_nabhi
+  created_at: "2009-09-12 14:01:08.084188"
+  descending_scale: "r' - N - D - P - m - G - M - G - r - S"
+  description: ""
+  drone: ""
+  id: "1176"
+  pakad: "S - D - P - D - m - P - G - M - D - S, r - N - D - P - D - m - P - G - r - S"
+  samvaadi: S'
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/0zjDNF9RIzMnLv8QsD82hv"
+  thaat: Marwa
+  time: "8"
+  title: Bhatiyar
+  updated_at: "2009-09-13 14:56:56.037095"
+  url: bhatiyar
+  vaadi: m
+ragas_021: 
+  ascending_scale: "S - g - m - d - n - S'"
+  chakra: void
+  created_at: "2009-09-12 16:51:56.538816"
+  descending_scale: "S' - n - d - m - g - S"
+  description: ""
+  drone: "Sa Ma"
+  id: "1177"
+  pakad: "G - m - g - R - S - 'N - S - 'D - 'n - S - G - m"
+  samvaadi: S
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/6XhmRUwNsi3DOipnSLCJFw"
+  thaat: Bhairavi
+  time: "7"
+  title: Malkauns
+  updated_at: "2009-09-13 15:08:57.915324"
+  url: malkauns
+  vaadi: m
+ragas_022: 
+  ascending_scale: "S - r - G - m - P - d - N - S'"
+  chakra: left_heart
+  created_at: "2009-09-12 17:00:58.302941"
+  descending_scale: "S' - N - d - P - m - G - r - S"
+  description: "According to mythology, it was the first rag. It is belived that it emanated directly from the face of Mahadev (Shiva)."
+  drone: "Sa Pa"
+  id: "1178"
+  pakad: "G - m - P - d - d - P - m - G - r - r - S"
+  samvaadi: r
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/2dYfwlNlJ6c8R0h9WR7KmJ"
+  thaat: Bhairav
+  time: "1"
+  title: Bhairav
+  updated_at: "2009-09-13 14:56:41.495491"
+  url: bhairav
+  vaadi: d
+ragas_023: 
+  ascending_scale: "S - R - G - M - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:30.615531"
+  descending_scale: "S' - N - M - G - R - S"
+  description: ~
+  drone: ~
+  id: "1179"
+  pakad: ~
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "6"
+  title: Kumudaki
+  updated_at: "2009-09-13 15:08:30.615531"
+  url: kumudaki
+  vaadi: G
+ragas_024: 
+  ascending_scale: "'N - S - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:46.534411"
+  descending_scale: "S - n - D - P - m - P - g, m - P - (m)g - R - S - 'N - 'N - S"
+  description: ~
+  drone: ~
+  id: "1180"
+  pakad: "S' - G - m - P, P - n - D - P, m - P - (m)g - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "3"
+  title: Haunskinkini
+  updated_at: "2009-09-13 14:57:46.534411"
+  url: haunskinkini
+  vaadi: P
+ragas_025: 
+  ascending_scale: "'N - S, G - R, m - G, P - D - m - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:31.475549"
+  descending_scale: "S' - P, D - m, P - G, m - P - R - S"
+  description: ~
+  drone: ~
+  id: "1181"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "7"
+  title: Lajwanti
+  updated_at: "2009-09-13 15:08:31.475549"
+  url: lajwanti
+  vaadi: P
+ragas_026: 
+  ascending_scale: "S - R - G - m - P - m - G - m - P - N - S'"
+  chakra: vishuddhi
+  created_at: "2009-09-12 17:06:59.861145"
+  descending_scale: "S' - n - D - P - m - G - R - g - R - S"
+  description: ""
+  drone: ""
+  id: "1182"
+  pakad: "R - g - R - S, 'N - S - 'D - 'n - R"
+  samvaadi: P
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/4CdMf9otGXLW3vVdm9N2mV"
+  thaat: Kafi
+  time: "5"
+  title: Jaijaiwanti
+  updated_at: "2009-09-13 14:57:53.751894"
+  url: jaijaiwanti
+  vaadi: R
+ragas_027: 
+  ascending_scale: "S - G - M - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:38.658837"
+  descending_scale: "S' - N - d - P, M - m - G, M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1183"
+  pakad: "S' - N - D - P, M - m - g"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "7"
+  title: "Basant Pancham"
+  updated_at: "2009-09-13 14:56:38.658837"
+  url: basant-pancham
+  vaadi: S'
+ragas_028: 
+  ascending_scale: "S - r - G - M - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:47.136770"
+  descending_scale: "S' - N - P - M - r - S"
+  description: ~
+  drone: ~
+  id: "1184"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "5"
+  title: Haunsnad
+  updated_at: "2009-09-13 14:57:47.136770"
+  url: haunsnad
+  vaadi: S
+ragas_029: 
+  ascending_scale: "'N - r - G - m - M - m, - G - M - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:32.260861"
+  descending_scale: "S' - N - d - M - m - G - r - S"
+  description: ~
+  drone: ~
+  id: "1185"
+  pakad: "'N - r - G - m -  d - m - d - M - m, G - M - G - r - S"
+  samvaadi: S'
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "8"
+  title: Lalit
+  updated_at: "2009-09-13 15:08:32.260861"
+  url: lalit
+  vaadi: m
+ragas_030: 
+  ascending_scale: "S - R - G - P - D - S'"
+  chakra: agnya
+  created_at: "2009-09-12 17:13:18.408250"
+  descending_scale: "S' - D - P - G - R - S - 'D - S"
+  description: ""
+  drone: "Sa Pa"
+  id: "1186"
+  pakad: "S - G - R - S - 'D - S - R - G"
+  samvaadi: D
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/0qwOXKgtcCiQDcCDU3t0gB"
+  thaat: Kalyan
+  time: "5"
+  title: Bhup
+  updated_at: "2009-09-13 15:24:45.065830"
+  url: bhup
+  vaadi: G
+ragas_031: 
+  ascending_scale: "S - R - g - M - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:05.254292"
+  descending_scale: "S' - N - d - P - M - g - R - S"
+  description: ~
+  drone: ~
+  id: "1187"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "5"
+  title: "Shimendra Madhyam"
+  updated_at: "2009-09-13 15:10:05.254292"
+  url: shimendra-madhyam
+  vaadi: P
+ragas_032: 
+  ascending_scale: "S - G - m - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:47.861421"
+  descending_scale: "S' - N - D - P - m - G - m - R - S"
+  description: ~
+  drone: ~
+  id: "1188"
+  pakad: "G - m - D - N - S, N - D - P - m - G - m - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "6"
+  title: Hemant
+  updated_at: "2009-09-13 14:57:47.861421"
+  url: hemant
+  vaadi: m
+ragas_033: 
+  ascending_scale: "S - g - m - D - n - S'"
+  chakra: left_agnya
+  created_at: "2009-09-12 17:24:01.393645"
+  descending_scale: "S' - n - D - m - P - D - g, m - g - R - S"
+  description: ""
+  drone: ""
+  id: "1189"
+  pakad: "'n - S - m - g - m - D - n - D - m, m - P - D - g - m - g - R - S"
+  samvaadi: S
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/3zOdSbIyWnJkulGXtuDz4O"
+  thaat: Kafi
+  time: "7"
+  title: Bageshree
+  updated_at: "2009-09-13 15:24:09.814586"
+  url: bageshree
+  vaadi: m
+ragas_034: 
+  ascending_scale: "S - m - g - M - r - g - m - P, n - D - n - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:39.369161"
+  descending_scale: "S' - d - P - m - R - S"
+  description: ~
+  drone: ~
+  id: "1190"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "1"
+  title: "Basant, Gambhir"
+  updated_at: "2009-09-13 14:56:39.369161"
+  url: basant-gambhir
+  vaadi: m
+ragas_035: 
+  ascending_scale: "S - R - g - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:06.135669"
+  descending_scale: "S - D - P - g - R - S"
+  description: ~
+  drone: ~
+  id: "1191"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: Shivranjani
+  updated_at: "2009-09-13 15:10:06.135669"
+  url: shivranjani
+  vaadi: ~
+ragas_036: 
+  ascending_scale: "S - R - P - G - m - P - n - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:54.743540"
+  descending_scale: "S' - D - n - m - P - D - P - m - G - m - P - (m)g(m)g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1192"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: m
+  title: "Malhar, Ramdasi"
+  updated_at: "2009-09-13 15:08:54.743540"
+  url: malhar-ramdasi
+  vaadi: m
+ragas_037: 
+  ascending_scale: "S - r - M - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:48.464218"
+  descending_scale: "S' - N - d - P - M - g - r - S'"
+  description: ~
+  drone: ~
+  id: "1193"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "1"
+  title: Hemavanti
+  updated_at: "2009-09-13 14:57:48.464218"
+  url: hemavanti
+  vaadi: ~
+ragas_038: 
+  ascending_scale: "S - m - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:32.913453"
+  descending_scale: "r' - N - d - P - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1194"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "1"
+  title: "Lalit Mangal"
+  updated_at: "2009-09-13 15:08:32.913453"
+  url: lalit-mangal
+  vaadi: S
+ragas_039: 
+  ascending_scale: "S - R - m - P - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:39.979628"
+  descending_scale: "S' - n - P - m - g - R - m - g - S"
+  description: ~
+  drone: ~
+  id: "1195"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "7"
+  title: "Basant, Kanak"
+  updated_at: "2009-09-13 14:56:39.979628"
+  url: basant-kanak
+  vaadi: m
+ragas_040: 
+  ascending_scale: "S - (m)R - m - P - d - P, m - P - (n)d - (n)d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:06.770315"
+  descending_scale: "S' - (n)d - P, d - m - P, (m)r - (m)r - S"
+  description: ~
+  drone: ~
+  id: "1196"
+  pakad: "m - P - d - m - P, (m)R - m - P, (m)R - (m)R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "1"
+  title: Shobhavari
+  updated_at: "2009-09-13 15:10:06.770315"
+  url: shobhavari
+  vaadi: P
+ragas_041: 
+  ascending_scale: "S - R - m - P - n - D - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:55.502801"
+  descending_scale: "S' - n - D - m - P - n - D - P - m - R - S"
+  description: ~
+  drone: ~
+  id: "1197"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: m
+  title: "Malhar, Sur"
+  updated_at: "2009-09-13 15:08:55.502801"
+  url: malhar-sur
+  vaadi: m
+ragas_042: 
+  ascending_scale: "S - r - G - m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:49.738421"
+  descending_scale: "S' - n - D - P - m - G - r - S"
+  description: ~
+  drone: ~
+  id: "1198"
+  pakad: ~
+  samvaadi: R
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "8"
+  title: Hevitri
+  updated_at: "2009-09-13 14:57:49.738421"
+  url: hevitri
+  vaadi: P
+ragas_043: 
+  ascending_scale: "S - r - M - P - d - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:11.816703"
+  descending_scale: "S' - N - r - N - d - P - M - d - P - M - r - S"
+  description: ~
+  drone: ~
+  id: "1199"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "5"
+  title: "Kalyan, Chandra"
+  updated_at: "2009-09-13 14:58:11.816703"
+  url: kalyan-chandra
+  vaadi: P
+ragas_044: 
+  ascending_scale: "N - r - G - m, M - G, M - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:33.666763"
+  descending_scale: "S' - N - d, M - d - M - m - G, P - G - r - S"
+  description: ~
+  drone: ~
+  id: "1200"
+  pakad: "M - d - N, d - P, d - m, P - G, r - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "1"
+  title: "Lalit Pancham"
+  updated_at: "2009-09-13 15:08:33.666763"
+  url: lalit-pancham
+  vaadi: m
+ragas_045: 
+  ascending_scale: "S - R - g~ - m - P - d~ - n - S'"
+  chakra: left_sahasrara
+  created_at: "2009-09-12 17:40:17.472007"
+  descending_scale: "R' - n - S' - d~ - n - P, m - P - g~ - m - R - S"
+  description: ""
+  drone: "Sa Pa"
+  id: "1201"
+  pakad: "S - R - g~, R - S - 'd~, 'n - R - S"
+  samvaadi: P
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/0dqhn5XGEapbPtt29CGijJ"
+  thaat: Asavari
+  time: "6"
+  title: "Kanada, Darbari"
+  updated_at: "2009-09-13 15:26:09.930335"
+  url: kanada-darbari
+  vaadi: R
+ragas_046: 
+  ascending_scale: "S - R - m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:40.654472"
+  descending_scale: "R' - N - P - D - m - P - G - S"
+  description: ~
+  drone: ~
+  id: "1202"
+  pakad: "S - R - m - P - D - m - P - G -  S - R - P - m"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: m
+  title: Bengali
+  updated_at: "2009-09-13 14:56:40.654472"
+  url: bengali
+  vaadi: S
+ragas_047: 
+  ascending_scale: "S - r - 'N - 'd - 'N, r - G, M - G, M - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:56.253054"
+  descending_scale: "S' - r' - N, d - P, N - (d)M, G, M - 'N - r - S"
+  description: ~
+  drone: ~
+  id: "1203"
+  pakad: "S - r - 'N - 'd 'N, P d - M - G, M - G - r - G"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "5"
+  title: Maligaura
+  updated_at: "2009-09-13 15:08:56.253054"
+  url: maligaura
+  vaadi: S
+ragas_048: 
+  ascending_scale: "S - G - M, D - N - D, S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:51.136404"
+  descending_scale: "S' - r - N - D, M - g, P - G - S"
+  description: ~
+  drone: ~
+  id: "1204"
+  pakad: ~
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "8"
+  title: "Hindol, Marg"
+  updated_at: "2009-09-13 14:57:51.136404"
+  url: hindol-marg
+  vaadi: D
+ragas_049: 
+  ascending_scale: "S - R - G - M - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:12.429383"
+  descending_scale: "S' - N - D - P - M - G - R, m - (m)R - (R)'D - S"
+  description: ~
+  drone: ~
+  id: "1205"
+  pakad: "D - P - M - G - R, m - (m)R - (R)'D - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: "Kalyan, Durga"
+  updated_at: "2009-09-13 14:58:12.429383"
+  url: kalyan-durga
+  vaadi: S
+ragas_050: 
+  ascending_scale: "N - r - G - m, M - m - G, M - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:34.330047"
+  descending_scale: "S' - N - R' - N - D, M - D - M - m - G, r - G - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1206"
+  pakad: "m - M - m - G , M - m - m - r - G, N - D - M - m - g - r - G"
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "5"
+  title: Lalitavari
+  updated_at: "2009-09-13 15:08:34.330047"
+  url: lalitavari
+  vaadi: D
+ragas_051: 
+  ascending_scale: "S - r - P, M - P - D - P -  N - S' - r' - S'"
+  chakra: ""
+  created_at: "2009-09-13 12:03:18.344093"
+  descending_scale: "S' - r' - N - d - P(M)P - r - G - r - S"
+  description: ""
+  drone: ""
+  id: "1207"
+  pakad: "r - P, M - P - d - P, r - G - r - S"
+  samvaadi: P
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/4vJf5HMAsSeShy3bMoTmx2"
+  thaat: Poorvi
+  time: "4"
+  title: Shree
+  updated_at: "2009-09-13 15:10:07.519315"
+  url: shree
+  vaadi: r
+ragas_052: 
+  ascending_scale: "S - r - G - m - P - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:42.221259"
+  descending_scale: "S' - n - D - P - m - G - r - S"
+  description: ~
+  drone: ~
+  id: "1208"
+  pakad: "m - P - D - n - D - P - m - P - G - mr - r - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Bhairav, Ahir"
+  updated_at: "2009-09-13 14:56:42.221259"
+  url: bhairav-ahir
+  vaadi: m
+ragas_053: 
+  ascending_scale: "'N - S - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:05.389200"
+  descending_scale: "S' - N - D - P, n - D - P, D - G - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1209"
+  pakad: "n - D - P, D - G - m - G, R - S"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "6"
+  title: Bihagda
+  updated_at: "2009-09-13 14:57:05.389200"
+  url: bihagda
+  vaadi: G
+ragas_054: 
+  ascending_scale: "S - m - P, D - n - D, S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:29.791285"
+  descending_scale: "S' - N, D - P, m - S"
+  description: ~
+  drone: ~
+  id: "1210"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: "Varari, Kantal"
+  updated_at: "2009-09-13 15:10:29.791285"
+  url: varari-kantal
+  vaadi: m
+ragas_055: 
+  ascending_scale: "S - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:08.397993"
+  descending_scale: "S' - n, m - P, P - G - m - G, S"
+  description: ~
+  drone: ~
+  id: "1211"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: "Shree, Hauns"
+  updated_at: "2009-09-13 15:10:08.397993"
+  url: shree-hauns
+  vaadi: P
+ragas_056: 
+  ascending_scale: "'N - S - G - P - N - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:57.015083"
+  descending_scale: "S' - N - D - P - G - P - G - r - S"
+  description: ~
+  drone: ~
+  id: "1212"
+  pakad: ~
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "5"
+  title: Malin
+  updated_at: "2009-09-13 15:08:57.015083"
+  url: malin
+  vaadi: G
+ragas_057: 
+  ascending_scale: "S - R - m - D - n - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:13.585412"
+  descending_scale: "S' - n - D - P - m - R - S - 'n - 'D - S"
+  description: ~
+  drone: ~
+  id: "1213"
+  pakad: "P - D - n - D - m - R - (S') - n - 'd - S"
+  samvaadi: m
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: "Kalyan, Gorakh"
+  updated_at: "2009-09-13 14:58:13.585412"
+  url: kalyan-gorakh
+  vaadi: S
+ragas_058: 
+  ascending_scale: "'N - r - G - m, M - m, G - P, d - n - d - P, M - d, S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:34.964943"
+  descending_scale: "r' - N - d - P, G - M - m - G, M - G - r - S'"
+  description: ~
+  drone: ~
+  id: "1214"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "8"
+  title: Lalitkali
+  updated_at: "2009-09-13 15:08:34.964943"
+  url: lalitkali
+  vaadi: m
+ragas_059: 
+  ascending_scale: "S - R - M - P - D - P - S'"
+  chakra: ""
+  created_at: "2009-09-13 12:10:24.077642"
+  descending_scale: "S' - n - D - P, M - P -(P)R - S"
+  description: ""
+  drone: ""
+  id: "1215"
+  pakad: "M - P - D - P - S', S' - n - D - P, M - M - P - R, S"
+  samvaadi: R
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/1D6Y6BT5UHNCujquq9au19"
+  thaat: ~
+  time: "5"
+  title: Saraswati
+  updated_at: "2009-09-13 15:10:01.900937"
+  url: saraswati
+  vaadi: P
+ragas_060: 
+  ascending_scale: "S - r - G - m - P - m, P - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:42.986665"
+  descending_scale: "S' - D - n - P - m - G - m - r - S"
+  description: ~
+  drone: ~
+  id: "1216"
+  pakad: "r - G - m, P - S' - D - n - P - m - G - m - r"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "1"
+  title: "Bhairav, Anand"
+  updated_at: "2009-09-13 14:56:42.986665"
+  url: bhairav-anand
+  vaadi: m
+ragas_061: 
+  ascending_scale: "S - GR - G - P - ND - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:06.119883"
+  descending_scale: "S' - N - D - n - D - P - m - G - m - R - S"
+  description: ~
+  drone: ~
+  id: "1217"
+  pakad: "G - P - D - n - S', S' - N - D - n - D - P - m - G - m - R - S"
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "1"
+  title: "Bilawal, Alahaiya"
+  updated_at: "2009-09-13 14:57:06.119883"
+  url: bilawal-alahaiya
+  vaadi: D
+ragas_062: 
+  ascending_scale: "S - R, m - P, n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:30.850544"
+  descending_scale: "S' - n, D - n, P - m, G - R - S"
+  description: ~
+  drone: ~
+  id: "1218"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: "Varari, Karank"
+  updated_at: "2009-09-13 15:10:30.850544"
+  url: varari-karank
+  vaadi: R
+ragas_063: 
+  ascending_scale: "S - r - P, P - d - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:09.179666"
+  descending_scale: "S' - N - r - N - d - P - G - r, G - r - S"
+  description: ~
+  drone: ~
+  id: "1219"
+  pakad: "r - r - P, N - d - P, G - r - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "5"
+  title: Shreetank
+  updated_at: "2009-09-13 15:10:09.179666"
+  url: shreetank
+  vaadi: P
+ragas_064: 
+  ascending_scale: "'N - S - G, M - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:22.359980"
+  descending_scale: "S' - N - d - P, M - P - d - P, m - G - r - S"
+  description: ~
+  drone: ~
+  id: "1220"
+  pakad: "S' - N - d - P, M - P - d - P, G - m - G, - M - G - r - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "7"
+  title: Paraj
+  updated_at: "2009-09-13 15:09:22.359980"
+  url: paraj
+  vaadi: S'
+ragas_065: 
+  ascending_scale: "S - g - m - d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:58.544567"
+  descending_scale: "S' - n - d - n - d - m - P - g - m - g - S"
+  description: ~
+  drone: ~
+  id: "1221"
+  pakad: "d - n - d - m - P - g - m - g - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "7"
+  title: "Malkauns, Pancham"
+  updated_at: "2009-09-13 15:08:58.544567"
+  url: malkauns-pancham
+  vaadi: m
+ragas_066: 
+  ascending_scale: "'P - 'D - 'P - S - R - S - G - m - P - D -  P - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:17.247010"
+  descending_scale: "S - D - P - G - m - P - G - m - R - S"
+  description: ~
+  drone: ~
+  id: "1222"
+  pakad: "P - D - P - S - R - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "5"
+  title: "Kalyan, Hem"
+  updated_at: "2009-09-13 14:58:17.247010"
+  url: kalyan-hem
+  vaadi: S
+ragas_067: 
+  ascending_scale: "S - R - G - m, D - P, D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:35.722320"
+  descending_scale: "R' - N - S' - n - D - P - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1223"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: Lankeshree
+  updated_at: "2009-09-13 15:08:35.722320"
+  url: lankeshree
+  vaadi: m
+ragas_068: 
+  ascending_scale: "S - R - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:22.519714"
+  descending_scale: "S' - N - d - P - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1224"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "1"
+  title: "Anand Leela"
+  updated_at: "2009-09-13 14:56:22.519714"
+  url: anand-leela
+  vaadi: m
+ragas_069: 
+  ascending_scale: "S - r - m - P - n - S"
+  chakra: ~
+  created_at: "2009-09-13 14:56:43.723114"
+  descending_scale: "S - n - P - m - r - S"
+  description: ~
+  drone: ~
+  id: "1225"
+  pakad: "r - m - P, n - P - n, n - m - r - n, P - n - r - S"
+  samvaadi: m
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Bhairav, Bairagi"
+  updated_at: "2009-09-13 14:56:43.723114"
+  url: bhairav-bairagi
+  vaadi: "n"
+ragas_070: 
+  ascending_scale: "S - (G)R - (P)G - P, N - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:06.875359"
+  descending_scale: "S - N - D - P, (D)P - m - G - R, (R) - 'N - R - 'N, R - G - m - G - (R)G - R - S"
+  description: ~
+  drone: ~
+  id: "1226"
+  pakad: "G - m - G - R, 'N - R - 'N, G - G - R - 'N - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "1"
+  title: "Bilawal, Devgiri"
+  updated_at: "2009-09-13 14:57:06.875359"
+  url: bilawal-devgiri
+  vaadi: S
+ragas_071: 
+  ascending_scale: "S - G, M - D - M - n, M - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:51.756047"
+  descending_scale: "S', N - D - N, D - M - G, S"
+  description: ~
+  drone: ~
+  id: "1227"
+  pakad: ~
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: "Hindol, Saanjh Ki"
+  updated_at: "2009-09-13 14:57:51.756047"
+  url: hindol-saanjh-ki
+  vaadi: G
+ragas_072: 
+  ascending_scale: "S - r - g - P, D - n - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:31.504904"
+  descending_scale: "S' - n - D - P, D - n - D - P, g - P, r - g - r - S"
+  description: ~
+  drone: ~
+  id: "1228"
+  pakad: "S - r - g - P, - d - n - d - P, r - g - r - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "2"
+  title: "Varari, Salag"
+  updated_at: "2009-09-13 15:10:31.504904"
+  url: varari-salag
+  vaadi: P
+ragas_073: 
+  ascending_scale: "'N - S - g - M - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:09.842994"
+  descending_scale: "S' - N - P - M - g - r - S"
+  description: ~
+  drone: ~
+  id: "1229"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "1"
+  title: Shreevanti
+  updated_at: "2009-09-13 15:10:09.842994"
+  url: shreevanti
+  vaadi: ~
+ragas_074: 
+  ascending_scale: "'N - S - g - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:23.130118"
+  descending_scale: "S' - N - D - P - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1230"
+  pakad: "P - g - m - P - N - D - P - m - d - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "3"
+  title: Patadeep
+  updated_at: "2009-09-13 15:09:23.130118"
+  url: patadeep
+  vaadi: P
+ragas_075: 
+  ascending_scale: "S - (m)g - m - (n)d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:59.185168"
+  descending_scale: "S' - n - (n)d - m - (m)g, m - P - m - g, (S)'n - R - S"
+  description: ~
+  drone: ~
+  id: "1231"
+  pakad: "S - (m)g - S - R - S, m - d - n - d - m - g, m - P - m - g - S - R - S, S' - n - d, m - P - m - g, S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "7"
+  title: "Malkauns, Sampoorna"
+  updated_at: "2009-09-13 15:08:59.185168"
+  url: malkauns-sampoorna
+  vaadi: m
+ragas_076: 
+  ascending_scale: "S - R - G - P - D - S"
+  chakra: ~
+  created_at: "2009-09-13 14:58:18.015816"
+  descending_scale: "S - D - P - G - R - S"
+  description: ~
+  drone: ~
+  id: "1232"
+  pakad: "S - G - P, P - D - G - P, P - S' - P, P - D - G - P"
+  samvaadi: R
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: "Kalyan, Jait"
+  updated_at: "2009-09-13 14:58:18.015816"
+  url: kalyan-jait
+  vaadi: P
+ragas_077: 
+  ascending_scale: "S - m, m - G - P, M - P - D - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:16.478685"
+  descending_scale: "S' - N - D - P, M - P - D - P - m, P - m - R - S"
+  description: ~
+  drone: ~
+  id: "1233"
+  pakad: "S - M - P, M - P - D - P - m, S - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "6"
+  title: Kedar
+  updated_at: "2009-09-13 15:08:16.478685"
+  url: kedar
+  vaadi: m
+ragas_078: 
+  ascending_scale: "S - R - G, P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:36.372997"
+  descending_scale: "S' - N - d - P - G - R - S"
+  description: ~
+  drone: ~
+  id: "1234"
+  pakad: ~
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "4"
+  title: Latika
+  updated_at: "2009-09-13 15:08:36.372997"
+  url: latika
+  vaadi: G
+ragas_079: 
+  ascending_scale: "S - r, G - m - P - d, S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:44.432341"
+  descending_scale: "S' - d - P - m - P - G - m, r - S"
+  description: ~
+  drone: ~
+  id: "1235"
+  pakad: "S - 'd - S, S - r, d - d - P - G - m - r - S"
+  samvaadi: r
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Bhairav, Bangal"
+  updated_at: "2009-09-13 14:56:44.432341"
+  url: bhairav-bangal
+  vaadi: d
+ragas_080: 
+  ascending_scale: "S - R - G - m - G - R, m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:07.703699"
+  descending_scale: "S' - n - D - P - m - G - R, R - G - (m)R - S"
+  description: ~
+  drone: ~
+  id: "1236"
+  pakad: "R - G - m - P, D - m - G - R, P - m - G - (m)R, G - R - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "2"
+  title: "Bilawal, Jaij"
+  updated_at: "2009-09-13 14:57:07.703699"
+  url: bilawal-jaij
+  vaadi: R
+ragas_081: 
+  ascending_scale: "S - M - g, (D)M - (N)D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:52.360159"
+  descending_scale: "S' - (N)D - M - g, P - (M)G, M - G - S(R) - 'D - S"
+  description: ~
+  drone: ~
+  id: "1237"
+  pakad: "M - (N)D - S', S - (N)D - M - G, P - (M) - G, S - (R)'D - S"
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "8"
+  title: "Hindol, Sampoorna"
+  updated_at: "2009-09-13 14:57:52.360159"
+  url: hindol-sampoorna
+  vaadi: D
+ragas_082: 
+  ascending_scale: "S - R - g - M - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:32.146084"
+  descending_scale: "S' - d - P - M, g - R - S"
+  description: ~
+  drone: ~
+  id: "1238"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "5"
+  title: Vijay
+  updated_at: "2009-09-13 15:10:32.146084"
+  url: vijay
+  vaadi: S
+ragas_083: 
+  ascending_scale: "S - R - m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:10.489573"
+  descending_scale: "R' - N - S' - n - D - P - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1239"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: m
+  title: Sindhura
+  updated_at: "2009-09-13 15:10:10.489573"
+  url: sindhura
+  vaadi: S'
+ragas_084: 
+  ascending_scale: "S - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:23.868743"
+  descending_scale: "S' - N - D - P - m - G - m - P - g - R - S"
+  description: ~
+  drone: ~
+  id: "1240"
+  pakad: "P - g - m - g - R - S - 'N - S - G - m - P - G - m - 'N - D - P - m - G - m - g - R - S"
+  samvaadi: m
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "3"
+  title: Patdipaki
+  updated_at: "2009-09-13 15:09:23.868743"
+  url: patdipaki
+  vaadi: S
+ragas_085: 
+  ascending_scale: "S - R - S - m, m - P, D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:17.350428"
+  descending_scale: "S' - N - D - P, d - M - P, M - G - M - G, M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1241"
+  pakad: "S - R - S - m, m - P, d - M - P - M, G - M - G"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "5"
+  title: "Kedar, Basanti"
+  updated_at: "2009-09-13 15:08:17.350428"
+  url: kedar-basanti
+  vaadi: m
+ragas_086: 
+  ascending_scale: "S - G - m - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:37.721655"
+  descending_scale: "S' - N - D - P - D, P - N - D - P, G - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1242"
+  pakad: "G - m - P - D - N - S'"
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "5"
+  title: Maand
+  updated_at: "2009-09-13 15:08:37.721655"
+  url: maand
+  vaadi: ~
+ragas_087: 
+  ascending_scale: "S - R - G - m - P - d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:45.036278"
+  descending_scale: "S' - n - d - P - m - G - m - P - r - S'"
+  description: ~
+  drone: ~
+  id: "1243"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Bhairav, Hijaj"
+  updated_at: "2009-09-13 14:56:45.036278"
+  url: bhairav-hijaj
+  vaadi: m
+ragas_088: 
+  ascending_scale: "S - R - G - P - (N)D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:08.436922"
+  descending_scale: "S' - N - D - n - D - P, m - G - (M)R - S - S - R - S"
+  description: ~
+  drone: ~
+  id: "1244"
+  pakad: "G - R - G - P - m - G - m - R, S - S - R"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "1"
+  title: "Bilawal, Kukubh"
+  updated_at: "2009-09-13 14:57:08.436922"
+  url: bilawal-kukubh
+  vaadi: S
+ragas_089: 
+  ascending_scale: "S - G, P - D, N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:52.989079"
+  descending_scale: "S' - n, D - P, G - g - S"
+  description: ~
+  drone: ~
+  id: "1245"
+  pakad: ~
+  samvaadi: D
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "7"
+  title: Homshikha
+  updated_at: "2009-09-13 14:57:52.989079"
+  url: homshikha
+  vaadi: g
+ragas_090: 
+  ascending_scale: "S - R - G - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:18.735474"
+  descending_scale: "S' - D - M - P - M - G - R - S"
+  description: ~
+  drone: ~
+  id: "1246"
+  pakad: ~
+  samvaadi: D
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: "Kalyan, Kesari"
+  updated_at: "2009-09-13 14:58:18.735474"
+  url: kalyan-kesari
+  vaadi: G
+ragas_091: 
+  ascending_scale: "S - m, G - P, M - m - g, P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:32.827563"
+  descending_scale: "S' - N - P, M - m - G, P - G, P - R - S - m"
+  description: ~
+  drone: ~
+  id: "1247"
+  pakad: ~
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "6"
+  title: "Viranch Mukhi"
+  updated_at: "2009-09-13 15:10:32.827563"
+  url: viranch-mukhi
+  vaadi: G
+ragas_092: 
+  ascending_scale: "S - G - M - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:11.266243"
+  descending_scale: "S' - N - D - M - D - G - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1248"
+  pakad: "M - D - N - S - r' - S, S - N - D - M - D - G"
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "8"
+  title: Sohoni
+  updated_at: "2009-09-13 15:10:11.266243"
+  url: sohoni
+  vaadi: D
+ragas_093: 
+  ascending_scale: "'N - S - g - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:25.305305"
+  descending_scale: "S' - N - S' - n - D - P - m - G - m - P - (m)g - R - S - N - S"
+  description: ~
+  drone: ~
+  id: "1249"
+  pakad: "g - m - d - P - g - S - 'N - S"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "4"
+  title: Pilu
+  updated_at: "2009-09-13 15:09:25.305305"
+  url: pilu
+  vaadi: G
+ragas_094: 
+  ascending_scale: "S - G - m - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:00.100196"
+  descending_scale: "S' - N - d - P - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1250"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "7"
+  title: Manjiri
+  updated_at: "2009-09-13 15:09:00.100196"
+  url: manjiri
+  vaadi: S
+ragas_095: 
+  ascending_scale: "S - m, M - M - P , D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:17.971728"
+  descending_scale: "S' - N - D - P, D - P - M, mR - S"
+  description: ~
+  drone: ~
+  id: "1251"
+  pakad: "D - N - D - P, D - P - M, m - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "6"
+  title: "Kedar, Chandni"
+  updated_at: "2009-09-13 15:08:17.971728"
+  url: kedar-chandni
+  vaadi: m
+ragas_096: 
+  ascending_scale: "S - G - m, P - m - G, M - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:09.045316"
+  descending_scale: "S' - N - D - n - P, m - G, m - R - S"
+  description: ~
+  drone: ~
+  id: "1252"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "2"
+  title: "Bilawal, Nat"
+  updated_at: "2009-09-13 14:57:09.045316"
+  url: bilawal-nat
+  vaadi: m
+ragas_097: 
+  ascending_scale: "'N - S - R - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:54.503093"
+  descending_scale: "S' - n - D - P - m - G - R - 'N - S - 'D - 'n - R"
+  description: ~
+  drone: ~
+  id: "1253"
+  pakad: "R - G - m - P - D - G - m - R - G - 'N - S - 'D - 'n - R"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "5"
+  title: "Jaijaiwanti (Des Ang)"
+  updated_at: "2009-09-13 14:57:54.503093"
+  url: jaijaiwanti-des-ang
+  vaadi: R
+ragas_098: 
+  ascending_scale: "S - G - R - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:19.523077"
+  descending_scale: "S' - N - D - M - G - R, G - M - (G)R - 'N - 'D - 'N - S"
+  description: ~
+  drone: ~
+  id: "1254"
+  pakad: "S, S - 'N - 'D, 'N - S - G - R, R - S - (S)'P, 'D - 'N - S - G - R"
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: "Kalyan, Khem"
+  updated_at: "2009-09-13 14:58:19.523077"
+  url: kalyan-khem
+  vaadi: ~
+ragas_099: 
+  ascending_scale: "S - R - g - m, P, d, n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:34.472754"
+  descending_scale: "R' - S' - n - d, P, g - P - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1255"
+  pakad: ~
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "1"
+  title: Zilaf
+  updated_at: "2009-09-13 15:28:34.784372"
+  url: zilaf
+  vaadi: D
+ragas_100: 
+  ascending_scale: "S - R, m - P - N, S"
+  chakra: ~
+  created_at: "2009-09-13 15:10:11.904177"
+  descending_scale: "S' - R', n - D, m - P - D, m - R - 'N - S"
+  description: ~
+  drone: ~
+  id: "1256"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "1"
+  title: Sorath
+  updated_at: "2009-09-13 15:10:11.904177"
+  url: sorath
+  vaadi: R
+ragas_101: 
+  ascending_scale: "S, R - m - P, D - m - P, S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:44.644015"
+  descending_scale: "S' - D - n - P, m - P, m - g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1257"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "1"
+  title: Revati
+  updated_at: "2009-09-13 15:09:44.644015"
+  url: revati
+  vaadi: P
+ragas_102: 
+  ascending_scale: "'N - r - G - M - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:26.092960"
+  descending_scale: "S' - N - d - P - M - G - m - r - G, M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1258"
+  pakad: "P - d - P - M - G - m - r - G, M - G - r - S"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "4"
+  title: Poorvi
+  updated_at: "2009-09-13 15:09:26.092960"
+  url: poorvi
+  vaadi: G
+ragas_103: 
+  ascending_scale: "S, R - m - P - D, n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:02.062756"
+  descending_scale: "S' - D - P, m - P - D - P - m, R - 'n - S"
+  description: ~
+  drone: ~
+  id: "1259"
+  pakad: ~
+  samvaadi: R
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "1"
+  title: "Manjiri, Hauns"
+  updated_at: "2009-09-13 15:09:02.062756"
+  url: manjiri-hauns
+  vaadi: P
+ragas_104: 
+  ascending_scale: "S - r - G - m, P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:46.074468"
+  descending_scale: "S', r' - n - d - P - m - G - m - (r)G, m - r - S"
+  description: ~
+  drone: ~
+  id: "1260"
+  pakad: "m, d - n - d - P - m, r' - n - d - P - P - d - d - P - m"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Bhairav, Kabir"
+  updated_at: "2009-09-13 14:56:46.074468"
+  url: bhairav-kabir
+  vaadi: m
+ragas_105: 
+  ascending_scale: "S - (G)R - G, G - R - G - m, P - (n)D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:09.806689"
+  descending_scale: "S' - N - D - P, D - n - D - P - m, G - R, G - (m)R - S"
+  description: ~
+  drone: ~
+  id: "1261"
+  pakad: "D - n - D - P - m, G - R, G - R - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "1"
+  title: "Bilawal, Sarpada"
+  updated_at: "2009-09-13 14:57:09.806689"
+  url: bilawal-sarpada
+  vaadi: S
+ragas_106: 
+  ascending_scale: "S, R - G - m - R, M - P, D, N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:20.125454"
+  descending_scale: "S' - N - D - P, M, m, G - m - R - S"
+  description: ~
+  drone: ~
+  id: "1262"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: "Kalyan, Lakshmi"
+  updated_at: "2009-09-13 14:58:20.125454"
+  url: kalyan-lakshmi
+  vaadi: R
+ragas_107: 
+  ascending_scale: "S - R - S - m, m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:18.596599"
+  descending_scale: "S' - D - P - m - R - S"
+  description: ~
+  drone: ~
+  id: "1263"
+  pakad: "D - P - m, R - S, m"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "5"
+  title: "Kedar, Jaldhar"
+  updated_at: "2009-09-13 15:08:18.596599"
+  url: kedar-jaldhar
+  vaadi: m
+ragas_108: 
+  ascending_scale: "S - r, G - m, P - m, D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:12.551168"
+  descending_scale: "S' - N - D - m, N - d - P, m - G - r - S"
+  description: ~
+  drone: ~
+  id: "1264"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Sourashtra Tank"
+  updated_at: "2009-09-13 15:10:12.551168"
+  url: sourashtra-tank
+  vaadi: m
+ragas_109: 
+  ascending_scale: "S - G - m - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:45.281670"
+  descending_scale: "S' - n - D - m - G - S"
+  description: ~
+  drone: ~
+  id: "1265"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: Rupeshwari
+  updated_at: "2009-09-13 15:09:45.281670"
+  url: rupeshwari
+  vaadi: m
+ragas_110: 
+  ascending_scale: "S - r - G - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:26.930297"
+  descending_scale: "S' - P - M - G - 'N - S"
+  description: ~
+  drone: ~
+  id: "1266"
+  pakad: ~
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "4"
+  title: "Prabha, Kumud"
+  updated_at: "2009-09-13 15:09:26.930297"
+  url: prabha-kumud
+  vaadi: G
+ragas_111: 
+  ascending_scale: "S - R - G - m - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:02.694248"
+  descending_scale: "S' - n - D - P, m - g - R = S"
+  description: ~
+  drone: ~
+  id: "1267"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "3"
+  title: "Manjiri, Pat"
+  updated_at: "2009-09-13 15:27:08.881117"
+  url: manjiri-pat
+  vaadi: S
+ragas_112: 
+  ascending_scale: "S - G - m, P - G - m - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:10.555643"
+  descending_scale: "S' - n - D - P - D - M, (P)G, R - S"
+  description: ~
+  drone: ~
+  id: "1268"
+  pakad: "m - P - D - n - G - m, G - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "1"
+  title: "Bilawal, Shukla"
+  updated_at: "2009-09-13 14:57:10.555643"
+  url: bilawal-shukla
+  vaadi: m
+ragas_113: 
+  ascending_scale: "S - r - G - M - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:20.735991"
+  descending_scale: "S' - N - D - P - M - G - (M)r - G - r - S"
+  description: ~
+  drone: ~
+  id: "1269"
+  pakad: "N - D - P - M - G , M - r - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "5"
+  title: "Kalyan, Purba"
+  updated_at: "2009-09-13 14:58:20.735991"
+  url: kalyan-purba
+  vaadi: S
+ragas_114: 
+  ascending_scale: "R - 'N - S, m - R - S, m - G - P - M - D - M - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:19.240525"
+  descending_scale: "S' - N - D - M - P,  (P)G - (m)P - G - m - R - S - 'n - 'D - 'P - 'm, 'P - S"
+  description: ~
+  drone: ~
+  id: "1270"
+  pakad: "m - R - S - S - 'd - 'P - 'm - 'P - 'P - 'N - 'N - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: "Kedar, Maluha"
+  updated_at: "2009-09-13 15:08:19.240525"
+  url: kedar-maluha
+  vaadi: m
+ragas_115: 
+  ascending_scale: "S - g - m - P - n - S'"
+  chakra: ""
+  created_at: "2009-09-13 15:24:01.228218"
+  descending_scale: "S' - n - d - P - m - g - R - S"
+  description: ""
+  drone: ""
+  id: "1271"
+  pakad: ""
+  samvaadi: S
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/7klisWb3tIavKnJyUwkkCr"
+  thaat: Asavari
+  time: "2"
+  title: Abheri
+  updated_at: "2009-09-16 16:44:26.178009"
+  url: abheri
+  vaadi: m
+ragas_116: 
+  ascending_scale: "N - r - G, M - G, M - P - d - P, m - N - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:45.913355"
+  descending_scale: "S' - N - r' - N - d - P, P - D - G, M - D - G, M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1272"
+  pakad: "m - N - D - S', N - r' - N - d - P, P - D - G, M - G - r - S"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "5"
+  title: Saajgiri
+  updated_at: "2009-09-13 15:09:45.913355"
+  url: saajgiri
+  vaadi: G
+ragas_117: 
+  ascending_scale: "S - r - G - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:27.573641"
+  descending_scale: "S' - N - d - P - G - r - S"
+  description: ~
+  drone: ~
+  id: "1273"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: Prabhavati
+  updated_at: "2009-09-13 15:09:27.573641"
+  url: prabhavati
+  vaadi: P
+ragas_118: 
+  ascending_scale: "S - R - G - m - P - n - d - n - D - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:03.927517"
+  descending_scale: "S' - R' - n - d - P - m - P - g - R - g - m - S"
+  description: ~
+  drone: ~
+  id: "1274"
+  pakad: ~
+  samvaadi: g
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: "Manjiri, Rudra"
+  updated_at: "2009-09-13 15:09:03.927517"
+  url: manjiri-rudra
+  vaadi: d
+ragas_119: 
+  ascending_scale: "S - G - m - P, P - N - DNS'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:11.405317"
+  descending_scale: "S' - D - NDP, m - P - G, RS"
+  description: ~
+  drone: ~
+  id: "1275"
+  pakad: "S - G - mP - mP - G - RS"
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "2"
+  title: "Bilawal, Sukhiya"
+  updated_at: "2009-09-13 14:57:11.405317"
+  url: bilawal-sukhiya
+  vaadi: ~
+ragas_120: 
+  ascending_scale: "S - R - S - m, m - G - P, P - D - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:20.014797"
+  descending_scale: "S' - N - D - P, M - P - D - P - m, d - G - m - R - S"
+  description: ~
+  drone: ~
+  id: "1276"
+  pakad: "S - m, G - P, D - P - m, G - m - R - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: "Kedar, Nat"
+  updated_at: "2009-09-13 15:08:20.014797"
+  url: kedar-nat
+  vaadi: S
+ragas_121: 
+  ascending_scale: "S - R - m - P - d - n - S'"
+  chakra: ""
+  created_at: "2009-09-13 15:24:03.189781"
+  descending_scale: "S' - d~ - n - P, m - P - g~ - m - R - S"
+  description: ""
+  drone: ""
+  id: "1277"
+  pakad: "m - P - d~ - n - S, n - P - m - P - g~ - m - R - S"
+  samvaadi: P
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/2Jvmf2zPRmQJxVboug4AWx"
+  thaat: Asavari
+  time: "7"
+  title: Adana
+  updated_at: "2009-09-16 16:46:42.221172"
+  url: adana
+  vaadi: S
+ragas_122: 
+  ascending_scale: "S, m - m, D - P - D, S', N - R' - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:46.971523"
+  descending_scale: "S' - N - D - N - D - P, G - R, 'N - R - S"
+  description: ~
+  drone: ~
+  id: "1278"
+  pakad: "N - D - P - m, G - R, 'N - R - S, m - m"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "1"
+  title: "Sakh, Bhav"
+  updated_at: "2009-09-13 15:09:46.971523"
+  url: sakh-bhav
+  vaadi: m
+ragas_123: 
+  ascending_scale: "'N - r - G - M - D - N - r' - S'"
+  chakra: ""
+  created_at: "2009-09-13 15:09:28.378930"
+  descending_scale: "r' - N - D - M - G, M - G - r - S"
+  description: ""
+  drone: ""
+  id: "1279"
+  pakad: "G - N - r' - S - M - G - r - G - 'N - r - S"
+  samvaadi: "N"
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/7877jtwzmGvSJmoG8BNYWz"
+  thaat: Marwa
+  time: "4"
+  title: Puriya
+  updated_at: "2009-09-16 14:57:24.692518"
+  url: puriya
+  vaadi: G
+ragas_124: 
+  ascending_scale: "S - R - G - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:13.238923"
+  descending_scale: "S' - N - D - P, D - n - D - P - M - G - m - G - R, G - R - S"
+  description: ~
+  drone: ~
+  id: "1280"
+  pakad: "D - n - D - P - M - G, m - G - R"
+  samvaadi: D
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "1"
+  title: "Bilawal, Yamani"
+  updated_at: "2009-09-13 14:57:13.238923"
+  url: bilawal-yamani
+  vaadi: G
+ragas_125: 
+  ascending_scale: "'N - r - G - M - D - N - r' - S'"
+  chakra: ""
+  created_at: "2009-09-13 14:58:21.485603"
+  descending_scale: "S' - N - D - P - M - G - r - S"
+  description: ""
+  drone: ""
+  id: "1281"
+  pakad: "M - N - D - P - M - G - r - G - r - S"
+  samvaadi: S
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/7ikPEVMEef0A4c66Qv59pq"
+  thaat: Marwa
+  time: "4"
+  title: "Kalyan, Puriya"
+  updated_at: "2009-09-16 14:59:15.444888"
+  url: kalyan-puriya
+  vaadi: P
+ragas_126: 
+  ascending_scale: "S - G - M - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:20.895166"
+  descending_scale: "S' - D - P - M, m - P, G - m - R - S"
+  description: ~
+  drone: ~
+  id: "1282"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "7"
+  title: "Kedar, Sangam"
+  updated_at: "2009-09-13 15:08:20.895166"
+  url: kedar-sangam
+  vaadi: m
+ragas_127: 
+  ascending_scale: "S - r - g - m - P - D - n - S'"
+  chakra: ""
+  created_at: "2009-09-13 15:24:03.792727"
+  descending_scale: "S' - n - D - P - m - g - r - S"
+  description: ""
+  drone: ""
+  id: "1283"
+  pakad: "P - D - n - D - m - g - r - g - S"
+  samvaadi: S
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/4tvgBTccHBZOqiuZhUuBDy"
+  thaat: Bhairavi
+  time: "1"
+  title: Ahiri
+  updated_at: "2009-09-16 18:45:24.470370"
+  url: ahiri
+  vaadi: m
+ragas_128: 
+  ascending_scale: "S - m -  R -  (P)m - N - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:50.786097"
+  descending_scale: "S' - n - P - m - P - (m)g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1284"
+  pakad: "N - S' - R - G - m - N - P - g - m - R - S, m - N - P - S' - n - P - G - m - P - g - m - R - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: "Sakh, Dev"
+  updated_at: "2009-09-13 15:09:50.786097"
+  url: sakh-dev
+  vaadi: S
+ragas_129: 
+  ascending_scale: "S - R - g - m - g - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:29.029295"
+  descending_scale: "S' - D - P, g - m - g, R - S"
+  description: ~
+  drone: ~
+  id: "1285"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: Pushp
+  updated_at: "2009-09-13 15:09:29.029295"
+  url: pushp
+  vaadi: R
+ragas_130: 
+  ascending_scale: "S - R - S - m, m - P, P - n - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:21.521228"
+  descending_scale: "S' - D - n - m - P, P(D) - P - m, S - R - S"
+  description: ~
+  drone: ~
+  id: "1286"
+  pakad: "S - R - S - 'N - 'n - ('n)'m - 'P, 'P - S, S - m - (m)R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: m
+  title: "Kedar, Sawani"
+  updated_at: "2009-09-13 15:08:21.521228"
+  url: kedar-sawani
+  vaadi: m
+ragas_131: 
+  ascending_scale: "S - G - R - G - P - m, P - (N)D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:51.408668"
+  descending_scale: "S' - D - n - P - m, G - P - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1287"
+  pakad: "P, m - G, m, m - n - D - P, m - G - m - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "1"
+  title: "Sakh, Lachchha"
+  updated_at: "2009-09-13 15:09:51.408668"
+  url: sakh-lachchha
+  vaadi: m
+ragas_132: 
+  ascending_scale: "S - R - S - m, R - M, P, D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:22.142684"
+  descending_scale: "S' - N - D - P, D - n - D - P - m - R - S"
+  description: ~
+  drone: ~
+  id: "1288"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: "Kedar, Shyam"
+  updated_at: "2009-09-13 15:08:22.142684"
+  url: kedar-shyam
+  vaadi: m
+ragas_133: 
+  ascending_scale: "S - R - m - P - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:53.389702"
+  descending_scale: "S' - n - d - P - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1289"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: Sameri
+  updated_at: "2009-09-13 15:09:53.389702"
+  url: sameri
+  vaadi: ~
+ragas_134: 
+  ascending_scale: "'n - S - G - m - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:29.904557"
+  descending_scale: "S' - n - D - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1290"
+  pakad: "G - m - D - n - S, S - n - D - m - G - R - S"
+  samvaadi: "n"
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: Rageshree
+  updated_at: "2009-09-13 15:09:29.904557"
+  url: rageshree
+  vaadi: G
+ragas_135: 
+  ascending_scale: "S - G - m - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:22.911190"
+  descending_scale: "S' - n - D - P - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1291"
+  pakad: "G - m - P - n - D - m - P - D - m - G"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "5"
+  title: Khamaj
+  updated_at: "2009-09-13 15:08:22.911190"
+  url: khamaj
+  vaadi: G
+ragas_136: 
+  ascending_scale: "S - R - m, R - m - P, N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:54.212139"
+  descending_scale: "S - n - P - m - (D)P - m - R, R - 'N - S"
+  description: ~
+  drone: ~
+  id: "1292"
+  pakad: "S - R - m, n - P - m - R - m, 'N - R - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "3"
+  title: "Sarang, Badhans"
+  updated_at: "2009-09-13 15:09:54.212139"
+  url: sarang-badhans
+  vaadi: R
+ragas_137: 
+  ascending_scale: "S - G - R - m - G - P - M - D - P - N - D - S'"
+  chakra: ""
+  created_at: "2009-09-13 15:09:55.016809"
+  descending_scale: "S' - D - N - P - D - M - P - G, m - R - P - R - S"
+  description: ""
+  drone: ""
+  id: "1293"
+  pakad: "S - G - R - m - g - P - R - S"
+  samvaadi: D
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/3X980exeLKnp6uAaB5FCoI"
+  thaat: Kalyan
+  time: "3"
+  title: "Sarang, Gaud"
+  updated_at: "2009-09-16 20:13:29.341478"
+  url: sarang-gaud
+  vaadi: G
+ragas_138: 
+  ascending_scale: "S - r - g - m - P - d - n - S'"
+  chakra: sahasrara
+  created_at: "2009-09-11 20:24:02.860015"
+  descending_scale: "S' - n - d - P - m - g - r - S"
+  description: ""
+  drone: "Sa Pa"
+  id: "1294"
+  pakad: "'n - S - g - m - d - P - g - m - P - g - m - r - S"
+  samvaadi: S
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/5NuXbZ06DE93tKStVOfnum"
+  thaat: Bhairavi
+  time: "1"
+  title: Bhairavi
+  updated_at: "2009-09-13 14:56:54.070786"
+  url: bhairavi
+  vaadi: P
+ragas_139: 
+  ascending_scale: "S - R - m - P, n - P, N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:55.648613"
+  descending_scale: "S' - D - n - P, m - P - (m)g - (m)g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1295"
+  pakad: "S' - D - n - P, (m)g - m - R - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "3"
+  title: "Sarang, Lankadahan"
+  updated_at: "2009-09-13 15:09:55.648613"
+  url: sarang-lankadahan
+  vaadi: R
+ragas_140: 
+  ascending_scale: "S - R - m - R - P - D - S'"
+  chakra: heart
+  created_at: "2009-09-11 22:08:36.047489"
+  descending_scale: "S' - D - P - D - m - R - 'D - S"
+  description: ""
+  drone: "Sa Pa"
+  id: "1296"
+  pakad: "S' - D - m - P - D - m - R - 'D - S"
+  samvaadi: S
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/4MTwYDX13ovb6Jci1Ssxa9"
+  thaat: Bilawal
+  time: "6"
+  title: Durga
+  updated_at: "2009-09-13 14:57:35.182082"
+  url: durga
+  vaadi: m
+ragas_141: 
+  ascending_scale: "Sa Re Ga Ma Pa Dha Ni Sa"
+  chakra: mooladhara
+  created_at: "2009-09-12 12:06:53.326331"
+  descending_scale: "Sa Ni Dha Pa Ma Ga Re Sa"
+  description: ""
+  drone: "Sa Pa"
+  id: "1297"
+  pakad: ""
+  samvaadi: ~
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/3iMaKV3omcuesJzeToXION"
+  thaat: ~
+  time: "1"
+  title: Bilawal
+  updated_at: "2009-09-14 12:38:51.141748"
+  url: bilawal
+  vaadi: ~
+ragas_142: 
+  ascending_scale: "S - (r)G - r, G - G - m - P - m, P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:38.329294"
+  descending_scale: "S' - N - D - (m)P, d - (m)P - m - (r)G, (r)G - r - 'N - S - 'N - S"
+  description: ~
+  drone: ~
+  id: "1298"
+  pakad: "m - d - P - d - m - P - G - m, r - G - r, S - r - ('N)S - 'N"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "5"
+  title: Gauri
+  updated_at: "2009-09-13 15:25:22.593308"
+  url: gauri
+  vaadi: m
+ragas_143: 
+  ascending_scale: "S - G - M - D - N - D - S'"
+  chakra: mooladhara
+  created_at: "2009-09-12 12:16:24.253058"
+  descending_scale: "S' - N - D - M - G - S"
+  description: ""
+  drone: ""
+  id: "1299"
+  pakad: "S - G - M - N - D - M - G - S"
+  samvaadi: G
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/24KKlsKvtFHTlFgckHS1J8"
+  thaat: Kalyan
+  time: "8"
+  title: Hindol
+  updated_at: "2009-09-13 14:57:50.537916"
+  url: hindol
+  vaadi: D
+ragas_144: 
+  ascending_scale: "S - r - G - m - P - m, m - D - n - S' - N - r' - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:31.092342"
+  descending_scale: "S' - n - D - P - m - G - R, g - r - S - 'N - r - S, 'N - D - S"
+  description: ~
+  drone: ~
+  id: "1300"
+  pakad: "D - n - D - P - m - G - R, g - r - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "1"
+  title: "Bahar, Bhairav"
+  updated_at: "2009-09-13 14:56:31.092342"
+  url: bahar-bhairav
+  vaadi: m
+ragas_145: 
+  ascending_scale: "S - r - G - m, M - m - G, G - m - P - d - P, P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:39.785934"
+  descending_scale: "S' - N - d - P, d - m, M - d - M - m, G - (M)r - S"
+  description: ~
+  drone: ~
+  id: "1301"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "5"
+  title: "Gauri, Lalita"
+  updated_at: "2009-09-13 14:57:39.785934"
+  url: gauri-lalita
+  vaadi: m
+ragas_146: 
+  ascending_scale: "S - R - m - P - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:57.502238"
+  descending_scale: "S' - n - P - m - R - m - R, 'n - S"
+  description: ~
+  drone: ~
+  id: "1302"
+  pakad: "'n - S - R - m - P, P - R, m - R, 'n - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "2"
+  title: "Sarang, Madhmaad"
+  updated_at: "2009-09-13 15:09:57.502238"
+  url: sarang-madhmaad
+  vaadi: R
+ragas_147: 
+  ascending_scale: "S - G - M - G, m - P - G - m, n - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:31.919762"
+  descending_scale: "S - n - P - m - P - G - m, S - D - M - G, M - G - S"
+  description: ~
+  drone: ~
+  id: "1303"
+  pakad: "m - n - D, D - N - S' - n - P, M - G, M - G - S"
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "8"
+  title: "Bahar, Hindol"
+  updated_at: "2009-09-13 14:56:31.919762"
+  url: bahar-hindol
+  vaadi: D
+ragas_148: 
+  ascending_scale: "S - G - m - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:40.406247"
+  descending_scale: "S' - N - d - m - G - S"
+  description: ~
+  drone: ~
+  id: "1304"
+  pakad: ~
+  samvaadi: m
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: Girija
+  updated_at: "2009-09-13 14:57:40.406247"
+  url: girija
+  vaadi: S
+ragas_149: 
+  ascending_scale: "'D - 'N - S, R, P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:58.129886"
+  descending_scale: "S', n - D, S, n - P, m - R - S"
+  description: ~
+  drone: ~
+  id: "1305"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "2"
+  title: "Sarang, Miyan Ki"
+  updated_at: "2009-09-13 15:09:58.129886"
+  url: sarang-miyan-ki
+  vaadi: R
+ragas_150: 
+  ascending_scale: "S - R - M - P - N - S'"
+  chakra: mooladhara
+  created_at: "2009-09-12 12:28:05.345892"
+  descending_scale: "S' - N - D - P - M - P - G - m - R - S"
+  description: ""
+  drone: ""
+  id: "1306"
+  pakad: "R - P, G - m - R, 'N - S"
+  samvaadi: P
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/2YWySKVx4HINyy56jxTr7Q"
+  thaat: Kalyan
+  time: "5"
+  title: "Kalyan, Shyam"
+  updated_at: "2009-09-13 15:26:04.163745"
+  url: kalyan-shyam
+  vaadi: R
+ragas_151: 
+  ascending_scale: "S - m, m - P - (m)g - m, n - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:32.547207"
+  descending_scale: "R' - N - S' - (S)D - n - P - m - P - g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1307"
+  pakad: "N - S - R' - N - S' - (n)d - (n)d - n - P, m - P, n - P - m - g - m"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "6"
+  title: "Bahar, Kanada"
+  updated_at: "2009-09-13 14:56:32.547207"
+  url: bahar-kanada
+  vaadi: m
+ragas_152: 
+  ascending_scale: "S - g - m - P - d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:41.030386"
+  descending_scale: "S' - n - d - P - m - g - S"
+  description: ~
+  drone: ~
+  id: "1308"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "1"
+  title: "Gopika Basant"
+  updated_at: "2009-09-13 14:57:41.030386"
+  url: gopika-basant
+  vaadi: S
+ragas_153: 
+  ascending_scale: "S - m - R - P, n - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:46.119563"
+  descending_scale: "S' - P - D - P, (m)g - (m)g - m - P - m - m\\R - S"
+  description: ~
+  drone: ~
+  id: "1309"
+  pakad: "S - N - D - P - G - R"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: m
+  title: "Malhar, Charju Ki"
+  updated_at: "2009-09-13 15:08:46.119563"
+  url: malhar-charju-ki
+  vaadi: m
+ragas_154: 
+  ascending_scale: "N - R - G - M - D - N - S'"
+  chakra: swadisthan
+  created_at: "2009-09-12 12:39:47.051578"
+  descending_scale: "S' - N - D - P - M - G - R - S"
+  description: ""
+  drone: ""
+  id: "1310"
+  pakad: "'N - R - G - M - P - R - G - R - 'N - R - S"
+  samvaadi: "N"
+  spotify_playlist_url: "Rag Yaman: http://open.spotify.com/user/duztdruid/playlist/52cpirjmOC0Nw9XC0aB2pC"
+  thaat: Kalyan
+  time: "5"
+  title: Yaman
+  updated_at: "2009-09-13 15:10:33.610351"
+  url: yaman
+  vaadi: G
+ragas_155: 
+  ascending_scale: "S - R - S - m - P - g - m - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:33.203378"
+  descending_scale: "S' - R' - S - N - D - P - m - P - m - g - m - g - m - P - g - m - R - S - R - S"
+  description: ~
+  drone: ~
+  id: "1311"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "5"
+  title: "Bahar, Kedar"
+  updated_at: "2009-09-13 14:56:33.203378"
+  url: bahar-kedar
+  vaadi: m
+ragas_156: 
+  ascending_scale: "S - r - m - P - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:41.785727"
+  descending_scale: "S' - d - P - m - r - S"
+  description: ~
+  drone: ~
+  id: "1312"
+  pakad: "r - m - P - d - d - P - m - r - r - 'd - S"
+  samvaadi: r
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: Gunakali
+  updated_at: "2009-09-13 14:57:41.785727"
+  url: gunakali
+  vaadi: d
+ragas_157: 
+  ascending_scale: "S - r - m - P - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:01.887718"
+  descending_scale: "S' - N - d - P - d - m - r - S"
+  description: ~
+  drone: ~
+  id: "1313"
+  pakad: "N - d - P - P - d - m - r - m - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: Jogiya
+  updated_at: "2009-09-13 14:58:01.887718"
+  url: jogiya
+  vaadi: m
+ragas_158: 
+  ascending_scale: "S - R - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:47.864602"
+  descending_scale: "S' - D - n - P - m - P - (m)g - (m)g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1314"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "1"
+  title: "Malhar, Des"
+  updated_at: "2009-09-13 15:08:47.864602"
+  url: malhar-des
+  vaadi: P
+ragas_159: 
+  ascending_scale: "S - r, G - M - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:58.780897"
+  descending_scale: "S' - N - d - P - M - P - M - G - r - G - S"
+  description: ~
+  drone: ~
+  id: "1315"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "5"
+  title: "Sarang, Poorvi"
+  updated_at: "2009-09-13 15:09:58.780897"
+  url: sarang-poorvi
+  vaadi: P
+ragas_160: 
+  ascending_scale: "S - r - g - M - d - N - S'"
+  chakra: left_swadisthan
+  created_at: "2009-09-12 12:53:20.863648"
+  descending_scale: "S' - N - d - M - g - r - S"
+  description: ""
+  drone: "Sa Dha-"
+  id: "1316"
+  pakad: "M - d - N - d - M - g - r - g - r - S"
+  samvaadi: r
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/0qrTk2a6kQrtkRczyUHIL8"
+  thaat: Todi
+  time: "2"
+  title: "Todi, Gujari"
+  updated_at: "2009-09-13 15:28:22.383950"
+  url: todi-gujari
+  vaadi: d
+ragas_161: 
+  ascending_scale: "'N - S, - G - M - P - d, P, n - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:33.903634"
+  descending_scale: "S' - r' - g' - r', S - N - d - P, m - G, M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1317"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "8"
+  title: "Bahar, Paraj"
+  updated_at: "2009-09-13 14:56:33.903634"
+  url: bahar-paraj
+  vaadi: S
+ragas_162: 
+  ascending_scale: "'N - r - S,G - m - P, G - M - D - M - G, M - D - S'Nr'S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:55.297565"
+  descending_scale: "S' - r' - N - D, M - m - G, m - G - r - S"
+  description: ~
+  drone: ~
+  id: "1318"
+  pakad: "S' - r' - N - D - M - m, G - m - r - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "8"
+  title: Bhankar
+  updated_at: "2009-09-13 14:56:55.297565"
+  url: bhankar
+  vaadi: P
+ragas_163: 
+  ascending_scale: "S - G - m - P - N - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:02.716442"
+  descending_scale: "S' - N - d - (S)n - S', n - d - m - P - m - G, S - G - m - g - S"
+  description: ~
+  drone: ~
+  id: "1319"
+  pakad: "S - N - d - S - n - S, n - S - (m)g - (m)g, S - G - G - m, m - (n)d - (n)d - m, P - m - G - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "7"
+  title: Jogkauns
+  updated_at: "2009-09-13 14:58:02.716442"
+  url: jogkauns
+  vaadi: m
+ragas_164: 
+  ascending_scale: "S - (m)R - P, n - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:48.814915"
+  descending_scale: "S' - n - D - P, m - R, (m)g - (m)g - m - P - m - m\\R - S"
+  description: ~
+  drone: ~
+  id: "1320"
+  pakad: "m - R - P, n - D - P, m - R, (m)g - (m)g - m - P - m - m - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: m
+  title: "Malhar, Dhulia"
+  updated_at: "2009-09-13 15:08:48.814915"
+  url: malhar-dhulia
+  vaadi: P
+ragas_165: 
+  ascending_scale: "S - r - g - M - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:21.483826"
+  descending_scale: "S' - n - d - P - M - P - d - n - d - P - M - g - r - g - r - S"
+  description: ~
+  drone: ~
+  id: "1321"
+  pakad: "S - d - d - P - M - P - g - M - M - d - n - d - P"
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "1"
+  title: "Todi, Darbari"
+  updated_at: "2009-09-13 15:10:21.483826"
+  url: todi-darbari
+  vaadi: ~
+ragas_166: 
+  ascending_scale: "S - R - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:59.449052"
+  descending_scale: "S' - n - D - P - m - R, m - R - 'N - S"
+  description: ~
+  drone: ~
+  id: "1322"
+  pakad: "R - M - P - n - D - P, m - R"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "3"
+  title: "Sarang, Samant"
+  updated_at: "2009-09-13 15:09:59.449052"
+  url: sarang-samant
+  vaadi: R
+ragas_167: 
+  ascending_scale: "S - R - G - m - R - P, m - P - n - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:49.764925"
+  descending_scale: "S' - D - n - P - m - P - m - R - G - R - S"
+  description: ~
+  drone: ~
+  id: "1323"
+  pakad: "S - R - G - m, m - P - n - D - N - P - m, G - m - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: m
+  title: "Malhar, Gaud"
+  updated_at: "2009-09-13 15:08:49.764925"
+  url: malhar-gaud
+  vaadi: m
+ragas_168: 
+  ascending_scale: "S - G - M - P - N - S'"
+  chakra: right_nabhi
+  created_at: "2009-09-12 13:45:25.064853"
+  descending_scale: "S' - N - P - M - G - S"
+  description: "Brings forth rains. Played by Ravana after Hanuman burned Lanka to put out the fire."
+  drone: ""
+  id: "1324"
+  pakad: "G - M - P - N - S' - N - P - M - P - G - M - P"
+  samvaadi: S
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/6GjAXkrgi5OmrYK1qsja5r"
+  thaat: Kalyan
+  time: "5"
+  title: "Amrit Varshini"
+  updated_at: "2009-09-13 15:24:04.387788"
+  url: amrit-varshini
+  vaadi: P
+ragas_169: 
+  ascending_scale: "S - G - m - D - G - m, m - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:34.608710"
+  descending_scale: "S' - D - n - P, m - P - (m)g - m, (D)G - m, (G) - R - S"
+  description: ~
+  drone: ~
+  id: "1325"
+  pakad: "S - G - m - D - G - m, D - n - S' - n - P, m - P - (m)g - m"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: "Bahar, Rageshree"
+  updated_at: "2009-09-13 14:56:34.608710"
+  url: bahar-rageshree
+  vaadi: m
+ragas_170: 
+  ascending_scale: "S - R - m - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:56.641746"
+  descending_scale: "S', D - m, R - S"
+  description: ~
+  drone: ~
+  id: "1326"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "7"
+  title: Bhavani
+  updated_at: "2009-09-13 14:56:56.641746"
+  url: bhavani
+  vaadi: m
+ragas_171: 
+  ascending_scale: "S - r - g - m, - m - P - (n)d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:42.409230"
+  descending_scale: "S' - n - (n)d -P, d - m - P, (P)g, g - m - r - S"
+  description: ~
+  drone: ~
+  id: "1327"
+  pakad: "d - m, P - d - m - P - (m)g, g - m - r - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "1"
+  title: "Gunakali, Utari"
+  updated_at: "2009-09-13 14:57:42.409230"
+  url: gunakali-utari
+  vaadi: S
+ragas_172: 
+  ascending_scale: "S - R - g - m - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:03.509324"
+  descending_scale: "S', n - d, P - D, P - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1328"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "7"
+  title: Jungala
+  updated_at: "2009-09-13 14:58:03.509324"
+  url: jungala
+  vaadi: S
+ragas_173: 
+  ascending_scale: "S - r, g - M - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:22.186148"
+  descending_scale: "S' - N - d - P - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1329"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "1"
+  title: "Todi, Gauri"
+  updated_at: "2009-09-13 15:10:22.186148"
+  url: todi-gauri
+  vaadi: ~
+ragas_174: 
+  ascending_scale: "S - R - M - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:00.232865"
+  descending_scale: "S' - N - D - P - M - P - (m)R, m - R - N - S"
+  description: ~
+  drone: ~
+  id: "1330"
+  pakad: "R - M - P - R - m - R - S - 'N - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "3"
+  title: "Sarang, Shuddha"
+  updated_at: "2009-09-13 15:10:00.232865"
+  url: sarang-shuddha
+  vaadi: R
+ragas_175: 
+  ascending_scale: "'n - S - g - m - P - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:12.225091"
+  descending_scale: "S' - d - n - P - D - g - m - r - S"
+  description: ~
+  drone: ~
+  id: "1331"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "5"
+  title: Motaki
+  updated_at: "2009-09-13 15:09:12.225091"
+  url: motaki
+  vaadi: P
+ragas_176: 
+  ascending_scale: "S - (m)R - P - n - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:50.403333"
+  descending_scale: "S' - (S')D - n - m - P, (D)P - m - G - R, g - R - S - 'N - S - (S)'D - 'n - R - S"
+  description: ~
+  drone: ~
+  id: "1332"
+  pakad: "P - g - m - R - S - 'N - 'D - 'n - R"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: "Malhar, Jayant"
+  updated_at: "2009-09-13 15:08:50.403333"
+  url: malhar-jayant
+  vaadi: P
+ragas_177: 
+  ascending_scale: "S - R - g - m - D - S'"
+  chakra: nabhi
+  created_at: "2009-09-12 13:54:31.930472"
+  descending_scale: "S' - D - m - g - D - g - m - R - S"
+  description: ""
+  drone: ""
+  id: "1333"
+  pakad: "S - g, m - D - g, m - R - S"
+  samvaadi: S
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/6oEZ30JU1YXn1gOLsO6wYR"
+  thaat: Kafi
+  time: "6"
+  title: Abhogi
+  updated_at: "2009-09-13 15:24:02.185115"
+  url: abhogi
+  vaadi: m
+ragas_178: 
+  ascending_scale: "S - m, m - P - (m)g - m, m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:35.213069"
+  descending_scale: "R' - N - S' - n - D, P, m - P - n - P - (m)g - m, R - S - R - S"
+  description: ~
+  drone: ~
+  id: "1334"
+  pakad: "m - P - D - S, n - D - P, n - n - P - m - P - (m)g"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "5"
+  title: "Bahar, Sindhu"
+  updated_at: "2009-09-13 14:56:35.213069"
+  url: bahar-sindhu
+  vaadi: S'
+ragas_179: 
+  ascending_scale: "S - G - m - P - (S')n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:57.453198"
+  descending_scale: "g' - R' - S' - n - D - m - (P)D - m - (P)G - R - S"
+  description: ~
+  drone: ~
+  id: "1335"
+  pakad: "n - S' - g' - R' - S' - n - (P)D - m - (P)G - R - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "3"
+  title: Bhim
+  updated_at: "2009-09-13 14:56:57.453198"
+  url: bhim
+  vaadi: S
+ragas_180: 
+  ascending_scale: "S - r - m - d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:43.282499"
+  descending_scale: "S' - n - d - m - r - S"
+  description: ~
+  drone: ~
+  id: "1336"
+  pakad: "r - m - d - n - d - m - r - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "2"
+  title: Gyankali
+  updated_at: "2009-09-13 14:57:43.282499"
+  url: gyankali
+  vaadi: m
+ragas_181: 
+  ascending_scale: "S - G, m - P, n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:04.117201"
+  descending_scale: "S' - n, D - P, m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1337"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: Kaamaai
+  updated_at: "2009-09-13 14:58:04.117201"
+  url: kaamaai
+  vaadi: m
+ragas_182: 
+  ascending_scale: "S - R - M - P - D, m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:23.561992"
+  descending_scale: "S' - P - D - MP, g - R - S - 'N - S or R' - n - D - P, MPDP - g, Rg - SR - 'NS"
+  description: ~
+  drone: ~
+  id: "1338"
+  pakad: "R - m - PDP - g, Rg - SR - 'NS"
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "1"
+  title: "Todi, Hussaini"
+  updated_at: "2009-09-13 15:10:23.561992"
+  url: todi-hussaini
+  vaadi: ~
+ragas_183: 
+  ascending_scale: "S - R - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:01.029471"
+  descending_scale: "S - n - P - m - R - m - R - S - 'N - S"
+  description: ~
+  drone: ~
+  id: "1339"
+  pakad: "n - P - m - R, m - R - 'N - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "3"
+  title: "Sarang, Vrindavani"
+  updated_at: "2009-09-13 15:10:01.029471"
+  url: sarang-vrindavani
+  vaadi: R
+ragas_184: 
+  ascending_scale: "'N - S - g - M - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:12.988074"
+  descending_scale: "S' - N - d - P - M - g - r - S"
+  description: ~
+  drone: ~
+  id: "1340"
+  pakad: "'N - S - g - M - P, g - M - g - (R) - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "4"
+  title: Multani
+  updated_at: "2009-09-13 15:09:12.988074"
+  url: multani
+  vaadi: P
+ragas_185: 
+  ascending_scale: "S - R - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:36.023893"
+  descending_scale: "S' - n - D - P - D - m - G - R - g - S"
+  description: ~
+  drone: ~
+  id: "1341"
+  pakad: "G - R - g - S - N' - S, R - m - P - D - m - G - R - g - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "2"
+  title: Barwa
+  updated_at: "2009-09-13 14:56:36.023893"
+  url: barwa
+  vaadi: S
+ragas_186: 
+  ascending_scale: "'n - S - g - m - P - n - S'"
+  chakra: ""
+  created_at: "2009-09-13 14:56:58.183929"
+  descending_scale: "S' - n - D - P - m - g - R - S"
+  description: ""
+  drone: ""
+  id: "1342"
+  pakad: "'n - S - m, g - m - P, m - g - R - S"
+  samvaadi: S
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/066xqBR1a23enW6pRuDquT"
+  thaat: Kafi
+  time: "4"
+  title: Bhimpalasi
+  updated_at: "2009-09-16 15:03:24.249190"
+  url: bhimpalasi
+  vaadi: m
+ragas_187: 
+  ascending_scale: "S - R - S - G - m - D - N - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:44.407383"
+  descending_scale: "S' - N - D - P - M - P - G - m - R - S"
+  description: ~
+  drone: ~
+  id: "1343"
+  pakad: "S - R - S - G - m - D"
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "6"
+  title: Hameer
+  updated_at: "2009-09-13 14:57:44.407383"
+  url: hameer
+  vaadi: D
+ragas_188: 
+  ascending_scale: "S - m - G - m - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:04.724732"
+  descending_scale: "S' - n - D - P - m - G - m - S"
+  description: ~
+  drone: ~
+  id: "1344"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: Kaamkesh
+  updated_at: "2009-09-13 14:58:04.724732"
+  url: kaamkesh
+  vaadi: m
+ragas_189: 
+  ascending_scale: "S - 'n - R - g - m - P - D - n - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:08.297082"
+  descending_scale: "S' - D - n - P - m - P - g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1345"
+  pakad: "S - 'n - R - S, g - m - R - S, P - m - P, D - n - P, S' - n - S' - R' - S' - D - n - P , m - n - P,"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "6"
+  title: "Kanada, Hussaini"
+  updated_at: "2009-09-13 15:08:08.297082"
+  url: kanada-hussaini
+  vaadi: P
+ragas_190: 
+  ascending_scale: "S - r - m - P - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:24.207587"
+  descending_scale: "S' - n - D - P - m - g - r - S"
+  description: ~
+  drone: ~
+  id: "1346"
+  pakad: "S - r - m - P, n - D - P, D - m, P - g, m - r, g - r - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "1"
+  title: "Todi, Jaiwanti"
+  updated_at: "2009-09-13 15:10:24.207587"
+  url: todi-jaiwanti
+  vaadi: P
+ragas_191: 
+  ascending_scale: "S - G, m - P, D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:02.566164"
+  descending_scale: "S' - D - P - m, P - G, m - G - S"
+  description: ~
+  drone: ~
+  id: "1347"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: "Saravali, Naag"
+  updated_at: "2009-09-13 15:10:02.566164"
+  url: saravali-naag
+  vaadi: m
+ragas_192: 
+  ascending_scale: "'n - S, G - m, D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:13.612146"
+  descending_scale: "R - n - S' - D - m, G - m - r - S"
+  description: ~
+  drone: ~
+  id: "1348"
+  pakad: ~
+  samvaadi: m
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "2"
+  title: "Naat Kuranjika"
+  updated_at: "2009-09-13 15:09:13.612146"
+  url: naat-kuranjika
+  vaadi: S
+ragas_193: 
+  ascending_scale: "S - (m)R - P, n - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:51.136332"
+  descending_scale: "S' - R' - (n)d - (n)d - n - P, m - P, (m)g - (m)g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1349"
+  pakad: "P - n - D, N - S', R' - (n)d - (n)d - n - P"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: m
+  title: "Malhar, Meera"
+  updated_at: "2009-09-13 15:08:51.136332"
+  url: malhar-meera
+  vaadi: S
+ragas_194: 
+  ascending_scale: "S - G - m - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:58.906924"
+  descending_scale: "S' - N - D - m - G - S"
+  description: ~
+  drone: ~
+  id: "1350"
+  pakad: "S - G - m - D - m - G - S - G - m - G - 'D - 'N - S - m"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "6"
+  title: "Bhinna Shadja"
+  updated_at: "2009-09-13 14:56:58.906924"
+  url: bhinna-shadja
+  vaadi: m
+ragas_195: 
+  ascending_scale: "S - R - G - m - P - d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:20.654800"
+  descending_scale: "S' - n - d - P - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1351"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "2"
+  title: Charukeshi
+  updated_at: "2009-09-13 14:57:20.654800"
+  url: charukeshi
+  vaadi: P
+ragas_196: 
+  ascending_scale: "S - g - M - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:45.127778"
+  descending_scale: "S' - n - D - M - g - S"
+  description: ~
+  drone: ~
+  id: "1352"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "6"
+  title: Harikauns
+  updated_at: "2009-09-13 14:57:45.127778"
+  url: harikauns
+  vaadi: ~
+ragas_197: 
+  ascending_scale: "S - R - g - m - P - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:05.442317"
+  descending_scale: "S' - n - D - P - D - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1353"
+  pakad: "S - R - R - g - m - P"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "5"
+  title: Kafi
+  updated_at: "2009-09-13 14:58:05.442317"
+  url: kafi
+  vaadi: P
+ragas_198: 
+  ascending_scale: "S - R - R - g - m - R - n - D - P - m - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:08.909354"
+  descending_scale: "S' - n - D - P - n - P - m - P - g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1354"
+  pakad: "S - S - R - R - g - g - m - m - P"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "7"
+  title: "Kanada, Kafi"
+  updated_at: "2009-09-13 15:08:08.909354"
+  url: kanada-kafi
+  vaadi: P
+ragas_199: 
+  ascending_scale: "S - R - G - (R)G - m, m - P - (n)d - (n)d - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:24.870236"
+  descending_scale: "S', r' - n - D, (n)d - P, m - P - (m)g - (m)g, R - g - m - S"
+  description: ~
+  drone: ~
+  id: "1355"
+  pakad: "S - R - G - (R)G - m, m - n - D - P, d - (P)m - P - (m)g - R"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: "Todi, Lachari"
+  updated_at: "2009-09-13 15:10:24.870236"
+  url: todi-lachari
+  vaadi: S
+ragas_200: 
+  ascending_scale: "S - r - m - P, d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:03.228376"
+  descending_scale: "S' - N - d - P, m - G - r - S"
+  description: ~
+  drone: ~
+  id: "1356"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: Saveri
+  updated_at: "2009-09-13 15:10:03.228376"
+  url: saveri
+  vaadi: P
+ragas_201: 
+  ascending_scale: "S - G - m - P - D - N - P - D - M - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:14.380828"
+  descending_scale: "S' - N - D - P - M - P, D - P - G - m - P - R - S"
+  description: ~
+  drone: ~
+  id: "1357"
+  pakad: "G - m - D - P - R - S, S - G - m"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "6"
+  title: Nand
+  updated_at: "2009-09-13 15:09:14.380828"
+  url: nand
+  vaadi: S
+ragas_202: 
+  ascending_scale: "S, m - R, m - P, n - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:51.883047"
+  descending_scale: "S' - n - P, m - R, m - 'N - R - S"
+  description: ~
+  drone: ~
+  id: "1358"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: m
+  title: "Malhar, Megh"
+  updated_at: "2009-09-13 15:08:51.883047"
+  url: malhar-megh
+  vaadi: S
+ragas_203: 
+  ascending_scale: "S - G - M - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:37.177551"
+  descending_scale: "S' - N - d - P - M - G, M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1359"
+  pakad: "M - d - r' - S' - N - d - P - M - G - M - G"
+  samvaadi: M
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "8"
+  title: Basant
+  updated_at: "2009-09-13 14:56:37.177551"
+  url: basant
+  vaadi: S'
+ragas_204: 
+  ascending_scale: "S - r - G, M - G, P - D - N - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:00.436689"
+  descending_scale: "S', N - D, M - D, M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1360"
+  pakad: "G - P - d - P - G - P - G - r - S"
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "1"
+  title: Bibhas
+  updated_at: "2009-09-13 15:24:46.541869"
+  url: bibhas
+  vaadi: D
+ragas_205: 
+  ascending_scale: "S - R - G - m - PR, G - m - D - P, P - S' - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:21.423816"
+  descending_scale: "R' - S' - ND - PR, G - M - R - S"
+  description: ~
+  drone: ~
+  id: "1361"
+  pakad: "P - R, G - m - P - m - G - m - R - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "6"
+  title: Chhayanat
+  updated_at: "2009-09-13 14:57:21.423816"
+  url: chhayanat
+  vaadi: R
+ragas_206: 
+  ascending_scale: "S - R - G - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:45.883556"
+  descending_scale: "S' - N - P - G - R - S"
+  description: ~
+  drone: ~
+  id: "1362"
+  pakad: "R - G - P - (G)R, G - P - N - P - G - R - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "5"
+  title: Haunsdhwani
+  updated_at: "2009-09-13 14:57:45.883556"
+  url: haunsdhwani
+  vaadi: S
+ragas_207: 
+  ascending_scale: "S - r - g - m - P - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:09.159823"
+  descending_scale: "S' - n - d - P - m - g - r - S"
+  description: ~
+  drone: ~
+  id: "1363"
+  pakad: ~
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "1"
+  title: Kakambheri
+  updated_at: "2009-09-13 14:58:09.159823"
+  url: kakambheri
+  vaadi: D
+ragas_208: 
+  ascending_scale: "'N - S - m, g - m - d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:10.075392"
+  descending_scale: "S' - n - d - m, P - m - g - R, g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1364"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "7"
+  title: "Kanada, Kaushi"
+  updated_at: "2009-09-13 15:08:10.075392"
+  url: kanada-kaushi
+  vaadi: m
+ragas_209: 
+  ascending_scale: "S - g - P - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:03.871429"
+  descending_scale: "S' - N - D - P - g, m - G - R, S"
+  description: ~
+  drone: ~
+  id: "1365"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: m
+  title: Sawan
+  updated_at: "2009-09-13 15:10:03.871429"
+  url: sawan
+  vaadi: S
+ragas_210: 
+  ascending_scale: "S - r, G - m, M - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:37.698232"
+  descending_scale: "S' - N - P - m - M - m - r - S"
+  description: ~
+  drone: ~
+  id: "1366"
+  pakad: ~
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "7"
+  title: "Ranjani, Pushp"
+  updated_at: "2009-09-13 15:09:37.698232"
+  url: ranjani-pushp
+  vaadi: G
+ragas_211: 
+  ascending_scale: "S - R - m - P - D - n - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:15.174857"
+  descending_scale: "S' - n - D - P - m - R - S"
+  description: ~
+  drone: ~
+  id: "1367"
+  pakad: "R - m - P - n - D - P"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: Narayani
+  updated_at: "2009-09-13 15:09:15.174857"
+  url: narayani
+  vaadi: P
+ragas_212: 
+  ascending_scale: "S - m - R - P, - m - P - n - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:52.620558"
+  descending_scale: "S' - D - n - P - m - P - (m)g~ - m - R - S"
+  description: ~
+  drone: ~
+  id: "1368"
+  pakad: "R - P - g - m - R - S, 'n - 'D - 'N - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: m
+  title: "Malhar, Miyan"
+  updated_at: "2009-09-13 15:08:52.620558"
+  url: malhar-miyan
+  vaadi: m
+ragas_213: 
+  ascending_scale: "S - r - G - m - P - d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:37.902005"
+  descending_scale: "S' - n - d - P - m - G - r - S"
+  description: ~
+  drone: ~
+  id: "1369"
+  pakad: "P - d - n - d - P, G - m - (G) r - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "1"
+  title: "Basant Mukhari"
+  updated_at: "2009-09-13 14:56:37.902005"
+  url: basant-mukhari
+  vaadi: P
+ragas_214: 
+  ascending_scale: "'N - S - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:01.986193"
+  descending_scale: "S' - N - (D) - P - M - P - G - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1370"
+  pakad: "'N - S - G - m - P, P - M - P - G - m - G - (R) S - ?N - S"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "6"
+  title: Bihag
+  updated_at: "2009-09-13 14:57:01.986193"
+  url: bihag
+  vaadi: G
+ragas_215: 
+  ascending_scale: "S - R - P - m - n - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:22.036730"
+  descending_scale: "S' - N - P - g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1371"
+  pakad: ~
+  samvaadi: R
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "7"
+  title: Daulati
+  updated_at: "2009-09-13 14:57:22.036730"
+  url: daulati
+  vaadi: P
+ragas_216: 
+  ascending_scale: "S - R - G - m - P - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:09.794849"
+  descending_scale: "S' - D - P - G - R - S"
+  description: ~
+  drone: ~
+  id: "1372"
+  pakad: ~
+  samvaadi: D
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "5"
+  title: "Kala Bharan"
+  updated_at: "2009-09-13 14:58:09.794849"
+  url: kala-bharan
+  vaadi: G
+ragas_217: 
+  ascending_scale: "S - R - m - P - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:10.835295"
+  descending_scale: "S' - n - P - m - P - g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1373"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: "Kanada, Nayaki"
+  updated_at: "2009-09-13 15:08:10.835295"
+  url: kanada-nayaki
+  vaadi: m
+ragas_218: 
+  ascending_scale: "S - 'n - 'P, S, S - R - G - m, m - g - P, (n)d - (n)d - (n) P, (n)d - (n)d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:25.520220"
+  descending_scale: "S' - n - S' - r' - S', n - d - P - d - g, m - g - r - S"
+  description: ~
+  drone: ~
+  id: "1374"
+  pakad: "S, P - P - (m)g - m, m - P (n)d - (n)d - d - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "1"
+  title: "Todi, Laxmi"
+  updated_at: "2009-09-13 15:10:25.520220"
+  url: todi-laxmi
+  vaadi: m
+ragas_219: 
+  ascending_scale: "S - G - P - N - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:04.634341"
+  descending_scale: "S' - N - (D)P, G - P - (R)G - (R)S"
+  description: ~
+  drone: ~
+  id: "1375"
+  pakad: "S - 'N - 'P - 'N - 'D - S - G - P - G - R - S'"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "6"
+  title: Shankara
+  updated_at: "2009-09-13 15:10:04.634341"
+  url: shankara
+  vaadi: G
+ragas_220: 
+  ascending_scale: "S - G - m - D - n - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:38.339172"
+  descending_scale: "R' - S - n - D - P, m - G, m - g - R - 'N - S"
+  description: ~
+  drone: ~
+  id: "1376"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: "Ranjani, Raag"
+  updated_at: "2009-09-13 15:09:38.339172"
+  url: ranjani-raag
+  vaadi: m
+ragas_221: 
+  ascending_scale: "S - R - G - m - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:15.876405"
+  descending_scale: "S' - N - P - m - R - S"
+  description: ~
+  drone: ~
+  id: "1377"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "6"
+  title: "Nat, Shuddha"
+  updated_at: "2009-09-13 15:09:15.876405"
+  url: nat-shuddha
+  vaadi: m
+ragas_222: 
+  ascending_scale: "'N - S - R - g - m - P - n - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:53.303132"
+  descending_scale: "S' - n - P - m - g - R - g - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1378"
+  pakad: "R - g - m - g - R - S - 'n - P - m - P - 'n - 'N - S"
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: m
+  title: "Malhar, Nanak"
+  updated_at: "2009-09-13 15:08:53.303132"
+  url: malhar-nanak
+  vaadi: ~
+ragas_223: 
+  ascending_scale: "S - R - G - m - P, P - N - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:02.827476"
+  descending_scale: "S' - N - D - P, G - m - n - D - P - m - G, (P)m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1379"
+  pakad: "G - m - n - D - P, P - m - G, R - G - m - P - m - G - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: "Bihag, Nat"
+  updated_at: "2009-09-13 14:57:02.827476"
+  url: bihag-nat
+  vaadi: P
+ragas_224: 
+  ascending_scale: "S - G - m - P, D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:23.050277"
+  descending_scale: "S' - n - D - P - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1380"
+  pakad: ~
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "6"
+  title: Deepak
+  updated_at: "2009-09-13 15:25:06.960001"
+  url: deepak
+  vaadi: G
+ragas_225: 
+  ascending_scale: "R - n - S - (m)g - m - P, n - D - n - P, m - P - n - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:12.363632"
+  descending_scale: "S' - n - D - n - P - m - P - (m)g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1381"
+  pakad: "n - D - n - P - m - P - (m)g - m - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: "Kanada, Shahana"
+  updated_at: "2009-09-13 15:08:12.363632"
+  url: kanada-shahana
+  vaadi: P
+ragas_226: 
+  ascending_scale: "S - r - g - M - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:26.329299"
+  descending_scale: "S' - N - d - P - M - g - r - S"
+  description: ~
+  drone: ~
+  id: "1382"
+  pakad: "N - d - P - M - d - N - S, S - r - g - r - S"
+  samvaadi: g
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "2"
+  title: "Todi, Miyan Ki"
+  updated_at: "2009-09-13 15:10:26.329299"
+  url: todi-miyan-ki
+  vaadi: d
+ragas_227: 
+  ascending_scale: "S - R - m - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:38.981590"
+  descending_scale: "S', N, D, m, D - m - R - S"
+  description: ~
+  drone: ~
+  id: "1383"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "7"
+  title: "Ranjani, Ras"
+  updated_at: "2009-09-13 15:09:38.981590"
+  url: ranjani-ras
+  vaadi: m
+ragas_228: 
+  ascending_scale: "S - R - m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:16.525622"
+  descending_scale: "R' - n - D - P - m - G - g - R - 'N - S - 'D - 'n - g - R"
+  description: ~
+  drone: ~
+  id: "1384"
+  pakad: "R - m - P - D\\m - G - g - R - g - R - g - R - S' - 'N -'N - S - 'D - 'n - g - R"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: Nilambari
+  updated_at: "2009-09-13 15:09:16.525622"
+  url: nilambari
+  vaadi: R
+ragas_229: 
+  ascending_scale: "S - (G)R - G - m, m - R - P, n - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:53.972256"
+  descending_scale: "S' - D - n - P - m, G - R - R - G - G - m - R - S"
+  description: ~
+  drone: ~
+  id: "1385"
+  pakad: "S - (G)R - G - m, m - R - P, D - n - P, m - P"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: "Malhar, Nat"
+  updated_at: "2009-09-13 15:08:53.972256"
+  url: malhar-nat
+  vaadi: m
+ragas_230: 
+  ascending_scale: "S - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:03.916966"
+  descending_scale: "S' - N - D - P, G - m - (R)G - R - S"
+  description: ~
+  drone: ~
+  id: "1386"
+  pakad: "N - D - P - P - G - m, G - m - (R)G"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "6"
+  title: "Bihag, Pat"
+  updated_at: "2009-09-13 14:57:03.916966"
+  url: bihag-pat
+  vaadi: P
+ragas_231: 
+  ascending_scale: "S - R - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:24.369033"
+  descending_scale: "S' - n - D - P - m - G - R - 'N - S"
+  description: ~
+  drone: ~
+  id: "1387"
+  pakad: "R - m - P, n - D - P, D - m - G - R, G - 'N - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "7"
+  title: Des
+  updated_at: "2009-09-13 14:57:24.369033"
+  url: des
+  vaadi: R
+ragas_232: 
+  ascending_scale: "S - G - P - D - n - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:10.612071"
+  descending_scale: "S' - n - D - P - G - P - G - S"
+  description: ~
+  drone: ~
+  id: "1388"
+  pakad: "G - P - D - n - D - S' - n - D - P - G - P - G - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: Kalawati
+  updated_at: "2009-09-13 14:58:10.612071"
+  url: kalawati
+  vaadi: P
+ragas_233: 
+  ascending_scale: "S - R - (m)g - m - P - n - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:13.068881"
+  descending_scale: "S' - n - D - n - P - m - P - (m)g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1389"
+  pakad: "S - n - D, n - n - P - m - R - S - R - (m)g"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "5"
+  title: "Kanada, Sughrai"
+  updated_at: "2009-09-13 15:08:13.068881"
+  url: kanada-sughrai
+  vaadi: P
+ragas_234: 
+  ascending_scale: "S - r - g - P - d - S' <b>OR</b> S - r - g - r - g - P - d - n - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:27.125108"
+  descending_scale: "r' - g' - r' - S' - d - n - d - P - g - r - g - r - S' - d - S"
+  description: ~
+  drone: ~
+  id: "1390"
+  pakad: "'d - S - r - g - P - g - r - g - r - S - r - S - 'd"
+  samvaadi: g
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "2"
+  title: "Todi, Saheli"
+  updated_at: "2009-09-13 15:10:27.125108"
+  url: todi-saheli
+  vaadi: d
+ragas_235: 
+  ascending_scale: "'N - S, g - M - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:39.654051"
+  descending_scale: "S' - n, D - P, M - g, R - S'"
+  description: ~
+  drone: ~
+  id: "1391"
+  pakad: ~
+  samvaadi: R
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: "Ranjani, Saraswat"
+  updated_at: "2009-09-13 15:09:39.654051"
+  url: ranjani-saraswat
+  vaadi: P
+ragas_236: 
+  ascending_scale: "S - R - P, n - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:17.177237"
+  descending_scale: "S' - n - P, G - m, R - S"
+  description: ~
+  drone: ~
+  id: "1392"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "7"
+  title: Nupur
+  updated_at: "2009-09-13 15:09:17.177237"
+  url: nupur
+  vaadi: R
+ragas_237: 
+  ascending_scale: "S - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:04.659219"
+  descending_scale: "S - N - D - P - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1393"
+  pakad: "G - m - P - S\\ P - P, P - D - m, m - P - G, m - P - m - P\\G - R  - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "6"
+  title: "Bihag, Sawani"
+  updated_at: "2009-09-13 14:57:04.659219"
+  url: bihag-sawani
+  vaadi: P
+ragas_238: 
+  ascending_scale: "S - r - S, P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:24.980697"
+  descending_scale: "S' - N - d - P, S - r - S"
+  description: ~
+  drone: ~
+  id: "1394"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Desh Gaud"
+  updated_at: "2009-09-13 14:57:24.980697"
+  url: desh-gaud
+  vaadi: R
+ragas_239: 
+  ascending_scale: "S - r - G - m - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:11.216336"
+  descending_scale: "S' - N - d - P - m - G - r - S"
+  description: ~
+  drone: ~
+  id: "1395"
+  pakad: "P - d - m - P - G - m - S - r - G - m"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "8"
+  title: Kalingda
+  updated_at: "2009-09-13 14:58:11.216336"
+  url: kalingda
+  vaadi: P
+ragas_240: 
+  ascending_scale: "'n - S - (m)g - m, P - n - m - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:13.684757"
+  descending_scale: "S' - n - P - m - P - (m)g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1396"
+  pakad: "'n - S - (m)g - (m)g - m - P - (m)g - m - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "5"
+  title: "Kanada, Suha"
+  updated_at: "2009-09-13 15:08:13.684757"
+  url: kanada-suha
+  vaadi: m
+ragas_241: 
+  ascending_scale: "S - r, r - S, S - r, G - P - G, P, d - P, S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:28.135620"
+  descending_scale: "S' - N - d - P, P - G, r - r - S"
+  description: ~
+  drone: ~
+  id: "1397"
+  pakad: "S - r - P, d - P - S', N - d - P, G - P - G - r"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: Triveni
+  updated_at: "2009-09-13 15:10:28.135620"
+  url: triveni
+  vaadi: S
+ragas_242: 
+  ascending_scale: "S - g - m - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:40.309824"
+  descending_scale: "S' - n - D - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1398"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "7"
+  title: "Ranjani, Shree"
+  updated_at: "2009-09-13 15:09:40.309824"
+  url: ranjani-shree
+  vaadi: m
+ragas_243: 
+  ascending_scale: "'N - S - m - R, P - m, n - P, S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:25.598651"
+  descending_scale: "S', n - P, m - P, g - m, R - S"
+  description: ~
+  drone: ~
+  id: "1399"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: Deshakhya
+  updated_at: "2009-09-13 14:57:25.598651"
+  url: deshakhya
+  vaadi: P
+ragas_244: 
+  ascending_scale: "'n - S - R - g - m, P - n - m - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:14.415116"
+  descending_scale: "S' - n - P - m - P - (m)g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1400"
+  pakad: "R - 'n - S - (m)R - m - n - P - n - m - P - (m)g - (m)g - m - R - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "5"
+  title: "Kanada, Suha Sughrai"
+  updated_at: "2009-09-13 15:08:14.415116"
+  url: kanada-suha-sughrai
+  vaadi: P
+ragas_245: 
+  ascending_scale: "'n - S - G - M - P - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:28.821564"
+  descending_scale: "S' - n - D - P - M - G - R - S"
+  description: ~
+  drone: ~
+  id: "1401"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "6"
+  title: Vachaspati
+  updated_at: "2009-09-13 15:10:28.821564"
+  url: vachaspati
+  vaadi: ~
+ragas_246: 
+  ascending_scale: "S - r - M - P - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:40.968771"
+  descending_scale: "S' - D - P - M - r - S"
+  description: ~
+  drone: ~
+  id: "1402"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "7"
+  title: "Ranjani, Yash"
+  updated_at: "2009-09-13 15:09:40.968771"
+  url: ranjani-yash
+  vaadi: S
+ragas_247: 
+  ascending_scale: "'P - 'D - S - R - G - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:17.945370"
+  descending_scale: "S' - N - D - P - m - G - R - s - 'n - 'd - 'P - 'd - S"
+  description: ~
+  drone: ~
+  id: "1403"
+  pakad: "S - 'D - 'P - 'D - 'm - 'G - 'P - 'D - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "5"
+  title: Pahadi
+  updated_at: "2009-09-13 15:09:17.945370"
+  url: pahadi
+  vaadi: S
+ragas_248: 
+  ascending_scale: "S - R - m - P -  m - P - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:26.317616"
+  descending_scale: "S' - P - D - P - d - m - P, R - g - S - R - 'n - S"
+  description: ~
+  drone: ~
+  id: "1404"
+  pakad: "P - D - m - P - g - r - S - r - 'n - S"
+  samvaadi: R
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: Desi
+  updated_at: "2009-09-13 14:57:26.317616"
+  url: desi
+  vaadi: P
+ragas_249: 
+  ascending_scale: "S - R - m - P - m - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:15.059932"
+  descending_scale: "S' - n - D - P - m - D - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1405"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: "Kanta, Udan"
+  updated_at: "2009-09-13 15:08:15.059932"
+  url: kanta-udan
+  vaadi: m
+ragas_250: 
+  ascending_scale: "S - R - S, G - m - M, M - D - M - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:41.966785"
+  descending_scale: "R' - S', D - M - m, G - m - R - S"
+  description: ~
+  drone: ~
+  id: "1406"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "1"
+  title: "Ras Chandra"
+  updated_at: "2009-09-13 15:09:41.966785"
+  url: ras-chandra
+  vaadi: m
+ragas_251: 
+  ascending_scale: "S - m - G - M - D - N - D - N - M - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:18.586683"
+  descending_scale: "S' - N - D - M - D - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1407"
+  pakad: "M - D - S' - N - D - M - D - M - G - r - S - S - m - G - M - D - N - D - N - M - D"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "5"
+  title: Pancham
+  updated_at: "2009-09-13 15:09:18.586683"
+  url: pancham
+  vaadi: m
+ragas_252: 
+  ascending_scale: "S - R - m - P - n' - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:26.981398"
+  descending_scale: "S' - n - d - P - m - g- r - S"
+  description: ~
+  drone: ~
+  id: "1408"
+  pakad: ~
+  samvaadi: R
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: "Desi, Komal"
+  updated_at: "2009-09-13 15:25:11.158628"
+  url: desi-komal
+  vaadi: P
+ragas_253: 
+  ascending_scale: "S - R - g - m - P - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:15.693841"
+  descending_scale: "S' - D - P - m - R - g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1409"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "5"
+  title: Kapi
+  updated_at: "2009-09-13 15:08:15.693841"
+  url: kapi
+  vaadi: m
+ragas_254: 
+  ascending_scale: "S - G - M - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:42.597903"
+  descending_scale: "S' - D - P - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1410"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "5"
+  title: Ratnadeep
+  updated_at: "2009-09-13 15:09:42.597903"
+  url: ratnadeep
+  vaadi: R
+ragas_255: 
+  ascending_scale: "S - R - G - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:28.322322"
+  descending_scale: "S' - D - P, D - P - G, P - G - R - S"
+  description: ~
+  drone: ~
+  id: "1411"
+  pakad: "D - P - G - P - G - R - S"
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "1"
+  title: Deskar
+  updated_at: "2009-09-13 14:57:28.322322"
+  url: deskar
+  vaadi: D
+ragas_256: 
+  ascending_scale: "S - G - m - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:43.359153"
+  descending_scale: "S' - n - D - m - R - g - R - S"
+  description: ~
+  drone: ~
+  id: "1412"
+  pakad: ~
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: Ravikosh
+  updated_at: "2009-09-13 15:09:43.359153"
+  url: ravikosh
+  vaadi: G
+ragas_257: 
+  ascending_scale: "S - r - G, P - d - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:44.008582"
+  descending_scale: "S' - d - P - G - r - S"
+  description: ~
+  drone: ~
+  id: "1413"
+  pakad: "S - r - g, P - d - P - G, S - r - G, r - G"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "5"
+  title: Reva
+  updated_at: "2009-09-13 15:09:44.008582"
+  url: reva
+  vaadi: S
+ragas_258: 
+  ascending_scale: "S - R - m - P - d - (D)m, P - d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:29.053577"
+  descending_scale: "S' - n - d - P - m - P - (m)g  - R  - S, R - n - S - R - G - m, P - (m)g - R - S"
+  description: ~
+  drone: ~
+  id: "1414"
+  pakad: "m - P - d - m - P - (m)g - R - S, R - n - S - R - G - m"
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: "Dev Gandhar"
+  updated_at: "2009-09-13 14:57:29.053577"
+  url: dev-gandhar
+  vaadi: d
+ragas_259: 
+  ascending_scale: "S - r - G, m - P - m - P, D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:23.027719"
+  descending_scale: "S - r' - S - N, D - P - m - G, r - S"
+  description: ~
+  drone: ~
+  id: "1415"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: Araj
+  updated_at: "2009-09-13 14:56:23.027719"
+  url: araj
+  vaadi: m
+ragas_260: 
+  ascending_scale: "N - S - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:29.800618"
+  descending_scale: "S' - N - D - P, P - Dm, P - G, G - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1416"
+  pakad: "N - (D)P, D - (P)m, P - (m)G, m - R - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "5"
+  title: Dhanashree
+  updated_at: "2009-09-13 15:25:14.504178"
+  url: dhanashree
+  vaadi: S
+ragas_261: 
+  ascending_scale: "S - R - m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:23.573943"
+  descending_scale: "S' - N - D - P - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1417"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "6"
+  title: Asa
+  updated_at: "2009-09-13 14:56:23.573943"
+  url: asa
+  vaadi: m
+ragas_262: 
+  ascending_scale: "'n - S - m - g - M - P, (m)g - m - P - S' - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:31.248210"
+  descending_scale: "S' - N - d - P - M - g - M - g, g - M - P - (M)g, M - g - r - S"
+  description: ~
+  drone: ~
+  id: "1418"
+  pakad: "'n - S - m - g, g - M - P - M - P, d - P - (M)g - M - g"
+  samvaadi: D
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "6"
+  title: "Dhanashree, Multani"
+  updated_at: "2009-09-13 14:57:31.248210"
+  url: dhanashree-multani
+  vaadi: P
+ragas_263: 
+  ascending_scale: "S - R - m - P - d - S'"
+  chakra: ""
+  created_at: "2009-09-13 14:56:24.475611"
+  descending_scale: "S' - n - d - P - m - g - R - S"
+  description: ""
+  drone: ""
+  id: "1419"
+  pakad: "R - m - P - S' - (n)d - P, R - m - P - n - d - P"
+  samvaadi: g
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/5V3znVJYyCCGjJSzTQNI7j"
+  thaat: Asavari
+  time: "2"
+  title: Asavari
+  updated_at: "2009-09-16 18:54:10.518016"
+  url: asavari
+  vaadi: d
+ragas_264: 
+  ascending_scale: "'N - r - G - M - d - N - r' - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:31.992590"
+  descending_scale: "r' - N - d - P, M - G - M - r - G - r - S"
+  description: ~
+  drone: ~
+  id: "1420"
+  pakad: "'N - r - G, M - P, d - P, M - G, M - r - G, r - S"
+  samvaadi: r
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "4"
+  title: "Dhanashree, Puriya"
+  updated_at: "2009-09-13 14:57:31.992590"
+  url: dhanashree-puriya
+  vaadi: P
+ragas_265: 
+  ascending_scale: "S - g - M - P - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:38.850945"
+  descending_scale: "S' - n - P - M - g - S"
+  description: ~
+  drone: ~
+  id: "1421"
+  pakad: "g - M - P - n - S - n - P - M - g - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "6"
+  title: Madhukauns
+  updated_at: "2009-09-13 15:08:38.850945"
+  url: madhukauns
+  vaadi: P
+ragas_266: 
+  ascending_scale: "S - r - m - P - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:25.212297"
+  descending_scale: "S' - R - n - d - P, d - P - m - G - (m)r - S"
+  description: ~
+  drone: ~
+  id: "1422"
+  pakad: "R - n - d - P, d - m - P - G - (m)r - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "2"
+  title: "Asavari, Jogi"
+  updated_at: "2009-09-13 14:56:25.212297"
+  url: asavari-jogi
+  vaadi: S
+ragas_267: 
+  ascending_scale: "'N - S, g - m - M - m, D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:55.120187"
+  descending_scale: "S' - N - D, m - M - m, g - S"
+  description: ~
+  drone: ~
+  id: "1423"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: Jaikauns
+  updated_at: "2009-09-13 14:57:55.120187"
+  url: jaikauns
+  vaadi: m
+ragas_268: 
+  ascending_scale: "'N - S - g - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:39.782216"
+  descending_scale: "S' - N - P - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1424"
+  pakad: "g - m - P - N - S' - N - P - m - g - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: Madhuranjani
+  updated_at: "2009-09-13 15:08:39.782216"
+  url: madhuranjani
+  vaadi: P
+ragas_269: 
+  ascending_scale: "S - r - m - P - d - S'"
+  chakra: ""
+  created_at: "2009-09-13 14:56:26.014887"
+  descending_scale: "S' - n - d - P - m - g - r - S"
+  description: ""
+  drone: ""
+  id: "1425"
+  pakad: ""
+  samvaadi: g
+  spotify_playlist_url: "http://open.spotify.com/user/duztdruid/playlist/5RKYRgD6Ho6aBUqAibF2G3"
+  thaat: Asavari
+  time: "2"
+  title: "Asavari, Komal Rishabh"
+  updated_at: "2009-09-16 19:54:27.082957"
+  url: asavari-komal-rishabh
+  vaadi: d
+ragas_270: 
+  ascending_scale: "S - m - G - m - P - m - m - (N)d - (N)d - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:46.836093"
+  descending_scale: "S' - R' - n - D - P - m - (G)m - G - m - P - r - S - (r)'d - (S)'n - S - m"
+  description: ~
+  drone: ~
+  id: "1426"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Bhairav, Kaushi"
+  updated_at: "2009-09-13 14:56:46.836093"
+  url: bhairav-kaushi
+  vaadi: m
+ragas_271: 
+  ascending_scale: "'n - S - g - m - P - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:32.717506"
+  descending_scale: "S' - n - P - M - g - R - S"
+  description: ~
+  drone: ~
+  id: "1427"
+  pakad: "g - m - n - P - g - R - S"
+  samvaadi: "n"
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: m
+  title: Dhani
+  updated_at: "2009-09-13 14:57:32.717506"
+  url: dhani
+  vaadi: g
+ragas_272: 
+  ascending_scale: "S - R - m - P, m - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:55.731846"
+  descending_scale: "S' - D - P - M, D - P, m - R - S"
+  description: ~
+  drone: ~
+  id: "1428"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "7"
+  title: Jairaj
+  updated_at: "2009-09-13 14:57:55.731846"
+  url: jairaj
+  vaadi: m
+ragas_273: 
+  ascending_scale: "S - g, P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:40.400803"
+  descending_scale: "S' - n, P - G, P - m, 'n - S"
+  description: ~
+  drone: ~
+  id: "1429"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "7"
+  title: Madhuri
+  updated_at: "2009-09-13 15:08:40.400803"
+  url: madhuri
+  vaadi: m
+ragas_274: 
+  ascending_scale: "S - r - G - P, d - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:13.203328"
+  descending_scale: "S' - N - d - P, M - G, P - G - r - S"
+  description: ~
+  drone: ~
+  id: "1430"
+  pakad: ~
+  samvaadi: R
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "5"
+  title: Tanki
+  updated_at: "2009-09-13 15:10:13.203328"
+  url: tanki
+  vaadi: P
+ragas_275: 
+  ascending_scale: "S - R - m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:26.703817"
+  descending_scale: "S' - n - D - P, d - m - P - (m)g, R - m - m - g, S - R - S"
+  description: ~
+  drone: ~
+  id: "1431"
+  pakad: "m - P - D - S', n - d - P, D - m - P - D - S'"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: "Asavari, Sindhura"
+  updated_at: "2009-09-13 14:56:26.703817"
+  url: asavari-sindhura
+  vaadi: S'
+ragas_276: 
+  ascending_scale: "S - r, g - m - P - d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:47.446992"
+  descending_scale: "S' - n - d - P - d - n - d - P, m - g - r - S"
+  description: ~
+  drone: ~
+  id: "1432"
+  pakad: ~
+  samvaadi: r
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Bhairav, Komal"
+  updated_at: "2009-09-13 14:56:47.446992"
+  url: bhairav-komal
+  vaadi: d
+ragas_277: 
+  ascending_scale: "S - r - G, P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:33.323243"
+  descending_scale: "S' - D - P, G - r - S"
+  description: ~
+  drone: ~
+  id: "1433"
+  pakad: ~
+  samvaadi: r
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "8"
+  title: "Dhanya Dhaivat"
+  updated_at: "2009-09-13 14:57:33.323243"
+  url: dhanya-dhaivat
+  vaadi: D
+ragas_278: 
+  ascending_scale: "S - r - G - P - D - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:56.454542"
+  descending_scale: "S' - P - D - P - G - r - S"
+  description: ~
+  drone: ~
+  id: "1434"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "5"
+  title: Jait
+  updated_at: "2009-09-13 14:57:56.454542"
+  url: jait
+  vaadi: ~
+ragas_279: 
+  ascending_scale: "'N - S - g - M - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:41.144844"
+  descending_scale: "S' - N - D - P - M - g - R - S"
+  description: ~
+  drone: ~
+  id: "1435"
+  pakad: "D - (P)M - P - g - M - g - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "3"
+  title: Madhuvanti
+  updated_at: "2009-09-13 15:08:41.144844"
+  url: madhuvanti
+  vaadi: P
+ragas_280: 
+  ascending_scale: "S - R - G - S - R - m - P - N - S"
+  chakra: ~
+  created_at: "2009-09-13 15:10:13.996067"
+  descending_scale: "S' - n - D - P - D - m - G - S - R - G - S"
+  description: ~
+  drone: ~
+  id: "1436"
+  pakad: "S - P - D - m - G - S - R - G - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "5"
+  title: "Tilak Kamod"
+  updated_at: "2009-09-13 15:10:13.996067"
+  url: tilak-kamod
+  vaadi: S
+ragas_281: 
+  ascending_scale: "S - r - G - M - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:04.545325"
+  descending_scale: "S' - r' - N - d - P - G - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1437"
+  pakad: ~
+  samvaadi: d
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "5"
+  title: Manohar
+  updated_at: "2009-09-13 15:09:04.545325"
+  url: manohar
+  vaadi: G
+ragas_282: 
+  ascending_scale: "S - g - m - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:28.134371"
+  descending_scale: "S' - n - D - m - g - S"
+  description: ~
+  drone: ~
+  id: "1438"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: "Bageshree, Audav"
+  updated_at: "2009-09-13 14:56:28.134371"
+  url: bageshree-audav
+  vaadi: ~
+ragas_283: 
+  ascending_scale: "S - r - m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:49.501695"
+  descending_scale: "S' - D - P - m - (G)r, S - r - G - r - S, (S)'D - 'D - S"
+  description: ~
+  drone: ~
+  id: "1439"
+  pakad: "m - P - D - P, m - (G)r, S - r - S, (S)'D - 'D - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Bhairav, Mangal"
+  updated_at: "2009-09-13 14:56:49.501695"
+  url: bhairav-mangal
+  vaadi: P
+ragas_284: 
+  ascending_scale: "'N - S - G - P - M - d - P - M - D - N - D - P - M - D - N - S"
+  chakra: ~
+  created_at: "2009-09-13 14:57:34.116994"
+  descending_scale: "r' - N - d - P - M - G - M - r - G - r - S"
+  description: ~
+  drone: ~
+  id: "1440"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: m
+  title: Dhavalshree
+  updated_at: "2009-09-13 14:57:34.116994"
+  url: dhavalshree
+  vaadi: P
+ragas_285: 
+  ascending_scale: "'N - S - G - P - M - d - P - M - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:57.082888"
+  descending_scale: "R' - N - d - P - S' - P - M - G - M - r - G - r - S"
+  description: ~
+  drone: ~
+  id: "1441"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: m
+  title: Jaitshree
+  updated_at: "2009-09-13 14:57:57.082888"
+  url: jaitshree
+  vaadi: P
+ragas_286: 
+  ascending_scale: "S - G - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:14.963643"
+  descending_scale: "S' - n - P - m - G - S"
+  description: ~
+  drone: ~
+  id: "1442"
+  pakad: "m - P - N - S' - n - P - G - m - S"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "5"
+  title: Tilang
+  updated_at: "2009-09-13 15:10:14.963643"
+  url: tilang
+  vaadi: G
+ragas_287: 
+  ascending_scale: "S - R - g - m - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:05.294372"
+  descending_scale: "S' - N - D - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1443"
+  pakad: "m - g - R - 'N - S - 'D - 'N - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "2"
+  title: "Manohari, Amba"
+  updated_at: "2009-09-13 15:09:05.294372"
+  url: manohari-amba
+  vaadi: m
+ragas_288: 
+  ascending_scale: "S - R - G - m - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:50.118535"
+  descending_scale: "S' - N - d - P - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1444"
+  pakad: "S - R - G - m - d - P, G - m - R - S, R - 'N - 'd - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Bhairav, Nat"
+  updated_at: "2009-09-13 14:56:50.118535"
+  url: bhairav-nat
+  vaadi: P
+ragas_289: 
+  ascending_scale: "S - r - G - r - m - P - N - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:36.047513"
+  descending_scale: "S' - N - d - P - m - G - r - S"
+  description: ~
+  drone: ~
+  id: "1445"
+  pakad: ~
+  samvaadi: R
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: Gandhakriya
+  updated_at: "2009-09-13 14:57:36.047513"
+  url: gandhakriya
+  vaadi: D
+ragas_290: 
+  ascending_scale: "S - r - g, M - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:57.706094"
+  descending_scale: "S' - d - P, M - g - r - S"
+  description: ~
+  drone: ~
+  id: "1446"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "2"
+  title: Jaiwanti
+  updated_at: "2009-09-13 14:57:57.706094"
+  url: jaiwanti
+  vaadi: S
+ragas_291: 
+  ascending_scale: "N - R - G - M - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:22.104457"
+  descending_scale: "S' N - D - M - G - R, N - R - S"
+  description: ~
+  drone: ~
+  id: "1447"
+  pakad: "G - (M)D, D - (M)G - R, N - R - S"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "6"
+  title: "Kalyan, Raj"
+  updated_at: "2009-09-13 14:58:22.104457"
+  url: kalyan-raj
+  vaadi: G
+ragas_292: 
+  ascending_scale: "S - R - G - m - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:41.894966"
+  descending_scale: "S' - n - D - P - m - G, m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1448"
+  pakad: "G - m - g - R - S - 'N - S - 'D - 'n - S - G - m"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "2"
+  title: Malagunji
+  updated_at: "2009-09-13 15:08:41.894966"
+  url: malagunji
+  vaadi: m
+ragas_293: 
+  ascending_scale: "S - R - m - P - n - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:15.605064"
+  descending_scale: "S' - n - D - P - g - R - S"
+  description: ~
+  drone: ~
+  id: "1449"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "2"
+  title: "Todi, Anjani"
+  updated_at: "2009-09-13 15:10:15.605064"
+  url: todi-anjani
+  vaadi: P
+ragas_294: 
+  ascending_scale: "S - G - m - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:06.127884"
+  descending_scale: "S' - N - d - P - m - G - S"
+  description: ~
+  drone: ~
+  id: "1450"
+  pakad: ~
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Manohari, Kamal"
+  updated_at: "2009-09-13 15:09:06.127884"
+  url: manohari-kamal
+  vaadi: G
+ragas_295: 
+  ascending_scale: "'n - S - m, - P - g - m - n - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:28.972724"
+  descending_scale: "S' - n - P, - m - P - g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1451"
+  pakad: "S - m, m - P - g - m, n - D - N - S'"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "7"
+  title: Bahar
+  updated_at: "2009-09-13 14:56:28.972724"
+  url: bahar
+  vaadi: m
+ragas_296: 
+  ascending_scale: "N - r - G - m - M - G, G - m - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:50.736739"
+  descending_scale: "S' - N - d - P - m, m - d - M - m - G, r - G - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1452"
+  pakad: "G - m - (N)d - (N)d - P - G - m, M - d - M - m - G - m"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "1"
+  title: "Bhairav, Prabhaat"
+  updated_at: "2009-09-13 14:56:50.736739"
+  url: bhairav-prabhaat
+  vaadi: m
+ragas_297: 
+  ascending_scale: "S - G - m - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:13.852182"
+  descending_scale: "S' - N - D - P - m - G - m - R - S"
+  description: ~
+  drone: ~
+  id: "1453"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "6"
+  title: Chakradhar
+  updated_at: "2009-09-13 14:57:13.852182"
+  url: chakradhar
+  vaadi: m
+ragas_298: 
+  ascending_scale: "S - R - m - P - d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:36.791502"
+  descending_scale: "S' - n - d - n - d - P - m - g - r - S"
+  description: ~
+  drone: ~
+  id: "1454"
+  pakad: "R - m - P - d - P - n - d - S - n - d - P"
+  samvaadi: g
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: Gandhari
+  updated_at: "2009-09-13 14:57:36.791502"
+  url: gandhari
+  vaadi: d
+ragas_299: 
+  ascending_scale: "S - R - G - P - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:58.445697"
+  descending_scale: "S' - n - D - P - G - P - G - R, S - 'n - 'D - S"
+  description: ~
+  drone: ~
+  id: "1455"
+  pakad: "P - D - n - D - P - G - R, S - 'n - 'D - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "5"
+  title: Janasamohini
+  updated_at: "2009-09-13 14:57:58.445697"
+  url: janasamohini
+  vaadi: S
+ragas_300: 
+  ascending_scale: "S - R - G - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:22.721696"
+  descending_scale: "S' - N - D - P - M - G - R - S"
+  description: ~
+  drone: ~
+  id: "1456"
+  pakad: ~
+  samvaadi: D
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "6"
+  title: "Kalyan, Samant"
+  updated_at: "2009-09-13 14:58:22.721696"
+  url: kalyan-samant
+  vaadi: G
+ragas_301: 
+  ascending_scale: "S - r - g - m - P - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:42.586978"
+  descending_scale: "S' - n - d - m - g - r - S"
+  description: ~
+  drone: ~
+  id: "1457"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "1"
+  title: Malani
+  updated_at: "2009-09-13 15:08:42.586978"
+  url: malani
+  vaadi: m
+ragas_302: 
+  ascending_scale: "S - r - G - m - M - P - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:06.883185"
+  descending_scale: "S' - N - d - P - M - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1458"
+  pakad: ~
+  samvaadi: D
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "4"
+  title: Maru
+  updated_at: "2009-09-13 15:09:06.883185"
+  url: maru
+  vaadi: R
+ragas_303: 
+  ascending_scale: "S - g - m - D - n - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:29.706285"
+  descending_scale: "S - n - D - m, P - (P)g, m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1459"
+  pakad: "D - n - D - m, P - m - g - m, R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: "Bahar, Bageshree"
+  updated_at: "2009-09-13 14:56:29.706285"
+  url: bahar-bageshree
+  vaadi: m
+ragas_304: 
+  ascending_scale: "S - r - m - P - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:51.338148"
+  descending_scale: "S' - N - d - P - m - G - r - S"
+  description: ~
+  drone: ~
+  id: "1460"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Bhairav, Saveri"
+  updated_at: "2009-09-13 14:56:51.338148"
+  url: bhairav-saveri
+  vaadi: P
+ragas_305: 
+  ascending_scale: "S - (R)G m, G - m - P - D - N - N - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:14.609241"
+  descending_scale: "S' - R' - n - D - (P)m, (m)P - (P)G - (R)S - R - S"
+  description: ~
+  drone: ~
+  id: "1461"
+  pakad: "S - (R)m, (P)D - m, (P)G - R - S - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "5"
+  title: Champak
+  updated_at: "2009-09-13 14:57:14.609241"
+  url: champak
+  vaadi: m
+ragas_306: 
+  ascending_scale: "S - G - m - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:37.547763"
+  descending_scale: "S' - n - D - P - m - G, R - g - R - S, N - (R)S - 'n - 'D - S"
+  description: ~
+  drone: ~
+  id: "1462"
+  pakad: "S - G - M - P - G - M - G, R - g - R - S, 'N - R - S - 'N - 'D"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "1"
+  title: Gara
+  updated_at: "2009-09-13 14:57:37.547763"
+  url: gara
+  vaadi: G
+ragas_307: 
+  ascending_scale: "S - R - m - P - d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:59.174301"
+  descending_scale: "S' - n - d - P - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1463"
+  pakad: "m - P - d - n - S - n - d - P - m - P - g - R - m - P - d - P"
+  samvaadi: g
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: Jaunpuri
+  updated_at: "2009-09-13 14:57:59.174301"
+  url: jaunpuri
+  vaadi: d
+ragas_308: 
+  ascending_scale: "S, R, M, P, D - P, S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:23.471735"
+  descending_scale: "S', D - P, M - P, R - S"
+  description: ~
+  drone: ~
+  id: "1464"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "1"
+  title: "Kalyan, Shree"
+  updated_at: "2009-09-13 14:58:23.471735"
+  url: kalyan-shree
+  vaadi: P
+ragas_309: 
+  ascending_scale: "S, R - M - P, N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:43.309892"
+  descending_scale: "N - S' - D - P, R - M - P, G - R - S"
+  description: ~
+  drone: ~
+  id: "1465"
+  pakad: ~
+  samvaadi: R
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: Malarani
+  updated_at: "2009-09-13 15:08:43.309892"
+  url: malarani
+  vaadi: P
+ragas_310: 
+  ascending_scale: "S - r - m - P - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:16.337685"
+  descending_scale: "S' - n - d - m - r - g - r - S"
+  description: ~
+  drone: ~
+  id: "1466"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Todi
+  time: "1"
+  title: "Todi, Asa"
+  updated_at: "2009-09-13 15:10:16.337685"
+  url: todi-asa
+  vaadi: P
+ragas_311: 
+  ascending_scale: "S - g - m - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:30.577605"
+  descending_scale: "S' - N - D - m - g - S"
+  description: ~
+  drone: ~
+  id: "1467"
+  pakad: ~
+  samvaadi: m
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "5"
+  title: Rajeshwari
+  updated_at: "2009-09-13 15:09:30.577605"
+  url: rajeshwari
+  vaadi: S
+ragas_312: 
+  ascending_scale: "N - S - G - M - P - m - G, M - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:07.727317"
+  descending_scale: "S' - N - D - P - M - G, M - G - R - S"
+  description: ~
+  drone: ~
+  id: "1468"
+  pakad: "P - G - M - G - R - S, S - m - G - S - G - M - P"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "4"
+  title: "Maru Bihag"
+  updated_at: "2009-09-13 15:09:07.727317"
+  url: maru-bihag
+  vaadi: G
+ragas_313: 
+  ascending_scale: "S - G, M - G, M - n - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:30.434579"
+  descending_scale: "D - n - S' - n - P, M - G, M - G, M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1469"
+  pakad: "S - m - P, (m)g - m, N - D - M - P - M - G - M - G"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "7"
+  title: "Bahar, Basant"
+  updated_at: "2009-09-13 14:56:30.434579"
+  url: bahar-basant
+  vaadi: S'
+ragas_314: 
+  ascending_scale: "S - r - S, G - m - P, (N)d - (N)d - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:51.955997"
+  descending_scale: "S' - n - d - P - m - g - m - P, m - G - m - (G)r, g - r - S"
+  description: ~
+  drone: ~
+  id: "1470"
+  pakad: "g - m - P, d - d - S', r' - n - d - P, d - n - d - P - m"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "1"
+  title: "Bhairav, Shivmat"
+  updated_at: "2009-09-13 14:56:51.955997"
+  url: bhairav-shivmat
+  vaadi: P
+ragas_315: 
+  ascending_scale: "S - R - G - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:15.216183"
+  descending_scale: "S' - N - D - P, M - G - R - S"
+  description: ~
+  drone: ~
+  id: "1471"
+  pakad: ~
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: Chandrakant
+  updated_at: "2009-09-13 14:57:15.216183"
+  url: chandrakant
+  vaadi: G
+ragas_316: 
+  ascending_scale: "S - R - G - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:24.225097"
+  descending_scale: "S - ND - P, P - MG - R - S"
+  description: ~
+  drone: ~
+  id: "1472"
+  pakad: "S - ('N)'D - 'P, 'D - S, R - G - P - (M)G, P - (G)R - S"
+  samvaadi: D
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: "Kalyan, Shuddha"
+  updated_at: "2009-09-13 14:58:24.225097"
+  url: kalyan-shuddha
+  vaadi: G
+ragas_317: 
+  ascending_scale: "S - G - P - N - S"
+  chakra: ~
+  created_at: "2009-09-13 15:08:44.068402"
+  descending_scale: "S - (N)P - (M)(G), P - G - S"
+  description: ~
+  drone: ~
+  id: "1473"
+  pakad: "S - (N)P - M(G), P - G - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: Malashree
+  updated_at: "2009-09-13 15:08:44.068402"
+  url: malashree
+  vaadi: P
+ragas_318: 
+  ascending_scale: "R - 'n - S  - R - g - (S)R - g, m - P - (N)d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:17.452046"
+  descending_scale: "S' - r' - n - d - m - g - R, g - (S)R - g, r - S"
+  description: ~
+  drone: ~
+  id: "1474"
+  pakad: "R - 'n - S - R - g - (S)R - g, P - R - g - S - R - 'n, r - g - r - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "1"
+  title: "Todi, Bahaduri"
+  updated_at: "2009-09-13 15:10:17.452046"
+  url: todi-bahaduri
+  vaadi: S
+ragas_319: 
+  ascending_scale: "S - R - m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:31.239452"
+  descending_scale: "S' - n - P - m - R - S"
+  description: ~
+  drone: ~
+  id: "1475"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "2"
+  title: "Rakta Hauns"
+  updated_at: "2009-09-13 15:09:31.239452"
+  url: rakta-hauns
+  vaadi: R
+ragas_320: 
+  ascending_scale: "'N - r - G - M - D - N - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:08.467307"
+  descending_scale: "S' - N - D - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1476"
+  pakad: "D - M - G - r - G - M - G - r - 'N - S"
+  samvaadi: D
+  spotify_playlist_url: ~
+  thaat: Marwa
+  time: "4"
+  title: Marwa
+  updated_at: "2009-09-13 15:09:08.467307"
+  url: marwa
+  vaadi: r
+ragas_321: 
+  ascending_scale: "S - 'N - S - m - G - D - N - S"
+  chakra: ~
+  created_at: "2009-09-13 14:56:52.598084"
+  descending_scale: "S - d - d - P - G - m - P - G - M - r - S"
+  description: ~
+  drone: ~
+  id: "1477"
+  pakad: "m - D - N - S' - S' - N - d - m"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Bhairav, Sourashtra"
+  updated_at: "2009-09-13 14:56:52.598084"
+  url: bhairav-sourashtra
+  vaadi: m
+ragas_322: 
+  ascending_scale: "S - g - m - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:16.036067"
+  descending_scale: "S' - N - d - m - g - m - g - S - 'N - S"
+  description: ~
+  drone: ~
+  id: "1478"
+  pakad: "g - m - g - 'N - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "6"
+  title: Chandrakauns
+  updated_at: "2009-09-13 14:57:16.036067"
+  url: chandrakauns
+  vaadi: m
+ragas_323: 
+  ascending_scale: "S - g - m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:59.777572"
+  descending_scale: "S' - n - D - P, m - g - S"
+  description: ~
+  drone: ~
+  id: "1479"
+  pakad: ~
+  samvaadi: D
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "8"
+  title: Jayant
+  updated_at: "2009-09-13 14:57:59.777572"
+  url: jayant
+  vaadi: G
+ragas_324: 
+  ascending_scale: "N - R - G - M - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:25.874346"
+  descending_scale: "S' - N - D - P - M - G - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1480"
+  pakad: "'N - R - G - M - P - R - GmG - R - G - R - 'N - R - S"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: "Kalyan, Yaman"
+  updated_at: "2009-09-13 14:58:25.874346"
+  url: kalyan-yaman
+  vaadi: G
+ragas_325: 
+  ascending_scale: "S - R - G - P - m, G - m - P - D - n - D, P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:23.691355"
+  descending_scale: "S' - n - D - P - m, G - R - G - P - m, G - R - S"
+  description: ~
+  drone: ~
+  id: "1481"
+  pakad: ~
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "7"
+  title: "Khamaj, Manjh"
+  updated_at: "2009-09-13 15:08:23.691355"
+  url: khamaj-manjh
+  vaadi: ~
+ragas_326: 
+  ascending_scale: "S - r - G - M - P, M - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:44.717376"
+  descending_scale: "S' - N - P - M, G - r - S"
+  description: ~
+  drone: ~
+  id: "1482"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Poorvi
+  time: "5"
+  title: Malavi
+  updated_at: "2009-09-13 15:08:44.717376"
+  url: malavi
+  vaadi: R
+ragas_327: 
+  ascending_scale: "S - r - g - P - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:18.542977"
+  descending_scale: "S' - n - P - g - r - S"
+  description: ~
+  drone: ~
+  id: "1483"
+  pakad: "S - r - g - P, P - g - r - g - r - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "1"
+  title: "Todi, Bairagi"
+  updated_at: "2009-09-13 15:10:18.542977"
+  url: todi-bairagi
+  vaadi: P
+ragas_328: 
+  ascending_scale: "S - r - G - m - P, G - m - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:32.100264"
+  descending_scale: "S' - N - d - P - M - P, d - (N)d - P, G - m - r - S"
+  description: ~
+  drone: ~
+  id: "1484"
+  pakad: "M - P - d - N - d - P - G - m - R - S"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: Ramkali
+  updated_at: "2009-09-13 15:09:32.100264"
+  url: ramkali
+  vaadi: P
+ragas_329: 
+  ascending_scale: "S - m - R~ - P - m - P - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:09.202331"
+  descending_scale: "S' - n - P - m - R~ - S"
+  description: ~
+  drone: ~
+  id: "1485"
+  pakad: "R - R - S - 'n - S - m - R - p - m - R - n - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: m
+  title: Megh
+  updated_at: "2009-09-13 15:09:09.202331"
+  url: megh
+  vaadi: S
+ragas_330: 
+  ascending_scale: "S - r - G - m - M - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:53.319725"
+  descending_scale: "S' - n - M - m - G - r - S"
+  description: ~
+  drone: ~
+  id: "1486"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: "Bhairav, Udasi"
+  updated_at: "2009-09-13 14:56:53.319725"
+  url: bhairav-udasi
+  vaadi: m
+ragas_331: 
+  ascending_scale: "S - g - m - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:16.719145"
+  descending_scale: "R' - n - d - P - m - G - S - g - S"
+  description: ~
+  drone: ~
+  id: "1487"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: Chandranandan
+  updated_at: "2009-09-13 14:57:16.719145"
+  url: chandranandan
+  vaadi: m
+ragas_332: 
+  ascending_scale: "S - R - m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:00.543006"
+  descending_scale: "S' - n - D - P - m - G - R - G - (R) - S"
+  description: ~
+  drone: ~
+  id: "1488"
+  pakad: "D - S - R - m - G - P - m - G - R - S - 'n - 'D - 'P"
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: Jhinjhoti
+  updated_at: "2009-09-13 14:58:00.543006"
+  url: jhinjhoti
+  vaadi: G
+ragas_333: 
+  ascending_scale: "S - R - G, P, D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:26.490163"
+  descending_scale: "S' - n, D - P, m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1489"
+  pakad: ~
+  samvaadi: D
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: Kamboji
+  updated_at: "2009-09-13 14:58:26.490163"
+  url: kamboji
+  vaadi: G
+ragas_334: 
+  ascending_scale: "S - R - m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:24.468017"
+  descending_scale: "S - n - D - P, D - m - (P)G - (m)S"
+  description: ~
+  drone: ~
+  id: "1490"
+  pakad: "n - D - P - D - P - m - P - G - (m)S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "6"
+  title: Khambavati
+  updated_at: "2009-09-13 15:08:24.468017"
+  url: khambavati
+  vaadi: S
+ragas_335: 
+  ascending_scale: "S - G - P - D - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:45.370843"
+  descending_scale: "S' - n - D - P - G - r - S"
+  description: ~
+  drone: ~
+  id: "1491"
+  pakad: "G - P - D - n - D - P - G - r, 'n - r - S"
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Bhairav
+  time: "1"
+  title: Malayamarutam
+  updated_at: "2009-09-13 15:08:45.370843"
+  url: malayamarutam
+  vaadi: S
+ragas_336: 
+  ascending_scale: "'d - S - r - g - P - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:19.218870"
+  descending_scale: "S' - d - P - g - r - S"
+  description: ~
+  drone: ~
+  id: "1492"
+  pakad: "S - r - 'd - S, rg - rg - r - S"
+  samvaadi: g
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "2"
+  title: "Todi, Bhupali"
+  updated_at: "2009-09-13 15:10:19.218870"
+  url: todi-bhupali
+  vaadi: d
+ragas_337: 
+  ascending_scale: "S - m, m - P - (n)d - (n)d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:32.874434"
+  descending_scale: "S' - (n)d - (n)d - P - d - m, m - S"
+  description: ~
+  drone: ~
+  id: "1493"
+  pakad: "S - m - m - P, m - d - d - P - d - m, m - S"
+  samvaadi: m
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "1"
+  title: "Ranjani, Dev"
+  updated_at: "2009-09-13 15:09:32.874434"
+  url: ranjani-dev
+  vaadi: P
+ragas_338: 
+  ascending_scale: "S - g - R - g - m - P - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:56:54.670841"
+  descending_scale: "S' - d - P - m - P - g - R - S"
+  description: ~
+  drone: ~
+  id: "1494"
+  pakad: ~
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: "Bhairavi, Adi"
+  updated_at: "2009-09-13 14:56:54.670841"
+  url: bhairavi-adi
+  vaadi: D
+ragas_339: 
+  ascending_scale: "S - R - m - d - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:17.341421"
+  descending_scale: "S' - N - d - m - R - S"
+  description: ~
+  drone: ~
+  id: "1495"
+  pakad: m
+  samvaadi: ~
+  spotify_playlist_url: ~
+  thaat: ~
+  time: "6"
+  title: Chandraprabha
+  updated_at: "2009-09-13 14:57:17.341421"
+  url: chandraprabha
+  vaadi: S
+ragas_340: 
+  ascending_scale: "'n - S - G - m - P - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:01.270072"
+  descending_scale: "S' - n - P - m - G - S - g - S"
+  description: ~
+  drone: ~
+  id: "1496"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "7"
+  title: Jog
+  updated_at: "2009-09-13 14:58:01.270072"
+  url: jog
+  vaadi: S
+ragas_341: 
+  ascending_scale: "S - R - g - m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:58:27.115638"
+  descending_scale: "S' - n - D - P - m - g - R - S"
+  description: ~
+  drone: ~
+  id: "1497"
+  pakad: ~
+  samvaadi: "N"
+  spotify_playlist_url: ~
+  thaat: Kafi
+  time: "6"
+  title: "Kamboji, Gop"
+  updated_at: "2009-09-13 14:58:27.115638"
+  url: kamboji-gop
+  vaadi: G
+ragas_342: 
+  ascending_scale: "R - 'n - S - (m)g, m - P, (n)d - n - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:25.213189"
+  descending_scale: "R' - S' - n - D - P, (n)m - P - (m)g - m - R - S"
+  description: ~
+  drone: ~
+  id: "1498"
+  pakad: "R - 'n - S (m)g, m - P, (n)d - (n)D - n - P, S' - n - D - P"
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "2"
+  title: Khat
+  updated_at: "2009-09-13 15:08:25.213189"
+  url: khat
+  vaadi: P
+ragas_343: 
+  ascending_scale: "S - r - g - P - d - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:10:20.030073"
+  descending_scale: "S' - r' - n - d - m - g - rgr - S"
+  description: ~
+  drone: ~
+  id: "1499"
+  pakad: "S' - r' - n - d, m - P - d - n - d - m - g, rgr - S"
+  samvaadi: g
+  spotify_playlist_url: ~
+  thaat: Bhairavi
+  time: "2"
+  title: "Todi, Bilaskhani"
+  updated_at: "2009-09-13 15:10:20.030073"
+  url: todi-bilaskhani
+  vaadi: d
+ragas_344: 
+  ascending_scale: "N - S - G - M - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:33.566815"
+  descending_scale: "S' - N - d - P - M - G - r - S"
+  description: ~
+  drone: ~
+  id: "1500"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Asavari
+  time: "6"
+  title: "Ranjani, Gou"
+  updated_at: "2009-09-13 15:09:33.566815"
+  url: ranjani-gou
+  vaadi: P
+ragas_345: 
+  ascending_scale: "S - R - G - m - P - D - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:09:09.845398"
+  descending_scale: "S - N - D - P - m - G - R - S"
+  description: ~
+  drone: ~
+  id: "1501"
+  pakad: ~
+  samvaadi: G
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "8"
+  title: Mevada
+  updated_at: "2009-09-13 15:09:09.845398"
+  url: mevada
+  vaadi: D
+ragas_346: 
+  ascending_scale: "S - R - m - P - N - S'"
+  chakra: ~
+  created_at: "2009-09-13 14:57:17.945610"
+  descending_scale: "S' - D - P, m - P - D, P - m - R, 'N - S"
+  description: ~
+  drone: ~
+  id: "1502"
+  pakad: ~
+  samvaadi: S
+  spotify_playlist_url: ~
+  thaat: Bilawal
+  time: "7"
+  title: Chandrika
+  updated_at: "2009-09-13 14:57:17.945610"
+  url: chandrika
+  vaadi: P
+ragas_347: 
+  ascending_scale: "S - r - P - m - P - D - P - N - D - S"
+  chakra: ~
+  created_at: "2009-09-13 14:58:27.787976"
+  descending_scale: "S' - N - D - P - M - P - D - P,  G - m - P - G - m - R - S"
+  description: ~
+  drone: ~
+  id: "1503"
+  pakad: "S - R - P - g - m - P - g - m - R - S"
+  samvaadi: R
+  spotify_playlist_url: ~
+  thaat: Kalyan
+  time: "5"
+  title: Kamod
+  updated_at: "2009-09-13 14:58:27.787976"
+  url: kamod
+  vaadi: P
+ragas_348: 
+  ascending_scale: "S - R - P - m,  n - D - P, m - P - D - S'"
+  chakra: ~
+  created_at: "2009-09-13 15:08:25.954361"
+  descending_scale: "S' - n - D - P,  D - n - P, m - G - R - g - R - S"
+  description: ~
+  drone: ~
+  id: "1504"
+  pakad: ~
+  samvaadi: P
+  spotify_playlist_url: ~
+  thaat: Khamaj
+  time: "2"
+  title: Khokhar
+  updated_at: "2009-09-13 15:08:25.954361"
+  url: khokhar
+  vaadi: R

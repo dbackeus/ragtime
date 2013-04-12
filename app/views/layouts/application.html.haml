@@ -1,0 +1,22 @@
+- raise("Page title not set!") unless @page_title || Rails.env.production?
+!!!
+%html{html_attrs(I18n.locale)}
+  %head
+    %title= "Raga: #{@page_title}"
+    = stylesheet_link_tag "application"
+    = stylesheet_link_tag "formtastic"
+    = stylesheet_link_tag "formtastic_changes"
+    = javascript_include_tag :all
+  %body
+    #site
+      #header
+        %h1= "Raga"
+        .clear
+      #menu
+        = render :partial => "layouts/menu"
+        .clear
+      #content
+        = render :partial => "layouts/flash_messages"
+        %h1= @page_title
+        = yield
+        .clear
