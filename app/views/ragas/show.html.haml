@@ -1,5 +1,7 @@
 - title @raga.title
 
+%h2= @page_title
+
 - if @raga.description
   = simple_format @raga.description
 
@@ -24,7 +26,7 @@
       %h3= clip.title
       = clip.embed_code.html_safe
 
-%h1= "Add Clip"
+%h2= "Add Clip"
 = semantic_form_for @clip do |form|
   = form.inputs do
     = form.input :url

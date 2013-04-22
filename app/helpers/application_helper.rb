@@ -13,24 +13,26 @@ module ApplicationHelper
     image_tag "chakra_#{chakra}.jpg", :alt => ""
   end
   
+  def pretty_clock
+    local_time.strftime("%H:%M")
+  end
+
   def raga_suggestion
-    @time = Time.now.utc + session[:time_zone_offset]
-    prahar = time_to_prahar
-    raga_suggestion = Raga.with_spotify.where(time: prahar).sample
-    "It's #{pretty_clock} o clock. Why not try raga #{link_to(raga_suggestion, raga_suggestion)}. Or view a #{link_to("list", ragas_path(:filter => {:time => prahar}))} of all ragas suitable for this time.".html_safe
+    raga_suggestion = Raga.with_spotify.where(time: time_to_prahar).sample
+    "Why not try raga #{link_to(raga_suggestion, raga_suggestion)}.".html_safe
+  end
+
+  def local_time
+    Time.now.utc + session[:time_zone_offset]
   end
   
-  private
   def time_to_prahar
     prahar_and_hours.each do |prahar, time_range|
-      return prahar if time_range.include?(@time.hour)
+      return prahar if time_range.include?(local_time.hour)
     end
   end
   
-  def pretty_clock
-    @time.strftime("%H:%M")
-  end
-  
+  private
   def prahar_and_hours
     ActiveSupport::OrderedHash[
       1, 6..8,
