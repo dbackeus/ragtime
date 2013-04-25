@@ -1,0 +1,58 @@
+$(function() {
+  var table = $("#ragas").stupidtable()
+  table.bind("aftertablesort", function(event, data) {
+    zebra()
+  })
+
+  $("td.time a").click(function() {
+    var time = $(this).closest("tr").data("time")
+    filter("time", time)
+    return false
+  })
+
+  $("td.thaat a").click(function() {
+    var thaat = $(this).closest("tr").data("thaat")
+    filter("thaat", thaat)
+    return false
+  })
+
+  $("#suggestion-time-filter-link").click(function() {
+    filter("time", $(this).data("time"))
+    $('html, body').animate({
+         scrollTop: $("h2").offset().top - 20
+    }, 500)
+    return false
+  })
+
+  $("#remove-filter-link").click(function() {
+    $(".filter").hide()
+    $("tbody tr").show()
+    zebra()
+    return false
+  })
+
+  $("th.title").click()
+})
+
+var times = <%= Raga.time_options.invert.to_json %>
+
+function prettyTime(time) {
+  return times[time.toString()]
+}
+
+function filter(attribute, value) {
+  $("tbody tr").hide()
+  $("tbody tr[data-"+attribute+"="+value+"]").show()
+
+  var prettyValue = attribute == "time" ? prettyTime(value) : value
+  $(".filter").show()
+  $(".filter-name").html(attribute+" "+prettyValue)
+
+  zebra()
+}
+
+function zebra() {
+  $("tbody tr").removeClass("odd").removeClass("even")
+  $("tbody tr:visible:odd").addClass("odd")
+  $("tbody tr:visible:even").addClass("even")
+}

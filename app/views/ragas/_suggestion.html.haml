@@ -1,8 +1,8 @@
-%p
+%p.suggestion
   - if session[:time_zone_offset]
     = "It's #{pretty_clock} o clock."
     = raga_suggestion
-    = "Or #{link_to("list all ragas", ragas_path(filter: {time: time_to_prahar}))} suitable for this time.".html_safe
+    = "Or #{link_to("filter all ragas", ragas_path(filter: {time: time_to_prahar}), id: "suggestion-time-filter-link", data: {time: time_to_prahar})} suitable for this time.".html_safe
   - else
     :javascript
       var timeZoneOffset = (new Date().getTimezoneOffset()/60)*(-1)

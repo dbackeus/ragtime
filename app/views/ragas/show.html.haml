@@ -1,6 +1,6 @@
 - title @raga.title
 
-%h2= @page_title
+%h2= "Rāg #{@page_title}"
 
 - if @raga.description
   = simple_format @raga.description
@@ -19,20 +19,18 @@
 - if @raga.spotify_playlist_url
   %p= link_to image_tag("spotify-logo.png"), @raga.spotify_playlist_url
 
+%h1= "Clips"
 - if @clips.present?
-  %h1= "Clips"
   - @clips.each do |clip|
-    .clip
-      %h3= clip.title
+    .clip-wrapper
       = clip.embed_code.html_safe
+.clear
 
-%h2= "Add Clip"
 = semantic_form_for @clip do |form|
-  = form.inputs do
-    = form.input :url
-    = form.input :title, :required => false, :hint => "Fetched from youtube if left blank"
+  = form.inputs class: "left" do
+    = form.input :url, label: "YouTube URL", required: false, input_html: { class: "" }
     = form.input :raga_id, as: :hidden
-  = form.actions do
-    = form.action :submit, as: :button
-
-= link_to 'Edit', edit_raga_path(@raga)
+  = form.actions class: "left" do
+    = form.action :submit, as: :button, label: "Add Clip"
+.clear
+=# link_to 'Edit', edit_raga_path(@raga)

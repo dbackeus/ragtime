@@ -1,6 +1,6 @@
-%tr{:class => cycle("even", "odd")}
-  %td= link_to raga.title, raga
-  %td= link_to raga.pretty_time, ragas_path(:filter => {:time => raga.time}) if raga.time.present?
-  %td= raga.pretty_chakra if raga.chakra
-  %td= link_to raga.thaat, ragas_path(:filter => {:thaat => raga.thaat}) if raga.thaat.present?
-  %td= link_to image_tag("spotify_icon_small.png", :alt => "Spotify"), raga.spotify_playlist_url if raga.spotify_playlist_url
+%tr{class: cycle("even", "odd"), data: {time: raga.time, thaat: raga.thaat}}
+  %td.title= link_to raga.title, raga
+  %td.time= link_to raga.pretty_time, ragas_path(filter: {time: raga.time}) if raga.time.present?
+  %td.chakra= raga.pretty_chakra if raga.chakra
+  %td.thaat= link_to raga.thaat, ragas_path(filter: {thaat: raga.thaat}) if raga.thaat.present?
+  %td= link_to image_tag("spotify_icon_small.png", alt: "Spotify"), raga.spotify_playlist_url if raga.spotify_playlist_url

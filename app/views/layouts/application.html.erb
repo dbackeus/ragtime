@@ -4,13 +4,15 @@
     <title>RāgTime - <%= @page_title %></title>
     <%= stylesheet_link_tag    "application", :media => "all" %>
     <%= javascript_include_tag "application" %>
+    <%= javascript_include_tag params[:controller] %>
     <%= csrf_meta_tags %>
   </head>
   <body>
     <div id="site">
       <h1><a href="/">RāgTime - From Dawn till Dusk</a></h1>
+      <%= render partial: "layouts/flash_messages" %>
+      <%= image_tag "swirl.png", class: "swirl" %>
       <div id="content">
-        <%= render partial: "layouts/flash_messages" %>
         <%= yield %>
       </div>
     </div>

@@ -7,7 +7,7 @@ Raganow::Application.routes.draw do
   resources :clips, only: :create
   resources :pages, only: :show
   
-  root :controller => "pages", :action => "show", :id => "home"
+  root controller: "ragas", action: "index"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

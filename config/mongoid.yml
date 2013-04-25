@@ -69,7 +69,7 @@ development:
 production:
   sessions:
     default:
-      uri: <%= ENV['MONGOHQ_URL'] %>
+      uri: mongodb://heroku:b707665c5b9c19621f40a4240a8432bb@linus.mongohq.com:10010/app14898866
       options:
         safe: true
         skip_version_check: true

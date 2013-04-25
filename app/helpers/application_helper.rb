@@ -5,7 +5,7 @@ module ApplicationHelper
   
   def attribute_for(object, attribute, options = {})
     value = options[:value] || object.send(attribute)
-    "<p><strong>#{object.class.human_attribute_name(attribute)}:</strong> #{value}</p>".html_safe
+    "<p><strong>#{object.class.human_attribute_name(attribute)}</strong><br> #{value}</p>".html_safe
   end
 
   def chakra_image(chakra)
