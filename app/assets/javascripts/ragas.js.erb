@@ -34,7 +34,7 @@ $(function() {
   $("th.title").click()
 })
 
-var times = <%= Raga.time_options.invert.to_json %>
+var times = {"1":"06-09","2":"09-12","3":"12-15","4":"15-18","5":"18-21","6":"21-24","7":"24-03","8":"03-06","m":"Monsoon"}
 
 function prettyTime(time) {
   return times[time.toString()]
