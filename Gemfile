@@ -22,5 +22,7 @@ gem 'stringex', git: 'git://github.com/rsl/stringex.git'
 gem 'formtastic'
 gem 'haml-rails'
 gem 'swf_fu'
+gem 'newrelic_rpm'
+gem 'newrelic_moped'
 
 gem 'unicorn'
