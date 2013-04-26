@@ -154,7 +154,7 @@ DEPENDENCIES
   mongoid
   newrelic_moped
   newrelic_rpm
-  rails (= 3.2.13)
+  rails (~> 3.2.13)
   sass-rails (~> 3.2.3)
   sitemap_generator
   stringex!
