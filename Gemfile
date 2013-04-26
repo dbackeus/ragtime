@@ -25,5 +25,6 @@ gem 'swf_fu'
 gem 'newrelic_rpm'
 gem 'newrelic_moped'
 gem 'airbrake'
+gem 'sitemap_generator'
 
 gem 'unicorn'
