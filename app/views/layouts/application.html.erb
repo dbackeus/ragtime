@@ -7,7 +7,9 @@
     <%= javascript_include_tag params[:controller] %>
     <%= csrf_meta_tags %>
     <meta charset="utf-8">
-    <meta name="description" content="Raagtime is a database of Indian ragas (classical music) including spotify links for listening and recommendation of what time of day they should be listened to.">
+    <%- if params[:action] == "index" %>
+      <meta name="description" content="Raagtime is a database of Indian ragas (classical music) including spotify links for listening and recommendation of what time of day they should be listened to.">
+    <% end %>
     <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-40500274-1']);
