@@ -1,5 +1,5 @@
 # Set the host name for URL creation
-SitemapGenerator::Sitemap.default_host = "http://raga.herokuapp.com"
+SitemapGenerator::Sitemap.default_host = "http://raagtime.com"
 
 SitemapGenerator::Sitemap.create do
   Raga.all.each do |raga|
