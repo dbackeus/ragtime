@@ -18,7 +18,7 @@
   = swf_tag "claviature", :size => "550x130", :flashvars => {:ascending => @raga.ascending_scale, :descending => @raga.descending_scale}
 
 - if @raga.spotify_playlist_url
-  %p= link_to image_tag("spotify-logo.png"), @raga.spotify_playlist_url
+  %iframe.spotify-playlist{src: "https://embed.spotify.com/?uri=#{@raga.spotify_playlist_url}", height: 480, width: 332}
 
 %h2= "Clips"
 - if @clips.present?
