@@ -19,7 +19,7 @@ gem 'newrelic_moped'
 gem 'airbrake'
 gem 'sitemap_generator'
 
-gem 'unicorn'
+gem 'puma'
 
 group :production do
   # needed for heroku https://devcenter.heroku.com/articles/rails4
