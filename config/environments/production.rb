@@ -14,6 +14,8 @@ Raganow::Application.configure do
   # Compress JavaScripts and CSS
   config.assets.compress = true
 
+  config.assets.js_compressor = :uglifier
+
   # Don't fallback to assets pipeline if a precompiled asset is missed
   config.assets.compile = false
 
@@ -51,8 +53,7 @@ Raganow::Application.configure do
   # Disable delivery errors, bad email addresses will be ignored
   # config.action_mailer.raise_delivery_errors = false
 
-  # Enable threaded mode
-  # config.threadsafe!
+  config.eager_load = true
 
   # Enable locale fallbacks for I18n (makes lookups for any locale fall back to
   # the I18n.default_locale when a translation can not be found)

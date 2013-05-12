@@ -15,7 +15,7 @@
 = attribute_for @raga, :drone if @raga.drone.present?
 
 .claviature
-  = swf_tag "claviature", :size => "550x130", :flashvars => {:ascending => @raga.ascending_scale, :descending => @raga.descending_scale}
+  = swf_tag "claviature.swf", :size => "550x130", :flashvars => {:ascending => @raga.ascending_scale, :descending => @raga.descending_scale}
 
 - if @raga.spotify_playlist_url
   %iframe.spotify-playlist{src: "https://embed.spotify.com/?uri=#{@raga.spotify_playlist_url}", height: 480, width: 332}

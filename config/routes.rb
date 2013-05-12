@@ -1,5 +1,5 @@
 Raganow::Application.routes.draw do
-  resources :ragas do
+  resources :ragas, only: %i(index show) do
     collection do
       get :suggestion
     end
