@@ -70,17 +70,14 @@ production:
   sessions:
     default:
       uri: <%= ENV['MONGOHQ_URL'] %>
-      options:
-        safe: true
-        skip_version_check: true
 test:
   sessions:
     default:
-      database: raganow_test
+      database: raagtime_test
       hosts:
         - localhost:27017
       options:
-        consistency: :strong
+        read: primary
         # In the test environment we lower the retries and retry interval to
         # low amounts for fast failures.
         max_retries: 1
