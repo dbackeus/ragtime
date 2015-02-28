@@ -15,7 +15,7 @@ class Clip
   validate :validate_info, if: lambda { url.present? }
 
   before_validation :set_attributes_from_info, if: :info
- 
+
   def info
     @video_info ||= VideoInfo.get(url)
   end

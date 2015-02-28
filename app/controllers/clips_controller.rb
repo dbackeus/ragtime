@@ -3,7 +3,7 @@ class ClipsController < ApplicationController
     @clip = Clip.new(clip_params)
     @raga = Raga.find(@clip.raga_id)
     @clips = @raga.clips
-    
+
     if @clip.save
       flash[:notice] = "The clip was successfully added"
       redirect_to @raga

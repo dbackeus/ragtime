@@ -2,7 +2,7 @@ module ApplicationHelper
   def title(title)
     @page_title = title
   end
-  
+
   def attribute_for(object, attribute, options = {})
     value = options[:value] || object.send(attribute)
     "<p><strong>#{object.class.human_attribute_name(attribute)}</strong><br> #{value}</p>".html_safe
@@ -12,7 +12,7 @@ module ApplicationHelper
     chakra = chakra.split("_").last
     image_tag "chakra_#{chakra}.jpg", :alt => "", class: "chakra-image"
   end
-  
+
   def pretty_clock
     local_time.strftime("%H:%M")
   end
@@ -25,13 +25,13 @@ module ApplicationHelper
   def local_time
     Time.now.utc + session[:time_zone_offset]
   end
-  
+
   def time_to_prahar
     prahar_and_hours.each do |prahar, time_range|
       return prahar if time_range.include?(local_time.hour)
     end
   end
-  
+
   private
   def prahar_and_hours
     ActiveSupport::OrderedHash[

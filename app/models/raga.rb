@@ -21,11 +21,11 @@ class Raga
   validates_presence_of :title
   validates_presence_of :ascending_scale
   validates_presence_of :descending_scale
-  
+
   validates_uniqueness_of :title, :case_sensitive => false
 
   acts_as_url :title, :sync_url => true
-  
+
   def self.with_spotify
     where(:spotify_playlist_url.ne => nil)
   end
@@ -33,27 +33,27 @@ class Raga
   def to_s
     title
   end
-  
+
   def to_param
     url
   end
-  
+
   def pretty_time
     Raga.time_options.invert[time]
   end
-  
+
   def pretty_chakra
     Raga.chakra_options.invert[chakra]
   end
-  
+
   # Strip beginning of "Rag Puriya Kalyan: spotify:user:duztdruid:playlist:11Nsl0P9qDqbvDTwu5WB5d")
   def spotify_playlist_url=(url)
     if url.present?
-      url = url["spotify:"] ? url[url.rindex("spotify:")..-1] : url # 
+      url = url["spotify:"] ? url[url.rindex("spotify:")..-1] : url #
       write_attribute(:spotify_playlist_url, url)
     end
   end
-  
+
   def self.time_options
     ActiveSupport::OrderedHash[
       "06-09", "1",
@@ -67,7 +67,7 @@ class Raga
       "Monsoon", "m"
     ]
   end
-  
+
   def self.chakra_options
     ActiveSupport::OrderedHash[
       "Left Mooladhara", "left_mooladhara",
