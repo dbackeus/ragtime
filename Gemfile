@@ -4,6 +4,7 @@ ruby "2.2.2"
 
 gem "airbrake"
 gem "coffee-rails"
+gem "dotenv-rails"
 gem "formtastic"
 gem "haml-rails"
 gem "jquery-rails"
@@ -16,7 +17,7 @@ gem "sitemap_generator"
 gem "stringex", git: "git://github.com/rsl/stringex.git"
 gem "swf_fu"
 gem "uglifier"
-gem "video_info"
+gem "video_info", github: "thibaudgg/video_info"
 
 group :test, :development do
   gem "database_cleaner"

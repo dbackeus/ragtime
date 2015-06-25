@@ -4,6 +4,18 @@ GIT
   specs:
     stringex (2.5.2)
 
+GIT
+  remote: git://github.com/thibaudgg/video_info.git
+  revision: 002bcc4161c6d296c1fe59b201de00fb9071b4ed
+  specs:
+    video_info (2.4.2)
+      addressable
+      htmlentities
+      iso8601
+      multi_json (~> 1.11)
+      oga
+      open_uri_redirections
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -46,7 +58,9 @@ GEM
     airbrake (4.3.0)
       builder
       multi_json
+    ansi (1.5.0)
     arel (6.0.0)
+    ast (2.0.0)
     bson (3.1.1)
     builder (3.2.2)
     coffee-rails (4.1.0)
@@ -59,6 +73,9 @@ GEM
     connection_pool (2.2.0)
     database_cleaner (1.4.1)
     diff-lcs (1.2.5)
+    dotenv (2.0.1)
+    dotenv-rails (2.0.1)
+      dotenv (= 2.0.1)
     erubis (2.7.0)
     execjs (2.5.2)
     formtastic (3.1.3)
@@ -82,6 +99,7 @@ GEM
       ruby_parser (~> 3.5)
     htmlentities (4.3.3)
     i18n (0.7.0)
+    iso8601 (0.8.6)
     jquery-rails (4.0.4)
       rails-dom-testing (~> 1.0)
       railties (>= 4.2.0)
@@ -110,6 +128,10 @@ GEM
     newrelic_rpm (3.12.0.288)
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
+    oga (1.0.3)
+      ast
+      ruby-ll (~> 2.1)
+    open_uri_redirections (0.2.1)
     optionable (0.2.0)
     origin (2.1.1)
     puma (2.11.3)
@@ -164,6 +186,9 @@ GEM
       rspec-mocks (~> 3.3.0)
       rspec-support (~> 3.3.0)
     rspec-support (3.3.0)
+    ruby-ll (2.1.2)
+      ansi
+      ast
     ruby_parser (3.7.0)
       sexp_processor (~> 4.1)
     sass (3.4.15)
@@ -193,10 +218,6 @@ GEM
     uglifier (2.7.1)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
-    video_info (2.4.2)
-      addressable
-      htmlentities
-      multi_json
 
 PLATFORMS
   ruby
@@ -205,6 +226,7 @@ DEPENDENCIES
   airbrake
   coffee-rails
   database_cleaner
+  dotenv-rails
   formtastic
   haml-rails
   heroku-deflater
@@ -221,7 +243,7 @@ DEPENDENCIES
   stringex!
   swf_fu
   uglifier
-  video_info
+  video_info!
 
 BUNDLED WITH
    1.10.5
