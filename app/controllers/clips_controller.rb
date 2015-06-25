@@ -5,9 +5,9 @@ class ClipsController < ApplicationController
     @clips = @raga.clips
 
     if @clip.save
-      flash[:notice] = "The clip was successfully added"
-      redirect_to @raga
+      redirect_to @raga, notice: "The clip was successfully added"
     else
+      flash.now[:error] = "Failed to add clip. Please make sure it's a valid YouTube URL"
       render "ragas/show"
     end
   end

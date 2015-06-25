@@ -18,6 +18,12 @@ class Clip
 
   def info
     @video_info ||= VideoInfo.get(url)
+  rescue VideoInfo::UrlError => e
+    if e.message.downcase.include? "url is not usable"
+      nil
+    else
+      raise
+    end
   end
 
   private
