@@ -1,6 +1,6 @@
-- title @raga.title
+- title "Raag #{@raga.title}"
 
-%h2= "Rāg #{@page_title}"
+%h2= @page_title
 
 - if @raga.description
   = simple_format @raga.description
@@ -20,7 +20,7 @@
 - if @raga.spotify_playlist_url
   %iframe.spotify-playlist{src: "https://embed.spotify.com/?uri=#{@raga.spotify_playlist_url}", height: 480, width: 332}
 
-%h2= "Clips"
+%h2= "Songs and Performances"
 - if @clips.present?
   - @clips.each do |clip|
     .clip-wrapper
