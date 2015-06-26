@@ -1,11 +1,12 @@
-%tr{class: cycle("even", "odd"), data: {time: raga.time, thaat: raga.thaat}}
-  %td.title
-    = link_to raga.title, raga
-  %td.time
-    = link_to raga.pretty_time, ragas_path(filter: {time: raga.time}) if raga.time.present?
-  %td.chakra{data: { "sort-value" => raga.chakra.present? ? raga.chakra.split("_").last : "zzz" }}
-    = image_tag "chakra-icon-#{raga.chakra.split("_").last}.png", alt: raga.chakra, title: raga.chakra.titleize if raga.chakra.present?
-  %td.thaat
-    = link_to raga.thaat, ragas_path(filter: {thaat: raga.thaat}) if raga.thaat.present?
-  %td
-    = link_to image_tag("spotify_icon_small.png", alt: "Spotify"), raga.spotify_playlist_url if raga.spotify_playlist_url
+- cache(raga) do
+  %tr{class: cycle("even", "odd"), data: {time: raga.time, thaat: raga.thaat}}
+    %td.title
+      = link_to raga.title, raga
+    %td.time
+      = link_to raga.pretty_time, ragas_path(filter: {time: raga.time}) if raga.time.present?
+    %td.chakra{data: { "sort-value" => raga.chakra.present? ? raga.chakra.split("_").last : "zzz" }}
+      = image_tag "chakra-icon-#{raga.chakra.split("_").last}.png", alt: raga.chakra, title: raga.chakra.titleize if raga.chakra.present?
+    %td.thaat
+      = link_to raga.thaat, ragas_path(filter: {thaat: raga.thaat}) if raga.thaat.present?
+    %td
+      = link_to image_tag("spotify_icon_small.png", alt: "Spotify"), raga.spotify_playlist_url if raga.spotify_playlist_url
