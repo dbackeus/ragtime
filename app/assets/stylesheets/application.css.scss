@@ -23,7 +23,7 @@ body {
   font-size: 15px;
   color: #222;
   background: #1a1f00;
-  background-image: url(/assets/parsley-middle.png), url(/assets/parsley-background.png);
+  background-image: image-url('parsley-middle.png'), image-url('parsley-background.png');
   background-position: center, left;
   background-repeat: repeat-y, repeat;
   padding: 30px 0;
