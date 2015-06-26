@@ -19,6 +19,10 @@ gem "swf_fu"
 gem "uglifier"
 gem "video_info", github: "thibaudgg/video_info"
 
+group :development do
+  gem "quiet_assets"
+end
+
 group :test, :development do
   gem "database_cleaner"
   gem "rspec-rails"
