@@ -61,8 +61,12 @@ GEM
     ansi (1.5.0)
     arel (6.0.0)
     ast (2.0.0)
+    binding_of_caller (0.7.2)
+      debug_inspector (>= 0.0.1)
     bson (3.1.1)
     builder (3.2.2)
+    byebug (5.0.0)
+      columnize (= 0.9.0)
     coffee-rails (4.1.0)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.0)
@@ -70,8 +74,10 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.9.1.1)
+    columnize (0.9.0)
     connection_pool (2.2.0)
     database_cleaner (1.4.1)
+    debug_inspector (0.0.2)
     diff-lcs (1.2.5)
     dotenv (2.0.2)
     dotenv-rails (2.0.2)
@@ -221,12 +227,18 @@ GEM
     uglifier (2.7.1)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
+    web-console (2.1.2)
+      activemodel (>= 4.0)
+      binding_of_caller (>= 0.7.2)
+      railties (>= 4.0)
+      sprockets-rails (>= 2.0, < 4.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   airbrake
+  byebug
   coffee-rails
   database_cleaner
   dotenv-rails
@@ -248,6 +260,7 @@ DEPENDENCIES
   swf_fu
   uglifier
   video_info!
+  web-console
 
 BUNDLED WITH
    1.10.5

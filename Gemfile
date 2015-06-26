@@ -26,6 +26,8 @@ end
 group :test, :development do
   gem "database_cleaner"
   gem "rspec-rails"
+  gem "byebug"
+  gem "web-console"
 end
 
 group :production do
