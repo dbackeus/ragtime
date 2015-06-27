@@ -1,0 +1,48 @@
+<% title "Listing Ragas" %>
+
+<%= render partial: "suggestion" %>
+
+<%= image_tag "swirl.png", class: "swirl" %>
+
+<h2>Rāgas</h2>
+
+<div class="filter">
+  <p>
+    Filtering on
+    <span class="filter-name">
+      time 09-12
+    </span>
+    <%= link_to("remove filter", root_path, id: "remove-filter-link") %>.
+  </p>
+</div>
+
+<table id="ragas">
+  <thead>
+    <tr>
+      <th class="title" data-sort="string">
+        <div class="left">Title</div>
+        <%= image_tag "sort_arrow.gif" %>
+      </th>
+      <th class="time" data-sort="string">
+        <div class="left">Time</div>
+        <%= image_tag "sort_arrow.gif" %>
+      </th>
+      <th class="chakra" data-sort="string">
+        <div class="left">Chakra</div>
+        <%= image_tag "sort_arrow.gif" %>
+      </th>
+      <th class="thaat" data-sort="string">
+        <div class="left">Thaat</div>
+        <%= image_tag "sort_arrow.gif" %>
+      </th>
+      <th class="spotify"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <%= render @ragas %>
+  </tbody>
+</table>
+
+<% content_for :footer_script_includes do %>
+  <%= javascript_include_tag "ragas" %>
+<% end %>
