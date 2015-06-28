@@ -1,0 +1,23 @@
+<% cache(raga) do %>
+  <tr class="<%= cycle("even", "odd") %>" data-time="<%= raga.time %>" data-thaat="<%= raga.thaat %>">
+    <td class="title">
+      <%= link_to raga.title, raga %>
+    </td>
+    <td class="time">
+      <%= link_to raga.pretty_time, ragas_path(filter: {time: raga.time}) if raga.time.present? %>
+    </td>
+    <td class="chakra" data-sort-value="<%= raga.chakra.present? ? raga.chakra.split("_").last : "zzz" %>">
+      <% if raga.chakra.present? %>
+        <%= image_tag "chakra-icon-#{raga.chakra.split("_").last}.png", alt: raga.chakra, title: raga.chakra.titleize %>
+      <% end %>
+    </td>
+    <td class="thaat">
+      <%= link_to raga.thaat, ragas_path(filter: {thaat: raga.thaat}) if raga.thaat.present? %>
+    </td>
+    <td class="spotify">
+      <% if raga.spotify_playlist_url %>
+        <%= link_to image_tag("spotify_icon_small.png", alt: "Spotify"), raga.spotify_playlist_url, title: "Spotify playlist" %>
+      <% end %>
+    </td>
+  </tr>
+<% end %>
