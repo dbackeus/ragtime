@@ -8,5 +8,5 @@
       = image_tag "chakra-icon-#{raga.chakra.split("_").last}.png", alt: raga.chakra, title: raga.chakra.titleize if raga.chakra.present?
     %td.thaat
       = link_to raga.thaat, ragas_path(filter: {thaat: raga.thaat}) if raga.thaat.present?
-    %td
+    %td.spotify
       = link_to image_tag("spotify_icon_small.png", alt: "Spotify"), raga.spotify_playlist_url if raga.spotify_playlist_url

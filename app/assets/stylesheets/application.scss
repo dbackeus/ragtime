@@ -9,24 +9,25 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require_self
- *= require_tree .
  */
 
-html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+@import "reset";
+
+$screen-sm-min: 640px;
 
 /* === General Layout === */
-
-html { height: 100%; }
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 15px;
   color: #222;
-  background: #1a1f00;
-  background-image: image-url('parsley-middle.png'), image-url('parsley-background.png');
-  background-position: center, left;
-  background-repeat: repeat-y, repeat;
-  padding: 30px 0;
+
+  @media screen and (min-width: $screen-sm-min) {
+    background: #1a1f00;
+    background-image: image-url('parsley-middle.png'), image-url('parsley-background.png');
+    background-position: center, left;
+    background-repeat: repeat-y, repeat;
+  }
 }
 
 a { color: #000; font-weight: bold; text-decoration: none; }
@@ -65,14 +66,18 @@ pre {
 
 /* === Wrapper === */
 
-#site {
+.container {
   position: relative;
-  margin-left: auto;
-  margin-right: auto;
-  width: 520px;
+  max-width: 520px;
   background: white;
-  padding: 30px 55px;
-  border-radius: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 30px auto;
+
+  @media screen and (min-width: $screen-sm-min) {
+    padding: 30px 55px;
+    border-radius: 15px;
+  }
 }
 
 .swirl { display: block; margin: 0 auto 1.5em auto; height: 18px; width: 46px; }
@@ -85,31 +90,76 @@ p.suggestion { margin: 0px 0; }
 
 #ragas {
   width: 100%;
-  tr.even { background: #EEE; }
-  td, th { padding: 6px 10px; height: 24px; vertical-align: middle }
-  th.title { width: 190px; }
-  th.time { width: 60px; }
-  th.thaat { width: 60px; }
-  th img { display: none; margin: 4px 0 0 5px; float: left; }
-  th.sorting-desc img, th.sorting-asc img { display: block; }
+
+  th {
+    text-align: left;
+    padding-bottom: 5px;
+    font-weight: normal;
+  }
+
+  th[data-sort] {
+    cursor:pointer;
+  }
+
+  tr.even {
+    background: #EEE;
+  }
+
+  td, th {
+    padding: 6px 10px;
+    height: 24px;
+    vertical-align: middle
+  }
+
+  td {
+    font-size: 14px;
+  }
+
+  th img {
+    display: none;
+    margin: 4px 0 0 5px;
+    float: left;
+  }
+
+  th.sorting-desc img, th.sorting-asc img {
+    display: block;
+  }
+
   th.sorting-desc img {
     transform: scaleY(-1);
     -moz-transform: scaleY(-1);
     -webkit-transform: scaleY(-1);
     filter: flipv;
   }
-  td.title { font-size: 14px }
-  td.chakra {
-    font-size: 14px;
-    img { width: 44px; }
+
+  .chakra {
+    display: none;
+
+    img {
+      width: 44px;
+    }
+
+    @media screen and (min-width: $screen-sm-min) {
+      display: table-cell;
+    }
   }
-  td.time { font-size: 12px }
-  td.thaat { font-size: 12px }
+
+  td.time {
+    font-size: 12px
+  }
+
+  td.thaat {
+    font-size: 12px
+  }
+
+  .spotify {
+    display: none;
+
+    @media screen and (min-width: $screen-sm-min) {
+      display: table-cell;
+    }
+  }
 }
-
-th { text-align: left; padding-bottom: 5px; font-weight: normal; }
-
-th[data-sort]{ cursor:pointer; }
 
 /* === Raga === */
 
