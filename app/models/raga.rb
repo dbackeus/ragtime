@@ -27,8 +27,8 @@ class Raga
 
   acts_as_url :title, :sync_url => true
 
-  def self.with_spotify
-    where(:spotify_playlist_url.ne => nil)
+  def self.playable
+    self.or({:spotify_playlist_url.ne => nil}, {:clips_count.gt => 0})
   end
 
   def to_s

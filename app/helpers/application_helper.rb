@@ -18,7 +18,7 @@ module ApplicationHelper
   end
 
   def raga_suggestion
-    raga_suggestion = Raga.with_spotify.where(time: time_to_prahar).sample
+    raga_suggestion = Raga.playable.where(time: time_to_prahar).sample
     "Why not try raga #{link_to(raga_suggestion, raga_suggestion)}.".html_safe
   end
 
