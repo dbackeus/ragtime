@@ -3,6 +3,7 @@ class Raga
   include Mongoid::Timestamps
 
   has_many :clips
+  field :clips_count, type: Integer, default: 0
 
   field :title, type: String
   field :description, type: String

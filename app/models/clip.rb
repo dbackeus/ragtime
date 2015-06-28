@@ -2,7 +2,7 @@ class Clip
   include Mongoid::Document
   include Mongoid::Timestamps
 
-  belongs_to :raga
+  belongs_to :raga, index: true, counter_cache: true
 
   field :title, type: String
   field :url, type: String
