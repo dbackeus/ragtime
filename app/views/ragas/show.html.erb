@@ -1,0 +1,54 @@
+<% title "Raag #{@raga.title}" %>
+
+<h2><%= @page_title %></h2>
+
+<% if @raga.description %>
+  <%= simple_format @raga.description %>
+<% end %>
+
+<%= attribute_for @raga, :time, :value => @raga.pretty_time if @raga.time.present? %>
+
+<% if @raga.chakra.present? %>
+  <%= attribute_for @raga, :chakra, :value => @raga.pretty_chakra %>
+  <%= chakra_image @raga.chakra %>
+<% end %>
+
+<%= attribute_for @raga, :ascending_scale %>
+<%= attribute_for @raga, :descending_scale %>
+<%= attribute_for @raga, :pakad if @raga.pakad.present? %>
+<%= attribute_for @raga, :drone if @raga.drone.present? %>
+
+<div class="claviature">
+  <%= swf_tag "claviature.swf", width: "550", height: "150", flashvars: {
+    ascending: @raga.ascending_scale,
+    descending: @raga.descending_scale
+  } %>
+</div>
+
+<% if @raga.spotify_playlist_url %>
+  <iframe class="spotify-playlist" height="480" src="https://embed.spotify.com/?uri=<%= @raga.spotify_playlist_url %>" width="332"></iframe>
+<% end %>
+
+<h2>Songs and Performances</h2>
+
+<% if @clips.present? %>
+  <% @clips.each do |clip| %>
+    <div class="clip-wrapper">
+      <%= clip.embed_code.html_safe %>
+    </div>
+  <% end %>
+<% end %>
+
+<div class="clear"></div>
+
+<%= semantic_form_for @clip do |form| %>
+  <%= form.inputs class: "left" do %>
+    <%= form.input :url, label: "YouTube URL", required: false, input_html: { class: "" } %>
+    <%= form.input :raga_id, as: :hidden %>
+  <% end %>
+  <%= form.actions class: "left" do %>
+    <%= form.action :submit, as: :button, label: "Add Clip" %>
+  <% end %>
+<% end %>
+
+<div class="clear"></div>

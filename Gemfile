@@ -15,7 +15,6 @@ gem "rails"
 gem "sass-rails"
 gem "sitemap_generator"
 gem "stringex", github: "rsl/stringex"
-gem "swf_fu"
 gem "uglifier"
 gem "video_info", github: "thibaudgg/video_info"
 
