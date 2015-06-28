@@ -1,10 +1,11 @@
 - [ ] Caching
-- [ ] Mobile First
-- [ ] Only unique clips per raga
-- [ ] Vote up/down on clips
+- [x] Icons on ragas with clips
+- [x] Mobile First
+- [x] Only unique clips per raga
+- [ ] User feedback (uservoice)?
 - [ ] Remove flash player or replace with better system
 - [ ] Complete spotify playlists (on dedicated user?)
 - [ ] About page
 - [ ] Figure out more SEO stuff
 - [ ] Descriptions
-- [ ] Icons on ragas with clips
+- [ ] Vote up/down on clips
