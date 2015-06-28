@@ -29,7 +29,7 @@
   <iframe class="spotify-playlist" height="480" src="https://embed.spotify.com/?uri=<%= @raga.spotify_playlist_url %>" width="332"></iframe>
 <% end %>
 
-<h2>Songs and Performances</h2>
+<a name="songs"><h2>Songs and Performances</h2></a>
 
 <% if @clips.present? %>
   <% @clips.each do |clip| %>

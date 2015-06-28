@@ -18,6 +18,9 @@
       <% if raga.spotify_playlist_url %>
         <%= link_to image_tag("spotify_icon_small.png", alt: "Spotify"), raga.spotify_playlist_url, title: "Spotify playlist" %>
       <% end %>
+      <% if raga.clips_count > 0 %>
+        <%= link_to image_tag("youtube.png", class: "youtube-icon"), raga_path(raga, anchor: "songs"), title: "YouTube clips" %>
+      <% end %>
     </td>
   </tr>
 <% end %>
