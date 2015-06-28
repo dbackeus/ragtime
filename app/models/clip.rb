@@ -12,6 +12,7 @@ class Clip
   validates_presence_of :raga
   validates_presence_of :url
   validates_presence_of :title, if: :url
+  validates_uniqueness_of :url, scope: :raga_id
   validate :validate_info, if: lambda { url.present? }
 
   before_validation :set_attributes_from_info, if: :info
