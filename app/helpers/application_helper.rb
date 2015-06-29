@@ -10,7 +10,7 @@ module ApplicationHelper
 
   def chakra_image(chakra)
     chakra = chakra.split("_").last
-    image_tag "chakra_#{chakra}.jpg", :alt => "", class: "chakra-image"
+    image_tag "chakra_#{chakra}.jpg", alt: "", class: "chakra-image"
   end
 
   def pretty_clock

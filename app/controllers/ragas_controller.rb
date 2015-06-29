@@ -13,6 +13,7 @@ class RagasController < ApplicationController
 
   def suggestion
     session[:time_zone_offset] = params[:time_zone_offset].to_i.hours
-    render :partial => "suggestion"
+
+    render partial: "suggestion"
   end
 end
