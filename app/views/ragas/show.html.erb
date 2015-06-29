@@ -1,3 +1,4 @@
+<% cache @raga do %>
 <% title "Raag #{@raga.title}" %>
 
 <h2><%= @page_title %></h2>
@@ -31,15 +32,16 @@
 
 <a name="songs"><h2>Songs and Performances</h2></a>
 
-<% if @clips.present? %>
-  <% @clips.each do |clip| %>
-    <div class="clip-wrapper">
-      <%= clip.embed_code.html_safe %>
-    </div>
-  <% end %>
+<% @raga.clips.each do |clip| %>
+  <% next if clip.new_record? %>
+
+  <div class="clip-wrapper">
+    <%= clip.embed_code.html_safe %>
+  </div>
 <% end %>
 
 <div class="clear"></div>
+<% end %>
 
 <%= semantic_form_for @clip do |form| %>
   <%= form.inputs class: "left" do %>

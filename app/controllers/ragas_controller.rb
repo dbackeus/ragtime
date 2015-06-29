@@ -1,14 +1,11 @@
 class RagasController < ApplicationController
   def index
     @order = params[:order] || "title"
-    conditions = params[:filter] || {}
-    @ragas = Raga.where(conditions).order_by("#{@order} ASC")
   end
 
   def show
     @raga = Raga.find_by(url: params[:id])
-    @clips = Clip.where(raga: @raga)
-    @clip = Clip.new(:raga => @raga)
+    @clip = Clip.new(raga: @raga)
   end
 
   def suggestion
@@ -16,4 +13,12 @@ class RagasController < ApplicationController
 
     render partial: "suggestion"
   end
+
+  private
+
+  def ragas
+    conditions = params[:filter] || {}
+    @ragas = Raga.where(conditions).order_by("#{@order} ASC")
+  end
+  helper_method :ragas
 end

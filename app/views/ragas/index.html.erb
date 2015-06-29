@@ -2,6 +2,8 @@
 
 <%= render partial: "suggestion" %>
 
+<% cache "all_ragas", skip_digest: true do %>
+
 <%= image_tag "swirl.png", class: "swirl" %>
 
 <h2>Rāgas</h2>
@@ -39,9 +41,11 @@
     </tr>
   </thead>
   <tbody>
-    <%= render @ragas %>
+    <%= render ragas %>
   </tbody>
 </table>
+
+<% end %>
 
 <% content_for :footer_script_includes do %>
   <%= javascript_include_tag "ragas" %>
