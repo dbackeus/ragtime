@@ -28,7 +28,13 @@ zebra = ->
   $("tbody tr:visible:odd").addClass "odd"
   $("tbody tr:visible:even").addClass "even"
 
-$ ->
+initialiseSuggestion = ->
+  timeZoneOffset = (new Date().getTimezoneOffset() / 60) * -1
+  suggestionUrl = "/ragas/suggestion?time_zone_offset=#{timeZoneOffset}"
+
+  $("#raga-suggestion[data-needs-load]").load(suggestionUrl)
+
+initialiseRagasTable = ->
   table = $("#ragas").stupidtable()
 
   table.bind "aftertablesort", zebra
@@ -55,3 +61,8 @@ $ ->
     zebra()
 
   $("th.title").click()
+
+$ ->
+  initialiseSuggestion()
+  initialiseRagasTable()
+
