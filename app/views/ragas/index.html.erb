@@ -2,7 +2,7 @@
 
 <%= render partial: "suggestion" %>
 
-<% cache "all_ragas", skip_digest: true do %>
+<% cache "all_ragas#{params[:order]}#{params[:filter]}", skip_digest: true do %>
 
 <%= image_tag "swirl.png", class: "swirl" %>
 
