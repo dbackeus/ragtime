@@ -16,7 +16,7 @@ gem "sass-rails"
 gem "sitemap_generator"
 gem "stringex", github: "rsl/stringex"
 gem "uglifier"
-gem "video_info", github: "thibaudgg/video_info"
+gem "video_info"
 
 group :development do
   gem "quiet_assets"
