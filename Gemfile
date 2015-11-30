@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-ruby "2.2.2"
+ruby "2.2.3"
 
 gem "airbrake"
 gem "coffee-rails"
@@ -14,7 +14,7 @@ gem "newrelic_rpm"
 gem "rails"
 gem "sass-rails"
 gem "sitemap_generator"
-gem "stringex", github: "rsl/stringex"
+gem "stringex"
 gem "uglifier"
 gem "video_info"
 
