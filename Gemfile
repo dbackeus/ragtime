@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-ruby "2.2.3"
+ruby "2.3.1"
 
 gem "airbrake"
 gem "coffee-rails"
@@ -8,7 +8,7 @@ gem "dotenv-rails"
 gem "formtastic"
 gem "haml-rails"
 gem "jquery-rails"
-gem "mongoid"
+gem "mongoid", "5.1.6"
 gem "newrelic_moped"
 gem "newrelic_rpm"
 gem "rails"

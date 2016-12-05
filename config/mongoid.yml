@@ -3,14 +3,15 @@ development:
   clients:
     # Defines the default session. (required)
     default:
+      uri: "mongodb://heroku_6skv3gng:iqras85f5pn1hjpejqq6i08cb8@ds119588.mlab.com:19588/heroku_6skv3gng"
       # Defines the name of the default database that Mongoid can connect to.
       # (required).
-      database: raganow_development
+      # database: raganow_development
       # Provides the hosts the default session can connect to. Must be an array
       # of host:port pairs. (required)
-      hosts:
-        - localhost:27017
-      options:
+      # hosts:
+      #   - localhost:27017
+      # options:
         # Change whether the session persists in safe mode by default.
         # (default: false)
         # safe: false
@@ -82,4 +83,4 @@ test:
 production:
   clients:
     default:
-      uri: <%= ENV['MONGOHQ_URL'] %>
+      uri: <%= ENV['MONGODB_URI'] %>
