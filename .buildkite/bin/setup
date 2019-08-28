@@ -1,0 +1,6 @@
+set -ex
+
+# printenv
+
+rbenv install --skip-existing
+bundle install # --deployment

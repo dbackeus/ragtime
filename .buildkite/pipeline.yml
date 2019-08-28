@@ -1,4 +1,2 @@
 steps:
-  - command: "bin/setup"
-  - wait
-  - command: "bundle exec rspec"
+  - command: ".buildkite/bin/setup && .buildkite/bin/job-1"
