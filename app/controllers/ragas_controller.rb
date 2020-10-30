@@ -17,7 +17,7 @@ class RagasController < ApplicationController
   private
 
   def ragas
-    @ragas ||= Raga.where(params[:filter] || {}).order(@order => "ASC")
+    @ragas ||= Raga.where(params[:filter]&.permit! || {}).order(@order => "ASC")
   end
   helper_method :ragas
 end

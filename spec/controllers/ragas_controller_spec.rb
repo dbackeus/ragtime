@@ -6,10 +6,16 @@ describe RagasController do
   before { create_raga }
 
   describe "GET #index" do
-    before { get :index }
-
     it "should be successful" do
+      get :index
       response.should be_success
+    end
+
+    context "with a filter" do
+      it "should be successful" do
+        get :index, filter: { thaat: "Kafi" }
+        response.should be_success
+      end
     end
   end
 
