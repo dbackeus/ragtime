@@ -16,3 +16,9 @@
 .env.development*
 .env.test*
 .DS_Store
+
+# Byebug
+.byebug_history
+
+# For weird puma-dev workaround
+.powrc

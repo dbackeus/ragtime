@@ -13,18 +13,19 @@ gem "pg", "~> 0.21" # unlock when upgrading to Rails 5.2 (https://github.com/rai
 gem "rails", "~> 4.2.11.3"
 gem "sass-rails"
 gem "sitemap_generator"
+gem "sprockets", "~> 3.7.2"
 gem "stringex" # acts_as_url
 gem "uglifier"
 gem "video_info"
 
 group :development do
   gem "quiet_assets"
+  gem "web-console"
 end
 
 group :test, :development do
   gem "rspec-rails"
   gem "byebug"
-  gem "web-console"
 end
 
 group :production do
