@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-ruby "2.5.8"
+ruby "2.7.2"
 
 gem "airbrake"
 gem "bootsnap"
