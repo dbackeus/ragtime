@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-ruby "2.3.8"
+ruby "2.5.8"
 
 gem "airbrake"
 gem "coffee-rails"
@@ -10,7 +10,7 @@ gem "haml-rails"
 gem "jquery-rails"
 gem "newrelic_rpm"
 gem "pg", "~> 0.21" # unlock when upgrading to Rails 5.2 (https://github.com/rails/rails/issues/31673)
-gem "rails"
+gem "rails", "~> 4.2.11.3"
 gem "sass-rails"
 gem "sitemap_generator"
 gem "stringex" # acts_as_url
