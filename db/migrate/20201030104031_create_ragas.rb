@@ -21,27 +21,5 @@ class CreateRagas < ActiveRecord::Migration
 
     add_index :ragas, :title, unique: true
     add_index :ragas, :slug, unique: true
-
-    MongoidRaga.all.each do |raga|
-      attributes = raga.attributes.slice(
-        "title",
-        "ascending_scale",
-        "chakra",
-        "clips_count",
-        "descending_scale",
-        "description",
-        "drone",
-        "pakad",
-        "samvaadi",
-        "spotify_playlist_url",
-        "thaat",
-        "time",
-        "vaadi",
-        "created_at",
-        "updated_at",
-      ).merge("slug" => raga.url)
-
-      Raga.create!(attributes)
-    end
   end
 end

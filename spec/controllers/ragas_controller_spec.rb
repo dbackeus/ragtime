@@ -22,14 +22,15 @@ describe RagasController do
   end
 
   private
+
   def create_raga
     Raga.create!(
-        title: "Durga",
-        ascending_scale: "S - R - m - P - D - S",
-        descending_scale: "S - D - P - m - R - S",
-        chakra: "heart",
-        time: "6",
-        spotify_playlist_url: "spotify:user:duztdruid:playlist:4MTwYDX13ovb6Jci1Ssxa9",
-      )
+      title: "Durga",
+      ascending_scale: "S - R - m - P - D - S",
+      descending_scale: "S - D - P - m - R - S",
+      chakra: "heart",
+      time: "6",
+      spotify_playlist_url: "spotify:user:duztdruid:playlist:4MTwYDX13ovb6Jci1Ssxa9",
+    )
   end
 end

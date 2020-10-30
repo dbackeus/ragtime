@@ -12,19 +12,5 @@ class CreateClips < ActiveRecord::Migration
 
     add_index :clips, :raga_id
     add_foreign_key :clips, :ragas
-
-    # MongoidClip.includes(:raga).all.each do |clip|
-    #   attributes = clip.attributes.slice(
-    #     "title",
-    #     "url",
-    #     "embed_code",
-    #     "thumbnail_url",
-    #     "created_at",
-    #     "upated_at",
-    #   ).merge(
-    #     "raga_id" => Raga.find_by(slug: clip.raga.url).id,
-    #   )
-    #   Clip.create!(attributes)
-    # end
   end
 end

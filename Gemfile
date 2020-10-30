@@ -8,8 +8,6 @@ gem "dotenv-rails"
 gem "formtastic"
 gem "haml-rails"
 gem "jquery-rails"
-gem "mongoid", "5.1.6"
-gem "newrelic_moped"
 gem "newrelic_rpm"
 gem "pg", "~> 0.21" # unlock when upgrading to Rails 5.2 (https://github.com/rails/rails/issues/31673)
 gem "rails"
@@ -24,7 +22,6 @@ group :development do
 end
 
 group :test, :development do
-  gem "database_cleaner"
   gem "rspec-rails"
   gem "byebug"
   gem "web-console"

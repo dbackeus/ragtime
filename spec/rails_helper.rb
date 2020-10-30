@@ -18,24 +18,14 @@ require 'rspec/rails'
 # directory. Alternatively, in the individual `*_spec.rb` files, manually
 # require only the support files necessary.
 
-Mongo::Logger.logger.level = ::Logger::ERROR
-
 Dir[Rails.root.join('spec/support/**/*.rb')].each { |f| require f }
 
 RSpec.configure do |config|
+  config.use_transactional_examples = true
   config.infer_spec_type_from_file_location!
 
   config.before do
     I18n.locale = :en
     Time.zone = "UTC"
-    DatabaseCleaner.start
-  end
-
-  config.before(:suite) do
-    DatabaseCleaner.strategy = :truncation
-  end
-
-  config.after(:each) do
-    DatabaseCleaner.clean
   end
 end
