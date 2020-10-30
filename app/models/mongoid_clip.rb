@@ -1,5 +1,15 @@
-class Clip < ActiveRecord::Base
-  belongs_to :raga, touch: true, counter_cache: true
+class MongoidClip
+  include Mongoid::Document
+  include Mongoid::Timestamps
+
+  store_in collection: "clips"
+
+  belongs_to :raga, class_name: "MongoidRaga", touch: true, index: true, counter_cache: true
+
+  field :title, type: String
+  field :url, type: String
+  field :embed_code, type: String
+  field :thumbnail_url, type: String
 
   validates_presence_of :raga
   validates_presence_of :url
@@ -20,13 +30,12 @@ class Clip < ActiveRecord::Base
   end
 
   private
-
   def validate_info
     errors.add(:url, :invalid) unless info
   end
 
   def set_attributes_from_info
-    self.title = self.title.presence || info.title
+    self.title = info.title unless self.title.present?
     self.thumbnail_url = info.thumbnail_medium
     self.embed_code = info.embed_code(iframe_attributes: { width: 425, height: 344 })
   end

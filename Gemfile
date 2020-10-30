@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-ruby "2.3.1"
+ruby "2.3.8"
 
 gem "airbrake"
 gem "coffee-rails"
@@ -11,10 +11,11 @@ gem "jquery-rails"
 gem "mongoid", "5.1.6"
 gem "newrelic_moped"
 gem "newrelic_rpm"
+gem "pg", "~> 0.21" # unlock when upgrading to Rails 5.2 (https://github.com/rails/rails/issues/31673)
 gem "rails"
 gem "sass-rails"
 gem "sitemap_generator"
-gem "stringex"
+gem "stringex" # acts_as_url
 gem "uglifier"
 gem "video_info"
 

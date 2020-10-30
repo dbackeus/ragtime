@@ -4,7 +4,7 @@ class RagasController < ApplicationController
   end
 
   def show
-    @raga = Raga.find_by(url: params[:id])
+    @raga = Raga.find_by(slug: params[:id])
     @clip = Clip.new(raga: @raga)
   end
 
@@ -17,8 +17,7 @@ class RagasController < ApplicationController
   private
 
   def ragas
-    conditions = params[:filter] || {}
-    @ragas = Raga.where(conditions).order_by("#{@order} ASC")
+    @ragas ||= Raga.where(params[:filter] || {}).order(@order => "ASC")
   end
   helper_method :ragas
 end

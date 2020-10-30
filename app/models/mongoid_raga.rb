@@ -1,14 +1,37 @@
-class Raga < ActiveRecord::Base
-  has_many :clips, dependent: :delete_all
+class MongoidRaga
+  include Mongoid::Document
+  include Mongoid::Timestamps
+
+  store_in collection: "ragas"
+
+  has_many :clips
+  field :clips_count, type: Integer, default: 0
+
+  field :title, type: String
+  field :description, type: String
+  field :ascending_scale, type: String
+  field :descending_scale, type: String
+  field :pakad, type: String
+  field :drone, type: String
+  field :time, type: String
+  field :chakra, type: String
+  field :spotify_playlist_url, type: String
+  field :url, type: String
+  field :thaat, type: String
+  field :vaadi, type: String
+  field :samvaadi, type: String
 
   validates_presence_of :title
   validates_presence_of :ascending_scale
   validates_presence_of :descending_scale
-  validates_uniqueness_of :title, case_sensitive: false
 
-  acts_as_url :title, sync_url: true, url_attribute: "slug"
+  validates_uniqueness_of :title, :case_sensitive => false
 
-  scope :playable, -> { where("spotify_playlist_url IS NOT NULL OR clips_count > 0") }
+  acts_as_url :title, :sync_url => true
+
+  def self.playable
+    self.or({:spotify_playlist_url.ne => nil}, {:clips_count.gt => 0})
+  end
 
   def self.time_options
     ActiveSupport::OrderedHash[
@@ -56,7 +79,7 @@ class Raga < ActiveRecord::Base
   end
 
   def to_param
-    slug
+    url
   end
 
   def pretty_time
