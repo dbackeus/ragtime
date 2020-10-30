@@ -19,13 +19,6 @@
 <%= attribute_for @raga, :pakad if @raga.pakad.present? %>
 <%= attribute_for @raga, :drone if @raga.drone.present? %>
 
-<div class="claviature">
-  <%= swf_tag "claviature.swf", width: "550", height: "150", flashvars: {
-    ascending: @raga.ascending_scale,
-    descending: @raga.descending_scale
-  } %>
-</div>
-
 <% if @raga.spotify_playlist_url %>
   <iframe class="spotify-playlist" height="480" src="https://embed.spotify.com/?uri=<%= @raga.spotify_playlist_url %>" width="332"></iframe>
 <% end %>

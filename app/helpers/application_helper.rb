@@ -32,24 +32,6 @@ module ApplicationHelper
     end
   end
 
-  def swf_tag(filename, width: "100%", height: "100%", flashvars: {})
-    flashvars = Rack::Utils.build_query flashvars
-    swf_path = asset_path(filename)
-
-    <<-HTML.html_safe
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="#{width}" height="#{height}" align="middle">
-  <param name="movie" value="#{swf_path}"/>
-  <param name="FlashVars" value="#{flashvars}" />
-  <!--[if !IE]>-->
-  <object type="application/x-shockwave-flash" data="#{swf_path}" width="#{width}" height="#{height}">
-    <param name="movie" value="#{swf_path}"/>
-    <param name="FlashVars" value="#{flashvars}" />
-  </object>
-  <!--<![endif]-->
-</object>
-    HTML
-  end
-
   private
   def prahar_and_hours
     ActiveSupport::OrderedHash[
