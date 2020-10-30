@@ -8,22 +8,21 @@ describe RagasController do
   describe "GET #index" do
     it "should be successful" do
       get :index
-      response.should be_success
+      response.status.should == 200
     end
 
     context "with a filter" do
       it "should be successful" do
-        get :index, filter: { thaat: "Kafi" }
-        response.should be_success
+        get :index, params: { filter: { thaat: "Kafi" } }
+        response.status.should == 200
       end
     end
   end
 
   describe "GET #show" do
-    before { get :show, id: Raga.first.to_param }
-
     it "should be successfull" do
-      response.should be_success
+      get :show, params: { id: Raga.first.to_param }
+      response.status.should == 200
     end
   end
 
