@@ -24,6 +24,12 @@ describe RagasController do
       get :show, params: { id: Raga.first.to_param }
       response.status.should == 200
     end
+
+    it "should raise ActiveRecord::RecordNotFound for a non existing raga" do
+      expect { get :show, params: { id: "non-existing" } }
+        .to raise_error(ActiveRecord::RecordNotFound)
+
+    end
   end
 
   private

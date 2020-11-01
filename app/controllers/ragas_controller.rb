@@ -4,7 +4,7 @@ class RagasController < ApplicationController
   end
 
   def show
-    @raga = Raga.find_by(slug: params[:id])
+    @raga = Raga.find_by!(slug: params[:id])
     @clip = Clip.new(raga: @raga)
   end
 
